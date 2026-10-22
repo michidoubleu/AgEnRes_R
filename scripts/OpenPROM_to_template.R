@@ -76,10 +76,10 @@ setnames(rules, c("pattern", "Variable", "item", "output_unit", "status", "note"
 # OAS and SSA are aggregates in both models whose composition may differ.
 REGION_SHEET <- "regions"
 
-# Source scenario -> Scenario (the model's own scenario name).
+# Source scenario -> Scenario. The baseline is spelled BASE as in GLOBIOM (project lead, 2026-10-22).
 scenario_map <- data.table(
   source_scenario = "BASELINE",
-  Scenario        = "BASELINE"
+  Scenario        = "BASE"
 )
 
 # New-code definitions (only codes actually used and not already GLOBIOM codes
@@ -298,7 +298,7 @@ readme <- c(
   md_table(var_cnt),
   "",
   "- Note: OpenPROM's sector is 'Agriculture, Fishing, Forestry'; fishing and forestry are included in all AGR values.",
-  "- Scenario `BASELINE` (the model's own scenario name).",
+  "- Scenario `BASELINE` -> `BASE` (GLOBIOM spelling of the baseline).",
   sprintf("- Regions are kept as reported. Codes that GLOBIOM does not use are proposed additions (%s). `OAS` and `SSA` exist in both models but are aggregates whose composition may differ; `World` is GLOBIOM's glossary code for the world (the comprehensive file uses `WLD`).",
           paste(reg_new, collapse = ", ")),
   "",

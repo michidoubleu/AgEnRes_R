@@ -50,10 +50,10 @@ REGION_REGEX <- "^AgriPolis_r[0-9]+_f[0-9]+_.+$"
 FIRST_YEAR <- 2020L
 YEAR_REGEX <- "^[0-9]{4}$"   # annual years between GLOBIOM's 10-year steps
 
-# Source scenario -> template Scenario (the model's own scenario name).
+# Source scenario -> template Scenario. Reference run named BASE-<run label>, in GLOBIOM's spelling (BASE, EPS-S1, ...; project lead, 2026-10-22).
 scenario_map <- data.table(
   source_scenario = "REF Oct 15",
-  Scenario        = "REF Oct 15"
+  Scenario        = "BASE-Oct 15"
 )
 
 # Columns of farm_production.dat holding land-use activity levels in ha.
@@ -297,7 +297,7 @@ readme <- c(
   "",
   "- **Region** = `AgriPolis_r<replication>_f<farm_ID>_<farm_name>` (e.g. `AgriPolis_r0_f0_CROP-FIF1`). User-authorised farm-level ID, not a template region code; the validator accepts it only for this model and reports it as a warning. Aggregation to a real region is left to the AgriPolis team.",
   sprintf("- **Year** = %d + AgriPolis `iteration` (iteration 0 = %d, one-year time steps, so iterations %s map to %s), as set by the project lead; the source files give no calendar years. Years between GLOBIOM's 10-year steps are accepted for this model and reported as a warning.", FIRST_YEAR, FIRST_YEAR, paste(range(as.integer(prod$iteration)), collapse = "-"), paste(FIRST_YEAR + range(as.integer(prod$iteration)), collapse = "-")),
-  sprintf("- **Model** `%s`; **Scenario**: %s (the model's own scenario name; `REF` = reference run).", MODEL,
+  sprintf("- **Model** `%s`; **Scenario**: %s (reference run `REF` renamed `BASE-...` to match GLOBIOM's `BASE`).", MODEL,
           paste(scenario_map[, sprintf("`%s` -> `%s`", source_scenario, Scenario)], collapse = "; ")),
   "",
   "## 4. Transformations",

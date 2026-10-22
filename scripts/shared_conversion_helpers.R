@@ -14,7 +14,7 @@
 #     and is written to proposed_glossary_additions.csv for review.
 #   * VALUES: never converted. Only values that appear in the model's original
 #     reporting are written, with the original unit label.
-#   * Model = model name; Scenario = the model's own scenario name. The template
+#   * Model = model name; Scenario = the model's scenario name, baseline spelled BASE. The template
 #     has no SSP / RCP columns (partner models follow GLOBIOM's assumptions).
 #   * Crops of farm models are always identified in Item (glossary crop code,
 #     or a new code from NEW_CROP_CODES). Models without crop detail use the
@@ -421,7 +421,7 @@ readme_template_note <- function() c(
   "- Columns fixed by `inputs/template/20260213_GLOBIOM_comprehensive.csv`: `Model, Scenario, Region, Item, Variable, Year, Unit, Value`; comma-separated, CRLF line endings, fields quoted only if they contain a comma.",
   "- Codes follow the GLOBIOM glossary / comprehensive file where they fit; otherwise new codes are proposed (section 'Proposed glossary additions').",
   "- **Values are not converted**: every value is taken unchanged from the model's original reporting, with the original unit label.",
-  "- `Model` = model name; `Scenario` = the model's own scenario name. The template has no SSP / RCP columns; the partner models follow GLOBIOM's assumptions (glossary: SSP2, RCP2.6) without reporting them."
+  "- `Model` = model name; `Scenario` = the model's scenario name, with the baseline spelled `BASE` as in GLOBIOM. The template has no SSP / RCP columns; the partner models follow GLOBIOM's assumptions (glossary: SSP2, RCP2.6) without reporting them."
 )
 
 readme_validation_note <- function() paste(

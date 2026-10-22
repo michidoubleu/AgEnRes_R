@@ -43,10 +43,10 @@ OUT_CSV     <- "FarmDyn_GLOBIOM_comprehensive.csv"
 # national totals.
 REGION <- "DEU"
 
-# Source scenario name -> Scenario (the model's own scenario names).
+# Source scenario name -> Scenario. The baseline is spelled BASE as in GLOBIOM (project lead, 2026-10-22).
 scenario_map <- data.table(
   source_scenario = c("base", "optimized combine"),
-  Scenario        = c("base", "optimized_combine")
+  Scenario        = c("BASE", "optimized_combine")
 )
 
 # FarmDyn crop -> crop code in Item: glossary code where one exists, otherwise
@@ -358,7 +358,7 @@ readme <- c(
   "",
   "### Scenarios and region",
   "",
-  "- `base` -> `base`; `optimized combine` -> `optimized_combine`.",
+  "- `base` -> `BASE` (GLOBIOM spelling); `optimized combine` -> `optimized_combine`.",
   sprintf("- Region `%s`: the single farm `DEarable_k2` is reported under Germany (agreed with the project lead). Values are farm-level, **not** national totals.", REGION),
   "",
   "## 4. Transformations",
