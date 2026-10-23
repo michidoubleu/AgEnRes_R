@@ -17,8 +17,13 @@ exception: it is read from its output GDX and reported in the AgMIP
 conventions of the comprehensive file (see below). Every baseline is called
 `BASE`.
 
-Inputs and outputs are not versioned (`inputs/`, `outputs/` are git-ignored).
-Every output folder has its own `README.md` and `mapping_log.csv`.
+Model inputs and outputs are not versioned (`inputs/`, `outputs/` are
+git-ignored). Reference data that is part of the method is versioned in
+`data/`: the GLOBIOM glossary (`data/template/GLOBIOM_glossary.xlsx`) and the
+exogenous GLOBIOM cost data (`data/GLOBIOM/`). The template file
+`inputs/template/20260213_GLOBIOM_comprehensive.csv` (about 100 MB) is not
+versioned and has to be provided. Every output folder has its own
+`README.md` and `mapping_log.csv`.
 
 ## Usage
 
@@ -42,9 +47,10 @@ validation and writing code is in `scripts/shared_conversion_helpers.R`.
   (symbols `OUTPUT_AG_REG`, `OUTPUT`, `REGION_AG_MAP`), 48 regions (countries
   and aggregates), 2000–2050 in 10-year steps, scenarios `BASE` and `EPS-S1`
   to `EPS-S3` (GLOBIOM's second scenario dimension).
-- Exogenous inputs, also in `inputs/GLOBIOM/`: the FADN crop production cost
-  add-on `FADN_costs/FADN_costs_country_USD2000_ha.csv` (with its
-  `README.txt`) and the cost per ha file `LAMASUS_costs_country_20260420.csv`.
+- Exogenous inputs, versioned in `data/GLOBIOM/`: the FADN crop production
+  cost add-on `FADN_costs/FADN_costs_country_USD2000_ha.csv` (with its
+  `README.txt` and dictionaries) and the cost per ha file
+  `LAMASUS_costs_country_20260420.csv`. Only the GDX has to be provided.
 - Translated (`scripts/GLOBIOM_to_template.R`, `GLOBIOM_processing.R`,
   `GLOBIOM_econ_calc.R`), about 0.99 M rows, in the AgMIP conventions of the
   comprehensive file: dry-matter series as `<VAR>_dm`, AgMIP units, `WLD`,

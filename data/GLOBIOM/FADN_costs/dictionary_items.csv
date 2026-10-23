@@ -1,0 +1,529 @@
+Item,crop,crop_name,mgmt,mgmt_name,cost_item,fadn_code,changes_in_scenarios,n_regions
+Barl|HI|Contract work,Barl,Barley,HI,High input (rainfed),Contract work,ICNTR_V,FALSE,27
+Barl|HI|Crop protection,Barl,Barley,HI,High input (rainfed),Crop protection,IPROT_V,FALSE,27
+Barl|HI|Electricity,Barl,Barley,HI,High input (rainfed),Electricity,IELE_V,TRUE,27
+Barl|HI|Fertiliser,Barl,Barley,HI,High input (rainfed),Fertiliser,IFERT_V,TRUE,27
+Barl|HI|Heating fuels,Barl,Barley,HI,High input (rainfed),Heating fuels,IHFULS_V,TRUE,27
+Barl|HI|Labour,Barl,Barley,HI,High input (rainfed),Labour,LABOR_VALUE,FALSE,27
+Barl|HI|Motor fuels,Barl,Barley,HI,High input (rainfed),Motor fuels,IFULS_V,TRUE,27
+Barl|HI|Other crop costs,Barl,Barley,HI,High input (rainfed),Other crop costs,ICRPOTH_V,FALSE,27
+Barl|HI|Seeds,Barl,Barley,HI,High input (rainfed),Seeds,ISED_V,FALSE,27
+Barl|HI|Total,Barl,Barley,HI,High input (rainfed),Total,sum of all items,TRUE,27
+Barl|HI|Water,Barl,Barley,HI,High input (rainfed),Water,IWATR_V,FALSE,27
+Barl|IR|Contract work,Barl,Barley,IR,Irrigated (high input),Contract work,ICNTR_V,FALSE,27
+Barl|IR|Crop protection,Barl,Barley,IR,Irrigated (high input),Crop protection,IPROT_V,FALSE,27
+Barl|IR|Electricity,Barl,Barley,IR,Irrigated (high input),Electricity,IELE_V,TRUE,27
+Barl|IR|Fertiliser,Barl,Barley,IR,Irrigated (high input),Fertiliser,IFERT_V,TRUE,27
+Barl|IR|Heating fuels,Barl,Barley,IR,Irrigated (high input),Heating fuels,IHFULS_V,TRUE,27
+Barl|IR|Labour,Barl,Barley,IR,Irrigated (high input),Labour,LABOR_VALUE,FALSE,27
+Barl|IR|Motor fuels,Barl,Barley,IR,Irrigated (high input),Motor fuels,IFULS_V,TRUE,27
+Barl|IR|Other crop costs,Barl,Barley,IR,Irrigated (high input),Other crop costs,ICRPOTH_V,FALSE,27
+Barl|IR|Seeds,Barl,Barley,IR,Irrigated (high input),Seeds,ISED_V,FALSE,27
+Barl|IR|Total,Barl,Barley,IR,Irrigated (high input),Total,sum of all items,TRUE,27
+Barl|IR|Water,Barl,Barley,IR,Irrigated (high input),Water,IWATR_V,FALSE,27
+Barl|LI|Contract work,Barl,Barley,LI,Low input (rainfed),Contract work,ICNTR_V,FALSE,27
+Barl|LI|Crop protection,Barl,Barley,LI,Low input (rainfed),Crop protection,IPROT_V,FALSE,27
+Barl|LI|Electricity,Barl,Barley,LI,Low input (rainfed),Electricity,IELE_V,TRUE,27
+Barl|LI|Fertiliser,Barl,Barley,LI,Low input (rainfed),Fertiliser,IFERT_V,TRUE,27
+Barl|LI|Heating fuels,Barl,Barley,LI,Low input (rainfed),Heating fuels,IHFULS_V,TRUE,27
+Barl|LI|Labour,Barl,Barley,LI,Low input (rainfed),Labour,LABOR_VALUE,FALSE,27
+Barl|LI|Motor fuels,Barl,Barley,LI,Low input (rainfed),Motor fuels,IFULS_V,TRUE,27
+Barl|LI|Other crop costs,Barl,Barley,LI,Low input (rainfed),Other crop costs,ICRPOTH_V,FALSE,27
+Barl|LI|Seeds,Barl,Barley,LI,Low input (rainfed),Seeds,ISED_V,FALSE,27
+Barl|LI|Total,Barl,Barley,LI,Low input (rainfed),Total,sum of all items,TRUE,27
+Barl|LI|Water,Barl,Barley,LI,Low input (rainfed),Water,IWATR_V,FALSE,27
+Barl|SS|Contract work,Barl,Barley,SS,Subsistence,Contract work,ICNTR_V,FALSE,27
+Barl|SS|Crop protection,Barl,Barley,SS,Subsistence,Crop protection,IPROT_V,FALSE,27
+Barl|SS|Electricity,Barl,Barley,SS,Subsistence,Electricity,IELE_V,TRUE,27
+Barl|SS|Fertiliser,Barl,Barley,SS,Subsistence,Fertiliser,IFERT_V,TRUE,27
+Barl|SS|Heating fuels,Barl,Barley,SS,Subsistence,Heating fuels,IHFULS_V,TRUE,27
+Barl|SS|Labour,Barl,Barley,SS,Subsistence,Labour,LABOR_VALUE,FALSE,27
+Barl|SS|Motor fuels,Barl,Barley,SS,Subsistence,Motor fuels,IFULS_V,TRUE,27
+Barl|SS|Other crop costs,Barl,Barley,SS,Subsistence,Other crop costs,ICRPOTH_V,FALSE,27
+Barl|SS|Seeds,Barl,Barley,SS,Subsistence,Seeds,ISED_V,FALSE,27
+Barl|SS|Total,Barl,Barley,SS,Subsistence,Total,sum of all items,TRUE,27
+Barl|SS|Water,Barl,Barley,SS,Subsistence,Water,IWATR_V,FALSE,27
+BeaD|HI|Contract work,BeaD,Dry beans,HI,High input (rainfed),Contract work,ICNTR_V,FALSE,24
+BeaD|HI|Crop protection,BeaD,Dry beans,HI,High input (rainfed),Crop protection,IPROT_V,FALSE,24
+BeaD|HI|Electricity,BeaD,Dry beans,HI,High input (rainfed),Electricity,IELE_V,TRUE,24
+BeaD|HI|Fertiliser,BeaD,Dry beans,HI,High input (rainfed),Fertiliser,IFERT_V,TRUE,24
+BeaD|HI|Heating fuels,BeaD,Dry beans,HI,High input (rainfed),Heating fuels,IHFULS_V,TRUE,24
+BeaD|HI|Labour,BeaD,Dry beans,HI,High input (rainfed),Labour,LABOR_VALUE,FALSE,24
+BeaD|HI|Motor fuels,BeaD,Dry beans,HI,High input (rainfed),Motor fuels,IFULS_V,TRUE,24
+BeaD|HI|Other crop costs,BeaD,Dry beans,HI,High input (rainfed),Other crop costs,ICRPOTH_V,FALSE,24
+BeaD|HI|Seeds,BeaD,Dry beans,HI,High input (rainfed),Seeds,ISED_V,FALSE,24
+BeaD|HI|Total,BeaD,Dry beans,HI,High input (rainfed),Total,sum of all items,TRUE,24
+BeaD|HI|Water,BeaD,Dry beans,HI,High input (rainfed),Water,IWATR_V,FALSE,24
+BeaD|IR|Contract work,BeaD,Dry beans,IR,Irrigated (high input),Contract work,ICNTR_V,FALSE,24
+BeaD|IR|Crop protection,BeaD,Dry beans,IR,Irrigated (high input),Crop protection,IPROT_V,FALSE,24
+BeaD|IR|Electricity,BeaD,Dry beans,IR,Irrigated (high input),Electricity,IELE_V,TRUE,24
+BeaD|IR|Fertiliser,BeaD,Dry beans,IR,Irrigated (high input),Fertiliser,IFERT_V,TRUE,24
+BeaD|IR|Heating fuels,BeaD,Dry beans,IR,Irrigated (high input),Heating fuels,IHFULS_V,TRUE,24
+BeaD|IR|Labour,BeaD,Dry beans,IR,Irrigated (high input),Labour,LABOR_VALUE,FALSE,24
+BeaD|IR|Motor fuels,BeaD,Dry beans,IR,Irrigated (high input),Motor fuels,IFULS_V,TRUE,24
+BeaD|IR|Other crop costs,BeaD,Dry beans,IR,Irrigated (high input),Other crop costs,ICRPOTH_V,FALSE,24
+BeaD|IR|Seeds,BeaD,Dry beans,IR,Irrigated (high input),Seeds,ISED_V,FALSE,24
+BeaD|IR|Total,BeaD,Dry beans,IR,Irrigated (high input),Total,sum of all items,TRUE,24
+BeaD|IR|Water,BeaD,Dry beans,IR,Irrigated (high input),Water,IWATR_V,FALSE,24
+BeaD|LI|Contract work,BeaD,Dry beans,LI,Low input (rainfed),Contract work,ICNTR_V,FALSE,25
+BeaD|LI|Crop protection,BeaD,Dry beans,LI,Low input (rainfed),Crop protection,IPROT_V,FALSE,25
+BeaD|LI|Electricity,BeaD,Dry beans,LI,Low input (rainfed),Electricity,IELE_V,TRUE,25
+BeaD|LI|Fertiliser,BeaD,Dry beans,LI,Low input (rainfed),Fertiliser,IFERT_V,TRUE,25
+BeaD|LI|Heating fuels,BeaD,Dry beans,LI,Low input (rainfed),Heating fuels,IHFULS_V,TRUE,25
+BeaD|LI|Labour,BeaD,Dry beans,LI,Low input (rainfed),Labour,LABOR_VALUE,FALSE,25
+BeaD|LI|Motor fuels,BeaD,Dry beans,LI,Low input (rainfed),Motor fuels,IFULS_V,TRUE,25
+BeaD|LI|Other crop costs,BeaD,Dry beans,LI,Low input (rainfed),Other crop costs,ICRPOTH_V,FALSE,25
+BeaD|LI|Seeds,BeaD,Dry beans,LI,Low input (rainfed),Seeds,ISED_V,FALSE,25
+BeaD|LI|Total,BeaD,Dry beans,LI,Low input (rainfed),Total,sum of all items,TRUE,25
+BeaD|LI|Water,BeaD,Dry beans,LI,Low input (rainfed),Water,IWATR_V,FALSE,25
+BeaD|SS|Contract work,BeaD,Dry beans,SS,Subsistence,Contract work,ICNTR_V,FALSE,25
+BeaD|SS|Crop protection,BeaD,Dry beans,SS,Subsistence,Crop protection,IPROT_V,FALSE,25
+BeaD|SS|Electricity,BeaD,Dry beans,SS,Subsistence,Electricity,IELE_V,TRUE,25
+BeaD|SS|Fertiliser,BeaD,Dry beans,SS,Subsistence,Fertiliser,IFERT_V,TRUE,25
+BeaD|SS|Heating fuels,BeaD,Dry beans,SS,Subsistence,Heating fuels,IHFULS_V,TRUE,25
+BeaD|SS|Labour,BeaD,Dry beans,SS,Subsistence,Labour,LABOR_VALUE,FALSE,25
+BeaD|SS|Motor fuels,BeaD,Dry beans,SS,Subsistence,Motor fuels,IFULS_V,TRUE,25
+BeaD|SS|Other crop costs,BeaD,Dry beans,SS,Subsistence,Other crop costs,ICRPOTH_V,FALSE,25
+BeaD|SS|Seeds,BeaD,Dry beans,SS,Subsistence,Seeds,ISED_V,FALSE,25
+BeaD|SS|Total,BeaD,Dry beans,SS,Subsistence,Total,sum of all items,TRUE,25
+BeaD|SS|Water,BeaD,Dry beans,SS,Subsistence,Water,IWATR_V,FALSE,25
+ChkP|HI|Contract work,ChkP,Chickpea,HI,High input (rainfed),Contract work,ICNTR_V,FALSE,2
+ChkP|HI|Crop protection,ChkP,Chickpea,HI,High input (rainfed),Crop protection,IPROT_V,FALSE,2
+ChkP|HI|Electricity,ChkP,Chickpea,HI,High input (rainfed),Electricity,IELE_V,TRUE,2
+ChkP|HI|Fertiliser,ChkP,Chickpea,HI,High input (rainfed),Fertiliser,IFERT_V,TRUE,2
+ChkP|HI|Heating fuels,ChkP,Chickpea,HI,High input (rainfed),Heating fuels,IHFULS_V,TRUE,2
+ChkP|HI|Labour,ChkP,Chickpea,HI,High input (rainfed),Labour,LABOR_VALUE,FALSE,2
+ChkP|HI|Motor fuels,ChkP,Chickpea,HI,High input (rainfed),Motor fuels,IFULS_V,TRUE,2
+ChkP|HI|Other crop costs,ChkP,Chickpea,HI,High input (rainfed),Other crop costs,ICRPOTH_V,FALSE,2
+ChkP|HI|Seeds,ChkP,Chickpea,HI,High input (rainfed),Seeds,ISED_V,FALSE,2
+ChkP|HI|Total,ChkP,Chickpea,HI,High input (rainfed),Total,sum of all items,TRUE,2
+ChkP|HI|Water,ChkP,Chickpea,HI,High input (rainfed),Water,IWATR_V,FALSE,2
+ChkP|IR|Contract work,ChkP,Chickpea,IR,Irrigated (high input),Contract work,ICNTR_V,FALSE,2
+ChkP|IR|Crop protection,ChkP,Chickpea,IR,Irrigated (high input),Crop protection,IPROT_V,FALSE,2
+ChkP|IR|Electricity,ChkP,Chickpea,IR,Irrigated (high input),Electricity,IELE_V,TRUE,2
+ChkP|IR|Fertiliser,ChkP,Chickpea,IR,Irrigated (high input),Fertiliser,IFERT_V,TRUE,2
+ChkP|IR|Heating fuels,ChkP,Chickpea,IR,Irrigated (high input),Heating fuels,IHFULS_V,TRUE,2
+ChkP|IR|Labour,ChkP,Chickpea,IR,Irrigated (high input),Labour,LABOR_VALUE,FALSE,2
+ChkP|IR|Motor fuels,ChkP,Chickpea,IR,Irrigated (high input),Motor fuels,IFULS_V,TRUE,2
+ChkP|IR|Other crop costs,ChkP,Chickpea,IR,Irrigated (high input),Other crop costs,ICRPOTH_V,FALSE,2
+ChkP|IR|Seeds,ChkP,Chickpea,IR,Irrigated (high input),Seeds,ISED_V,FALSE,2
+ChkP|IR|Total,ChkP,Chickpea,IR,Irrigated (high input),Total,sum of all items,TRUE,2
+ChkP|IR|Water,ChkP,Chickpea,IR,Irrigated (high input),Water,IWATR_V,FALSE,2
+ChkP|LI|Contract work,ChkP,Chickpea,LI,Low input (rainfed),Contract work,ICNTR_V,FALSE,6
+ChkP|LI|Crop protection,ChkP,Chickpea,LI,Low input (rainfed),Crop protection,IPROT_V,FALSE,6
+ChkP|LI|Electricity,ChkP,Chickpea,LI,Low input (rainfed),Electricity,IELE_V,TRUE,6
+ChkP|LI|Fertiliser,ChkP,Chickpea,LI,Low input (rainfed),Fertiliser,IFERT_V,TRUE,6
+ChkP|LI|Heating fuels,ChkP,Chickpea,LI,Low input (rainfed),Heating fuels,IHFULS_V,TRUE,6
+ChkP|LI|Labour,ChkP,Chickpea,LI,Low input (rainfed),Labour,LABOR_VALUE,FALSE,6
+ChkP|LI|Motor fuels,ChkP,Chickpea,LI,Low input (rainfed),Motor fuels,IFULS_V,TRUE,6
+ChkP|LI|Other crop costs,ChkP,Chickpea,LI,Low input (rainfed),Other crop costs,ICRPOTH_V,FALSE,6
+ChkP|LI|Seeds,ChkP,Chickpea,LI,Low input (rainfed),Seeds,ISED_V,FALSE,6
+ChkP|LI|Total,ChkP,Chickpea,LI,Low input (rainfed),Total,sum of all items,TRUE,6
+ChkP|LI|Water,ChkP,Chickpea,LI,Low input (rainfed),Water,IWATR_V,FALSE,6
+ChkP|SS|Contract work,ChkP,Chickpea,SS,Subsistence,Contract work,ICNTR_V,FALSE,6
+ChkP|SS|Crop protection,ChkP,Chickpea,SS,Subsistence,Crop protection,IPROT_V,FALSE,6
+ChkP|SS|Electricity,ChkP,Chickpea,SS,Subsistence,Electricity,IELE_V,TRUE,6
+ChkP|SS|Fertiliser,ChkP,Chickpea,SS,Subsistence,Fertiliser,IFERT_V,TRUE,6
+ChkP|SS|Heating fuels,ChkP,Chickpea,SS,Subsistence,Heating fuels,IHFULS_V,TRUE,6
+ChkP|SS|Labour,ChkP,Chickpea,SS,Subsistence,Labour,LABOR_VALUE,FALSE,6
+ChkP|SS|Motor fuels,ChkP,Chickpea,SS,Subsistence,Motor fuels,IFULS_V,TRUE,6
+ChkP|SS|Other crop costs,ChkP,Chickpea,SS,Subsistence,Other crop costs,ICRPOTH_V,FALSE,6
+ChkP|SS|Seeds,ChkP,Chickpea,SS,Subsistence,Seeds,ISED_V,FALSE,6
+ChkP|SS|Total,ChkP,Chickpea,SS,Subsistence,Total,sum of all items,TRUE,6
+ChkP|SS|Water,ChkP,Chickpea,SS,Subsistence,Water,IWATR_V,FALSE,6
+Corn|HI|Contract work,Corn,Maize (grain),HI,High input (rainfed),Contract work,ICNTR_V,FALSE,24
+Corn|HI|Crop protection,Corn,Maize (grain),HI,High input (rainfed),Crop protection,IPROT_V,FALSE,24
+Corn|HI|Electricity,Corn,Maize (grain),HI,High input (rainfed),Electricity,IELE_V,TRUE,24
+Corn|HI|Fertiliser,Corn,Maize (grain),HI,High input (rainfed),Fertiliser,IFERT_V,TRUE,24
+Corn|HI|Heating fuels,Corn,Maize (grain),HI,High input (rainfed),Heating fuels,IHFULS_V,TRUE,24
+Corn|HI|Labour,Corn,Maize (grain),HI,High input (rainfed),Labour,LABOR_VALUE,FALSE,24
+Corn|HI|Motor fuels,Corn,Maize (grain),HI,High input (rainfed),Motor fuels,IFULS_V,TRUE,24
+Corn|HI|Other crop costs,Corn,Maize (grain),HI,High input (rainfed),Other crop costs,ICRPOTH_V,FALSE,24
+Corn|HI|Seeds,Corn,Maize (grain),HI,High input (rainfed),Seeds,ISED_V,FALSE,24
+Corn|HI|Total,Corn,Maize (grain),HI,High input (rainfed),Total,sum of all items,TRUE,24
+Corn|HI|Water,Corn,Maize (grain),HI,High input (rainfed),Water,IWATR_V,FALSE,24
+Corn|IR|Contract work,Corn,Maize (grain),IR,Irrigated (high input),Contract work,ICNTR_V,FALSE,24
+Corn|IR|Crop protection,Corn,Maize (grain),IR,Irrigated (high input),Crop protection,IPROT_V,FALSE,24
+Corn|IR|Electricity,Corn,Maize (grain),IR,Irrigated (high input),Electricity,IELE_V,TRUE,24
+Corn|IR|Fertiliser,Corn,Maize (grain),IR,Irrigated (high input),Fertiliser,IFERT_V,TRUE,24
+Corn|IR|Heating fuels,Corn,Maize (grain),IR,Irrigated (high input),Heating fuels,IHFULS_V,TRUE,24
+Corn|IR|Labour,Corn,Maize (grain),IR,Irrigated (high input),Labour,LABOR_VALUE,FALSE,24
+Corn|IR|Motor fuels,Corn,Maize (grain),IR,Irrigated (high input),Motor fuels,IFULS_V,TRUE,24
+Corn|IR|Other crop costs,Corn,Maize (grain),IR,Irrigated (high input),Other crop costs,ICRPOTH_V,FALSE,24
+Corn|IR|Seeds,Corn,Maize (grain),IR,Irrigated (high input),Seeds,ISED_V,FALSE,24
+Corn|IR|Total,Corn,Maize (grain),IR,Irrigated (high input),Total,sum of all items,TRUE,24
+Corn|IR|Water,Corn,Maize (grain),IR,Irrigated (high input),Water,IWATR_V,FALSE,24
+Corn|LI|Contract work,Corn,Maize (grain),LI,Low input (rainfed),Contract work,ICNTR_V,FALSE,24
+Corn|LI|Crop protection,Corn,Maize (grain),LI,Low input (rainfed),Crop protection,IPROT_V,FALSE,24
+Corn|LI|Electricity,Corn,Maize (grain),LI,Low input (rainfed),Electricity,IELE_V,TRUE,24
+Corn|LI|Fertiliser,Corn,Maize (grain),LI,Low input (rainfed),Fertiliser,IFERT_V,TRUE,24
+Corn|LI|Heating fuels,Corn,Maize (grain),LI,Low input (rainfed),Heating fuels,IHFULS_V,TRUE,24
+Corn|LI|Labour,Corn,Maize (grain),LI,Low input (rainfed),Labour,LABOR_VALUE,FALSE,24
+Corn|LI|Motor fuels,Corn,Maize (grain),LI,Low input (rainfed),Motor fuels,IFULS_V,TRUE,24
+Corn|LI|Other crop costs,Corn,Maize (grain),LI,Low input (rainfed),Other crop costs,ICRPOTH_V,FALSE,24
+Corn|LI|Seeds,Corn,Maize (grain),LI,Low input (rainfed),Seeds,ISED_V,FALSE,24
+Corn|LI|Total,Corn,Maize (grain),LI,Low input (rainfed),Total,sum of all items,TRUE,24
+Corn|LI|Water,Corn,Maize (grain),LI,Low input (rainfed),Water,IWATR_V,FALSE,24
+Corn|SS|Contract work,Corn,Maize (grain),SS,Subsistence,Contract work,ICNTR_V,FALSE,24
+Corn|SS|Crop protection,Corn,Maize (grain),SS,Subsistence,Crop protection,IPROT_V,FALSE,24
+Corn|SS|Electricity,Corn,Maize (grain),SS,Subsistence,Electricity,IELE_V,TRUE,24
+Corn|SS|Fertiliser,Corn,Maize (grain),SS,Subsistence,Fertiliser,IFERT_V,TRUE,24
+Corn|SS|Heating fuels,Corn,Maize (grain),SS,Subsistence,Heating fuels,IHFULS_V,TRUE,24
+Corn|SS|Labour,Corn,Maize (grain),SS,Subsistence,Labour,LABOR_VALUE,FALSE,24
+Corn|SS|Motor fuels,Corn,Maize (grain),SS,Subsistence,Motor fuels,IFULS_V,TRUE,24
+Corn|SS|Other crop costs,Corn,Maize (grain),SS,Subsistence,Other crop costs,ICRPOTH_V,FALSE,24
+Corn|SS|Seeds,Corn,Maize (grain),SS,Subsistence,Seeds,ISED_V,FALSE,24
+Corn|SS|Total,Corn,Maize (grain),SS,Subsistence,Total,sum of all items,TRUE,24
+Corn|SS|Water,Corn,Maize (grain),SS,Subsistence,Water,IWATR_V,FALSE,24
+Cott|HI|Contract work,Cott,Cotton,HI,High input (rainfed),Contract work,ICNTR_V,FALSE,2
+Cott|HI|Crop protection,Cott,Cotton,HI,High input (rainfed),Crop protection,IPROT_V,FALSE,2
+Cott|HI|Electricity,Cott,Cotton,HI,High input (rainfed),Electricity,IELE_V,TRUE,2
+Cott|HI|Fertiliser,Cott,Cotton,HI,High input (rainfed),Fertiliser,IFERT_V,TRUE,2
+Cott|HI|Heating fuels,Cott,Cotton,HI,High input (rainfed),Heating fuels,IHFULS_V,TRUE,2
+Cott|HI|Labour,Cott,Cotton,HI,High input (rainfed),Labour,LABOR_VALUE,FALSE,2
+Cott|HI|Motor fuels,Cott,Cotton,HI,High input (rainfed),Motor fuels,IFULS_V,TRUE,2
+Cott|HI|Other crop costs,Cott,Cotton,HI,High input (rainfed),Other crop costs,ICRPOTH_V,FALSE,2
+Cott|HI|Seeds,Cott,Cotton,HI,High input (rainfed),Seeds,ISED_V,FALSE,2
+Cott|HI|Total,Cott,Cotton,HI,High input (rainfed),Total,sum of all items,TRUE,2
+Cott|HI|Water,Cott,Cotton,HI,High input (rainfed),Water,IWATR_V,FALSE,2
+Cott|IR|Contract work,Cott,Cotton,IR,Irrigated (high input),Contract work,ICNTR_V,FALSE,2
+Cott|IR|Crop protection,Cott,Cotton,IR,Irrigated (high input),Crop protection,IPROT_V,FALSE,2
+Cott|IR|Electricity,Cott,Cotton,IR,Irrigated (high input),Electricity,IELE_V,TRUE,2
+Cott|IR|Fertiliser,Cott,Cotton,IR,Irrigated (high input),Fertiliser,IFERT_V,TRUE,2
+Cott|IR|Heating fuels,Cott,Cotton,IR,Irrigated (high input),Heating fuels,IHFULS_V,TRUE,2
+Cott|IR|Labour,Cott,Cotton,IR,Irrigated (high input),Labour,LABOR_VALUE,FALSE,2
+Cott|IR|Motor fuels,Cott,Cotton,IR,Irrigated (high input),Motor fuels,IFULS_V,TRUE,2
+Cott|IR|Other crop costs,Cott,Cotton,IR,Irrigated (high input),Other crop costs,ICRPOTH_V,FALSE,2
+Cott|IR|Seeds,Cott,Cotton,IR,Irrigated (high input),Seeds,ISED_V,FALSE,2
+Cott|IR|Total,Cott,Cotton,IR,Irrigated (high input),Total,sum of all items,TRUE,2
+Cott|IR|Water,Cott,Cotton,IR,Irrigated (high input),Water,IWATR_V,FALSE,2
+Cott|LI|Contract work,Cott,Cotton,LI,Low input (rainfed),Contract work,ICNTR_V,FALSE,2
+Cott|LI|Crop protection,Cott,Cotton,LI,Low input (rainfed),Crop protection,IPROT_V,FALSE,2
+Cott|LI|Electricity,Cott,Cotton,LI,Low input (rainfed),Electricity,IELE_V,TRUE,2
+Cott|LI|Fertiliser,Cott,Cotton,LI,Low input (rainfed),Fertiliser,IFERT_V,TRUE,2
+Cott|LI|Heating fuels,Cott,Cotton,LI,Low input (rainfed),Heating fuels,IHFULS_V,TRUE,2
+Cott|LI|Labour,Cott,Cotton,LI,Low input (rainfed),Labour,LABOR_VALUE,FALSE,2
+Cott|LI|Motor fuels,Cott,Cotton,LI,Low input (rainfed),Motor fuels,IFULS_V,TRUE,2
+Cott|LI|Other crop costs,Cott,Cotton,LI,Low input (rainfed),Other crop costs,ICRPOTH_V,FALSE,2
+Cott|LI|Seeds,Cott,Cotton,LI,Low input (rainfed),Seeds,ISED_V,FALSE,2
+Cott|LI|Total,Cott,Cotton,LI,Low input (rainfed),Total,sum of all items,TRUE,2
+Cott|LI|Water,Cott,Cotton,LI,Low input (rainfed),Water,IWATR_V,FALSE,2
+Cott|SS|Contract work,Cott,Cotton,SS,Subsistence,Contract work,ICNTR_V,FALSE,2
+Cott|SS|Crop protection,Cott,Cotton,SS,Subsistence,Crop protection,IPROT_V,FALSE,2
+Cott|SS|Electricity,Cott,Cotton,SS,Subsistence,Electricity,IELE_V,TRUE,2
+Cott|SS|Fertiliser,Cott,Cotton,SS,Subsistence,Fertiliser,IFERT_V,TRUE,2
+Cott|SS|Heating fuels,Cott,Cotton,SS,Subsistence,Heating fuels,IHFULS_V,TRUE,2
+Cott|SS|Labour,Cott,Cotton,SS,Subsistence,Labour,LABOR_VALUE,FALSE,2
+Cott|SS|Motor fuels,Cott,Cotton,SS,Subsistence,Motor fuels,IFULS_V,TRUE,2
+Cott|SS|Other crop costs,Cott,Cotton,SS,Subsistence,Other crop costs,ICRPOTH_V,FALSE,2
+Cott|SS|Seeds,Cott,Cotton,SS,Subsistence,Seeds,ISED_V,FALSE,2
+Cott|SS|Total,Cott,Cotton,SS,Subsistence,Total,sum of all items,TRUE,2
+Cott|SS|Water,Cott,Cotton,SS,Subsistence,Water,IWATR_V,FALSE,2
+Pota|HI|Contract work,Pota,Potato,HI,High input (rainfed),Contract work,ICNTR_V,FALSE,27
+Pota|HI|Crop protection,Pota,Potato,HI,High input (rainfed),Crop protection,IPROT_V,FALSE,27
+Pota|HI|Electricity,Pota,Potato,HI,High input (rainfed),Electricity,IELE_V,TRUE,27
+Pota|HI|Fertiliser,Pota,Potato,HI,High input (rainfed),Fertiliser,IFERT_V,TRUE,27
+Pota|HI|Heating fuels,Pota,Potato,HI,High input (rainfed),Heating fuels,IHFULS_V,TRUE,27
+Pota|HI|Labour,Pota,Potato,HI,High input (rainfed),Labour,LABOR_VALUE,FALSE,27
+Pota|HI|Motor fuels,Pota,Potato,HI,High input (rainfed),Motor fuels,IFULS_V,TRUE,27
+Pota|HI|Other crop costs,Pota,Potato,HI,High input (rainfed),Other crop costs,ICRPOTH_V,FALSE,27
+Pota|HI|Seeds,Pota,Potato,HI,High input (rainfed),Seeds,ISED_V,FALSE,27
+Pota|HI|Total,Pota,Potato,HI,High input (rainfed),Total,sum of all items,TRUE,27
+Pota|HI|Water,Pota,Potato,HI,High input (rainfed),Water,IWATR_V,FALSE,27
+Pota|IR|Contract work,Pota,Potato,IR,Irrigated (high input),Contract work,ICNTR_V,FALSE,27
+Pota|IR|Crop protection,Pota,Potato,IR,Irrigated (high input),Crop protection,IPROT_V,FALSE,27
+Pota|IR|Electricity,Pota,Potato,IR,Irrigated (high input),Electricity,IELE_V,TRUE,27
+Pota|IR|Fertiliser,Pota,Potato,IR,Irrigated (high input),Fertiliser,IFERT_V,TRUE,27
+Pota|IR|Heating fuels,Pota,Potato,IR,Irrigated (high input),Heating fuels,IHFULS_V,TRUE,27
+Pota|IR|Labour,Pota,Potato,IR,Irrigated (high input),Labour,LABOR_VALUE,FALSE,27
+Pota|IR|Motor fuels,Pota,Potato,IR,Irrigated (high input),Motor fuels,IFULS_V,TRUE,27
+Pota|IR|Other crop costs,Pota,Potato,IR,Irrigated (high input),Other crop costs,ICRPOTH_V,FALSE,27
+Pota|IR|Seeds,Pota,Potato,IR,Irrigated (high input),Seeds,ISED_V,FALSE,27
+Pota|IR|Total,Pota,Potato,IR,Irrigated (high input),Total,sum of all items,TRUE,27
+Pota|IR|Water,Pota,Potato,IR,Irrigated (high input),Water,IWATR_V,FALSE,27
+Pota|LI|Contract work,Pota,Potato,LI,Low input (rainfed),Contract work,ICNTR_V,FALSE,27
+Pota|LI|Crop protection,Pota,Potato,LI,Low input (rainfed),Crop protection,IPROT_V,FALSE,27
+Pota|LI|Electricity,Pota,Potato,LI,Low input (rainfed),Electricity,IELE_V,TRUE,27
+Pota|LI|Fertiliser,Pota,Potato,LI,Low input (rainfed),Fertiliser,IFERT_V,TRUE,27
+Pota|LI|Heating fuels,Pota,Potato,LI,Low input (rainfed),Heating fuels,IHFULS_V,TRUE,27
+Pota|LI|Labour,Pota,Potato,LI,Low input (rainfed),Labour,LABOR_VALUE,FALSE,27
+Pota|LI|Motor fuels,Pota,Potato,LI,Low input (rainfed),Motor fuels,IFULS_V,TRUE,27
+Pota|LI|Other crop costs,Pota,Potato,LI,Low input (rainfed),Other crop costs,ICRPOTH_V,FALSE,27
+Pota|LI|Seeds,Pota,Potato,LI,Low input (rainfed),Seeds,ISED_V,FALSE,27
+Pota|LI|Total,Pota,Potato,LI,Low input (rainfed),Total,sum of all items,TRUE,27
+Pota|LI|Water,Pota,Potato,LI,Low input (rainfed),Water,IWATR_V,FALSE,27
+Pota|SS|Contract work,Pota,Potato,SS,Subsistence,Contract work,ICNTR_V,FALSE,27
+Pota|SS|Crop protection,Pota,Potato,SS,Subsistence,Crop protection,IPROT_V,FALSE,27
+Pota|SS|Electricity,Pota,Potato,SS,Subsistence,Electricity,IELE_V,TRUE,27
+Pota|SS|Fertiliser,Pota,Potato,SS,Subsistence,Fertiliser,IFERT_V,TRUE,27
+Pota|SS|Heating fuels,Pota,Potato,SS,Subsistence,Heating fuels,IHFULS_V,TRUE,27
+Pota|SS|Labour,Pota,Potato,SS,Subsistence,Labour,LABOR_VALUE,FALSE,27
+Pota|SS|Motor fuels,Pota,Potato,SS,Subsistence,Motor fuels,IFULS_V,TRUE,27
+Pota|SS|Other crop costs,Pota,Potato,SS,Subsistence,Other crop costs,ICRPOTH_V,FALSE,27
+Pota|SS|Seeds,Pota,Potato,SS,Subsistence,Seeds,ISED_V,FALSE,27
+Pota|SS|Total,Pota,Potato,SS,Subsistence,Total,sum of all items,TRUE,27
+Pota|SS|Water,Pota,Potato,SS,Subsistence,Water,IWATR_V,FALSE,27
+Rape|HI|Contract work,Rape,Rapeseed,HI,High input (rainfed),Contract work,ICNTR_V,FALSE,25
+Rape|HI|Crop protection,Rape,Rapeseed,HI,High input (rainfed),Crop protection,IPROT_V,FALSE,25
+Rape|HI|Electricity,Rape,Rapeseed,HI,High input (rainfed),Electricity,IELE_V,TRUE,25
+Rape|HI|Fertiliser,Rape,Rapeseed,HI,High input (rainfed),Fertiliser,IFERT_V,TRUE,25
+Rape|HI|Heating fuels,Rape,Rapeseed,HI,High input (rainfed),Heating fuels,IHFULS_V,TRUE,25
+Rape|HI|Labour,Rape,Rapeseed,HI,High input (rainfed),Labour,LABOR_VALUE,FALSE,25
+Rape|HI|Motor fuels,Rape,Rapeseed,HI,High input (rainfed),Motor fuels,IFULS_V,TRUE,25
+Rape|HI|Other crop costs,Rape,Rapeseed,HI,High input (rainfed),Other crop costs,ICRPOTH_V,FALSE,25
+Rape|HI|Seeds,Rape,Rapeseed,HI,High input (rainfed),Seeds,ISED_V,FALSE,25
+Rape|HI|Total,Rape,Rapeseed,HI,High input (rainfed),Total,sum of all items,TRUE,25
+Rape|HI|Water,Rape,Rapeseed,HI,High input (rainfed),Water,IWATR_V,FALSE,25
+Rape|IR|Contract work,Rape,Rapeseed,IR,Irrigated (high input),Contract work,ICNTR_V,FALSE,25
+Rape|IR|Crop protection,Rape,Rapeseed,IR,Irrigated (high input),Crop protection,IPROT_V,FALSE,25
+Rape|IR|Electricity,Rape,Rapeseed,IR,Irrigated (high input),Electricity,IELE_V,TRUE,25
+Rape|IR|Fertiliser,Rape,Rapeseed,IR,Irrigated (high input),Fertiliser,IFERT_V,TRUE,25
+Rape|IR|Heating fuels,Rape,Rapeseed,IR,Irrigated (high input),Heating fuels,IHFULS_V,TRUE,25
+Rape|IR|Labour,Rape,Rapeseed,IR,Irrigated (high input),Labour,LABOR_VALUE,FALSE,25
+Rape|IR|Motor fuels,Rape,Rapeseed,IR,Irrigated (high input),Motor fuels,IFULS_V,TRUE,25
+Rape|IR|Other crop costs,Rape,Rapeseed,IR,Irrigated (high input),Other crop costs,ICRPOTH_V,FALSE,25
+Rape|IR|Seeds,Rape,Rapeseed,IR,Irrigated (high input),Seeds,ISED_V,FALSE,25
+Rape|IR|Total,Rape,Rapeseed,IR,Irrigated (high input),Total,sum of all items,TRUE,25
+Rape|IR|Water,Rape,Rapeseed,IR,Irrigated (high input),Water,IWATR_V,FALSE,25
+Rape|LI|Contract work,Rape,Rapeseed,LI,Low input (rainfed),Contract work,ICNTR_V,FALSE,27
+Rape|LI|Crop protection,Rape,Rapeseed,LI,Low input (rainfed),Crop protection,IPROT_V,FALSE,27
+Rape|LI|Electricity,Rape,Rapeseed,LI,Low input (rainfed),Electricity,IELE_V,TRUE,27
+Rape|LI|Fertiliser,Rape,Rapeseed,LI,Low input (rainfed),Fertiliser,IFERT_V,TRUE,27
+Rape|LI|Heating fuels,Rape,Rapeseed,LI,Low input (rainfed),Heating fuels,IHFULS_V,TRUE,27
+Rape|LI|Labour,Rape,Rapeseed,LI,Low input (rainfed),Labour,LABOR_VALUE,FALSE,27
+Rape|LI|Motor fuels,Rape,Rapeseed,LI,Low input (rainfed),Motor fuels,IFULS_V,TRUE,27
+Rape|LI|Other crop costs,Rape,Rapeseed,LI,Low input (rainfed),Other crop costs,ICRPOTH_V,FALSE,27
+Rape|LI|Seeds,Rape,Rapeseed,LI,Low input (rainfed),Seeds,ISED_V,FALSE,27
+Rape|LI|Total,Rape,Rapeseed,LI,Low input (rainfed),Total,sum of all items,TRUE,27
+Rape|LI|Water,Rape,Rapeseed,LI,Low input (rainfed),Water,IWATR_V,FALSE,27
+Rape|SS|Contract work,Rape,Rapeseed,SS,Subsistence,Contract work,ICNTR_V,FALSE,27
+Rape|SS|Crop protection,Rape,Rapeseed,SS,Subsistence,Crop protection,IPROT_V,FALSE,27
+Rape|SS|Electricity,Rape,Rapeseed,SS,Subsistence,Electricity,IELE_V,TRUE,27
+Rape|SS|Fertiliser,Rape,Rapeseed,SS,Subsistence,Fertiliser,IFERT_V,TRUE,27
+Rape|SS|Heating fuels,Rape,Rapeseed,SS,Subsistence,Heating fuels,IHFULS_V,TRUE,27
+Rape|SS|Labour,Rape,Rapeseed,SS,Subsistence,Labour,LABOR_VALUE,FALSE,27
+Rape|SS|Motor fuels,Rape,Rapeseed,SS,Subsistence,Motor fuels,IFULS_V,TRUE,27
+Rape|SS|Other crop costs,Rape,Rapeseed,SS,Subsistence,Other crop costs,ICRPOTH_V,FALSE,27
+Rape|SS|Seeds,Rape,Rapeseed,SS,Subsistence,Seeds,ISED_V,FALSE,27
+Rape|SS|Total,Rape,Rapeseed,SS,Subsistence,Total,sum of all items,TRUE,27
+Rape|SS|Water,Rape,Rapeseed,SS,Subsistence,Water,IWATR_V,FALSE,27
+Rice|HI|Contract work,Rice,Rice,HI,High input (rainfed),Contract work,ICNTR_V,FALSE,22
+Rice|HI|Crop protection,Rice,Rice,HI,High input (rainfed),Crop protection,IPROT_V,FALSE,22
+Rice|HI|Electricity,Rice,Rice,HI,High input (rainfed),Electricity,IELE_V,TRUE,22
+Rice|HI|Fertiliser,Rice,Rice,HI,High input (rainfed),Fertiliser,IFERT_V,TRUE,22
+Rice|HI|Heating fuels,Rice,Rice,HI,High input (rainfed),Heating fuels,IHFULS_V,TRUE,22
+Rice|HI|Labour,Rice,Rice,HI,High input (rainfed),Labour,LABOR_VALUE,FALSE,22
+Rice|HI|Motor fuels,Rice,Rice,HI,High input (rainfed),Motor fuels,IFULS_V,TRUE,22
+Rice|HI|Other crop costs,Rice,Rice,HI,High input (rainfed),Other crop costs,ICRPOTH_V,FALSE,22
+Rice|HI|Seeds,Rice,Rice,HI,High input (rainfed),Seeds,ISED_V,FALSE,22
+Rice|HI|Total,Rice,Rice,HI,High input (rainfed),Total,sum of all items,TRUE,22
+Rice|HI|Water,Rice,Rice,HI,High input (rainfed),Water,IWATR_V,FALSE,22
+Rice|IR|Contract work,Rice,Rice,IR,Irrigated (high input),Contract work,ICNTR_V,FALSE,22
+Rice|IR|Crop protection,Rice,Rice,IR,Irrigated (high input),Crop protection,IPROT_V,FALSE,22
+Rice|IR|Electricity,Rice,Rice,IR,Irrigated (high input),Electricity,IELE_V,TRUE,22
+Rice|IR|Fertiliser,Rice,Rice,IR,Irrigated (high input),Fertiliser,IFERT_V,TRUE,22
+Rice|IR|Heating fuels,Rice,Rice,IR,Irrigated (high input),Heating fuels,IHFULS_V,TRUE,22
+Rice|IR|Labour,Rice,Rice,IR,Irrigated (high input),Labour,LABOR_VALUE,FALSE,22
+Rice|IR|Motor fuels,Rice,Rice,IR,Irrigated (high input),Motor fuels,IFULS_V,TRUE,22
+Rice|IR|Other crop costs,Rice,Rice,IR,Irrigated (high input),Other crop costs,ICRPOTH_V,FALSE,22
+Rice|IR|Seeds,Rice,Rice,IR,Irrigated (high input),Seeds,ISED_V,FALSE,22
+Rice|IR|Total,Rice,Rice,IR,Irrigated (high input),Total,sum of all items,TRUE,22
+Rice|IR|Water,Rice,Rice,IR,Irrigated (high input),Water,IWATR_V,FALSE,22
+Rice|LI|Contract work,Rice,Rice,LI,Low input (rainfed),Contract work,ICNTR_V,FALSE,22
+Rice|LI|Crop protection,Rice,Rice,LI,Low input (rainfed),Crop protection,IPROT_V,FALSE,22
+Rice|LI|Electricity,Rice,Rice,LI,Low input (rainfed),Electricity,IELE_V,TRUE,22
+Rice|LI|Fertiliser,Rice,Rice,LI,Low input (rainfed),Fertiliser,IFERT_V,TRUE,22
+Rice|LI|Heating fuels,Rice,Rice,LI,Low input (rainfed),Heating fuels,IHFULS_V,TRUE,22
+Rice|LI|Labour,Rice,Rice,LI,Low input (rainfed),Labour,LABOR_VALUE,FALSE,22
+Rice|LI|Motor fuels,Rice,Rice,LI,Low input (rainfed),Motor fuels,IFULS_V,TRUE,22
+Rice|LI|Other crop costs,Rice,Rice,LI,Low input (rainfed),Other crop costs,ICRPOTH_V,FALSE,22
+Rice|LI|Seeds,Rice,Rice,LI,Low input (rainfed),Seeds,ISED_V,FALSE,22
+Rice|LI|Total,Rice,Rice,LI,Low input (rainfed),Total,sum of all items,TRUE,22
+Rice|LI|Water,Rice,Rice,LI,Low input (rainfed),Water,IWATR_V,FALSE,22
+Rice|SS|Contract work,Rice,Rice,SS,Subsistence,Contract work,ICNTR_V,FALSE,22
+Rice|SS|Crop protection,Rice,Rice,SS,Subsistence,Crop protection,IPROT_V,FALSE,22
+Rice|SS|Electricity,Rice,Rice,SS,Subsistence,Electricity,IELE_V,TRUE,22
+Rice|SS|Fertiliser,Rice,Rice,SS,Subsistence,Fertiliser,IFERT_V,TRUE,22
+Rice|SS|Heating fuels,Rice,Rice,SS,Subsistence,Heating fuels,IHFULS_V,TRUE,22
+Rice|SS|Labour,Rice,Rice,SS,Subsistence,Labour,LABOR_VALUE,FALSE,22
+Rice|SS|Motor fuels,Rice,Rice,SS,Subsistence,Motor fuels,IFULS_V,TRUE,22
+Rice|SS|Other crop costs,Rice,Rice,SS,Subsistence,Other crop costs,ICRPOTH_V,FALSE,22
+Rice|SS|Seeds,Rice,Rice,SS,Subsistence,Seeds,ISED_V,FALSE,22
+Rice|SS|Total,Rice,Rice,SS,Subsistence,Total,sum of all items,TRUE,22
+Rice|SS|Water,Rice,Rice,SS,Subsistence,Water,IWATR_V,FALSE,22
+Soya|HI|Contract work,Soya,Soybean,HI,High input (rainfed),Contract work,ICNTR_V,FALSE,20
+Soya|HI|Crop protection,Soya,Soybean,HI,High input (rainfed),Crop protection,IPROT_V,FALSE,20
+Soya|HI|Electricity,Soya,Soybean,HI,High input (rainfed),Electricity,IELE_V,TRUE,20
+Soya|HI|Fertiliser,Soya,Soybean,HI,High input (rainfed),Fertiliser,IFERT_V,TRUE,20
+Soya|HI|Heating fuels,Soya,Soybean,HI,High input (rainfed),Heating fuels,IHFULS_V,TRUE,20
+Soya|HI|Labour,Soya,Soybean,HI,High input (rainfed),Labour,LABOR_VALUE,FALSE,20
+Soya|HI|Motor fuels,Soya,Soybean,HI,High input (rainfed),Motor fuels,IFULS_V,TRUE,20
+Soya|HI|Other crop costs,Soya,Soybean,HI,High input (rainfed),Other crop costs,ICRPOTH_V,FALSE,20
+Soya|HI|Seeds,Soya,Soybean,HI,High input (rainfed),Seeds,ISED_V,FALSE,20
+Soya|HI|Total,Soya,Soybean,HI,High input (rainfed),Total,sum of all items,TRUE,20
+Soya|HI|Water,Soya,Soybean,HI,High input (rainfed),Water,IWATR_V,FALSE,20
+Soya|IR|Contract work,Soya,Soybean,IR,Irrigated (high input),Contract work,ICNTR_V,FALSE,20
+Soya|IR|Crop protection,Soya,Soybean,IR,Irrigated (high input),Crop protection,IPROT_V,FALSE,20
+Soya|IR|Electricity,Soya,Soybean,IR,Irrigated (high input),Electricity,IELE_V,TRUE,20
+Soya|IR|Fertiliser,Soya,Soybean,IR,Irrigated (high input),Fertiliser,IFERT_V,TRUE,20
+Soya|IR|Heating fuels,Soya,Soybean,IR,Irrigated (high input),Heating fuels,IHFULS_V,TRUE,20
+Soya|IR|Labour,Soya,Soybean,IR,Irrigated (high input),Labour,LABOR_VALUE,FALSE,20
+Soya|IR|Motor fuels,Soya,Soybean,IR,Irrigated (high input),Motor fuels,IFULS_V,TRUE,20
+Soya|IR|Other crop costs,Soya,Soybean,IR,Irrigated (high input),Other crop costs,ICRPOTH_V,FALSE,20
+Soya|IR|Seeds,Soya,Soybean,IR,Irrigated (high input),Seeds,ISED_V,FALSE,20
+Soya|IR|Total,Soya,Soybean,IR,Irrigated (high input),Total,sum of all items,TRUE,20
+Soya|IR|Water,Soya,Soybean,IR,Irrigated (high input),Water,IWATR_V,FALSE,20
+Soya|LI|Contract work,Soya,Soybean,LI,Low input (rainfed),Contract work,ICNTR_V,FALSE,21
+Soya|LI|Crop protection,Soya,Soybean,LI,Low input (rainfed),Crop protection,IPROT_V,FALSE,21
+Soya|LI|Electricity,Soya,Soybean,LI,Low input (rainfed),Electricity,IELE_V,TRUE,21
+Soya|LI|Fertiliser,Soya,Soybean,LI,Low input (rainfed),Fertiliser,IFERT_V,TRUE,21
+Soya|LI|Heating fuels,Soya,Soybean,LI,Low input (rainfed),Heating fuels,IHFULS_V,TRUE,21
+Soya|LI|Labour,Soya,Soybean,LI,Low input (rainfed),Labour,LABOR_VALUE,FALSE,21
+Soya|LI|Motor fuels,Soya,Soybean,LI,Low input (rainfed),Motor fuels,IFULS_V,TRUE,21
+Soya|LI|Other crop costs,Soya,Soybean,LI,Low input (rainfed),Other crop costs,ICRPOTH_V,FALSE,21
+Soya|LI|Seeds,Soya,Soybean,LI,Low input (rainfed),Seeds,ISED_V,FALSE,21
+Soya|LI|Total,Soya,Soybean,LI,Low input (rainfed),Total,sum of all items,TRUE,21
+Soya|LI|Water,Soya,Soybean,LI,Low input (rainfed),Water,IWATR_V,FALSE,21
+Soya|SS|Contract work,Soya,Soybean,SS,Subsistence,Contract work,ICNTR_V,FALSE,21
+Soya|SS|Crop protection,Soya,Soybean,SS,Subsistence,Crop protection,IPROT_V,FALSE,21
+Soya|SS|Electricity,Soya,Soybean,SS,Subsistence,Electricity,IELE_V,TRUE,21
+Soya|SS|Fertiliser,Soya,Soybean,SS,Subsistence,Fertiliser,IFERT_V,TRUE,21
+Soya|SS|Heating fuels,Soya,Soybean,SS,Subsistence,Heating fuels,IHFULS_V,TRUE,21
+Soya|SS|Labour,Soya,Soybean,SS,Subsistence,Labour,LABOR_VALUE,FALSE,21
+Soya|SS|Motor fuels,Soya,Soybean,SS,Subsistence,Motor fuels,IFULS_V,TRUE,21
+Soya|SS|Other crop costs,Soya,Soybean,SS,Subsistence,Other crop costs,ICRPOTH_V,FALSE,21
+Soya|SS|Seeds,Soya,Soybean,SS,Subsistence,Seeds,ISED_V,FALSE,21
+Soya|SS|Total,Soya,Soybean,SS,Subsistence,Total,sum of all items,TRUE,21
+Soya|SS|Water,Soya,Soybean,SS,Subsistence,Water,IWATR_V,FALSE,21
+Srgh|HI|Contract work,Srgh,Sorghum,HI,High input (rainfed),Contract work,ICNTR_V,FALSE,20
+Srgh|HI|Crop protection,Srgh,Sorghum,HI,High input (rainfed),Crop protection,IPROT_V,FALSE,20
+Srgh|HI|Electricity,Srgh,Sorghum,HI,High input (rainfed),Electricity,IELE_V,TRUE,20
+Srgh|HI|Fertiliser,Srgh,Sorghum,HI,High input (rainfed),Fertiliser,IFERT_V,TRUE,20
+Srgh|HI|Heating fuels,Srgh,Sorghum,HI,High input (rainfed),Heating fuels,IHFULS_V,TRUE,20
+Srgh|HI|Labour,Srgh,Sorghum,HI,High input (rainfed),Labour,LABOR_VALUE,FALSE,20
+Srgh|HI|Motor fuels,Srgh,Sorghum,HI,High input (rainfed),Motor fuels,IFULS_V,TRUE,20
+Srgh|HI|Other crop costs,Srgh,Sorghum,HI,High input (rainfed),Other crop costs,ICRPOTH_V,FALSE,20
+Srgh|HI|Seeds,Srgh,Sorghum,HI,High input (rainfed),Seeds,ISED_V,FALSE,20
+Srgh|HI|Total,Srgh,Sorghum,HI,High input (rainfed),Total,sum of all items,TRUE,20
+Srgh|HI|Water,Srgh,Sorghum,HI,High input (rainfed),Water,IWATR_V,FALSE,20
+Srgh|IR|Contract work,Srgh,Sorghum,IR,Irrigated (high input),Contract work,ICNTR_V,FALSE,20
+Srgh|IR|Crop protection,Srgh,Sorghum,IR,Irrigated (high input),Crop protection,IPROT_V,FALSE,20
+Srgh|IR|Electricity,Srgh,Sorghum,IR,Irrigated (high input),Electricity,IELE_V,TRUE,20
+Srgh|IR|Fertiliser,Srgh,Sorghum,IR,Irrigated (high input),Fertiliser,IFERT_V,TRUE,20
+Srgh|IR|Heating fuels,Srgh,Sorghum,IR,Irrigated (high input),Heating fuels,IHFULS_V,TRUE,20
+Srgh|IR|Labour,Srgh,Sorghum,IR,Irrigated (high input),Labour,LABOR_VALUE,FALSE,20
+Srgh|IR|Motor fuels,Srgh,Sorghum,IR,Irrigated (high input),Motor fuels,IFULS_V,TRUE,20
+Srgh|IR|Other crop costs,Srgh,Sorghum,IR,Irrigated (high input),Other crop costs,ICRPOTH_V,FALSE,20
+Srgh|IR|Seeds,Srgh,Sorghum,IR,Irrigated (high input),Seeds,ISED_V,FALSE,20
+Srgh|IR|Total,Srgh,Sorghum,IR,Irrigated (high input),Total,sum of all items,TRUE,20
+Srgh|IR|Water,Srgh,Sorghum,IR,Irrigated (high input),Water,IWATR_V,FALSE,20
+Srgh|LI|Contract work,Srgh,Sorghum,LI,Low input (rainfed),Contract work,ICNTR_V,FALSE,22
+Srgh|LI|Crop protection,Srgh,Sorghum,LI,Low input (rainfed),Crop protection,IPROT_V,FALSE,22
+Srgh|LI|Electricity,Srgh,Sorghum,LI,Low input (rainfed),Electricity,IELE_V,TRUE,22
+Srgh|LI|Fertiliser,Srgh,Sorghum,LI,Low input (rainfed),Fertiliser,IFERT_V,TRUE,22
+Srgh|LI|Heating fuels,Srgh,Sorghum,LI,Low input (rainfed),Heating fuels,IHFULS_V,TRUE,22
+Srgh|LI|Labour,Srgh,Sorghum,LI,Low input (rainfed),Labour,LABOR_VALUE,FALSE,22
+Srgh|LI|Motor fuels,Srgh,Sorghum,LI,Low input (rainfed),Motor fuels,IFULS_V,TRUE,22
+Srgh|LI|Other crop costs,Srgh,Sorghum,LI,Low input (rainfed),Other crop costs,ICRPOTH_V,FALSE,22
+Srgh|LI|Seeds,Srgh,Sorghum,LI,Low input (rainfed),Seeds,ISED_V,FALSE,22
+Srgh|LI|Total,Srgh,Sorghum,LI,Low input (rainfed),Total,sum of all items,TRUE,22
+Srgh|LI|Water,Srgh,Sorghum,LI,Low input (rainfed),Water,IWATR_V,FALSE,22
+Srgh|SS|Contract work,Srgh,Sorghum,SS,Subsistence,Contract work,ICNTR_V,FALSE,22
+Srgh|SS|Crop protection,Srgh,Sorghum,SS,Subsistence,Crop protection,IPROT_V,FALSE,22
+Srgh|SS|Electricity,Srgh,Sorghum,SS,Subsistence,Electricity,IELE_V,TRUE,22
+Srgh|SS|Fertiliser,Srgh,Sorghum,SS,Subsistence,Fertiliser,IFERT_V,TRUE,22
+Srgh|SS|Heating fuels,Srgh,Sorghum,SS,Subsistence,Heating fuels,IHFULS_V,TRUE,22
+Srgh|SS|Labour,Srgh,Sorghum,SS,Subsistence,Labour,LABOR_VALUE,FALSE,22
+Srgh|SS|Motor fuels,Srgh,Sorghum,SS,Subsistence,Motor fuels,IFULS_V,TRUE,22
+Srgh|SS|Other crop costs,Srgh,Sorghum,SS,Subsistence,Other crop costs,ICRPOTH_V,FALSE,22
+Srgh|SS|Seeds,Srgh,Sorghum,SS,Subsistence,Seeds,ISED_V,FALSE,22
+Srgh|SS|Total,Srgh,Sorghum,SS,Subsistence,Total,sum of all items,TRUE,22
+Srgh|SS|Water,Srgh,Sorghum,SS,Subsistence,Water,IWATR_V,FALSE,22
+Sunf|HI|Contract work,Sunf,Sunflower,HI,High input (rainfed),Contract work,ICNTR_V,FALSE,23
+Sunf|HI|Crop protection,Sunf,Sunflower,HI,High input (rainfed),Crop protection,IPROT_V,FALSE,23
+Sunf|HI|Electricity,Sunf,Sunflower,HI,High input (rainfed),Electricity,IELE_V,TRUE,23
+Sunf|HI|Fertiliser,Sunf,Sunflower,HI,High input (rainfed),Fertiliser,IFERT_V,TRUE,23
+Sunf|HI|Heating fuels,Sunf,Sunflower,HI,High input (rainfed),Heating fuels,IHFULS_V,TRUE,23
+Sunf|HI|Labour,Sunf,Sunflower,HI,High input (rainfed),Labour,LABOR_VALUE,FALSE,23
+Sunf|HI|Motor fuels,Sunf,Sunflower,HI,High input (rainfed),Motor fuels,IFULS_V,TRUE,23
+Sunf|HI|Other crop costs,Sunf,Sunflower,HI,High input (rainfed),Other crop costs,ICRPOTH_V,FALSE,23
+Sunf|HI|Seeds,Sunf,Sunflower,HI,High input (rainfed),Seeds,ISED_V,FALSE,23
+Sunf|HI|Total,Sunf,Sunflower,HI,High input (rainfed),Total,sum of all items,TRUE,23
+Sunf|HI|Water,Sunf,Sunflower,HI,High input (rainfed),Water,IWATR_V,FALSE,23
+Sunf|IR|Contract work,Sunf,Sunflower,IR,Irrigated (high input),Contract work,ICNTR_V,FALSE,23
+Sunf|IR|Crop protection,Sunf,Sunflower,IR,Irrigated (high input),Crop protection,IPROT_V,FALSE,23
+Sunf|IR|Electricity,Sunf,Sunflower,IR,Irrigated (high input),Electricity,IELE_V,TRUE,23
+Sunf|IR|Fertiliser,Sunf,Sunflower,IR,Irrigated (high input),Fertiliser,IFERT_V,TRUE,23
+Sunf|IR|Heating fuels,Sunf,Sunflower,IR,Irrigated (high input),Heating fuels,IHFULS_V,TRUE,23
+Sunf|IR|Labour,Sunf,Sunflower,IR,Irrigated (high input),Labour,LABOR_VALUE,FALSE,23
+Sunf|IR|Motor fuels,Sunf,Sunflower,IR,Irrigated (high input),Motor fuels,IFULS_V,TRUE,23
+Sunf|IR|Other crop costs,Sunf,Sunflower,IR,Irrigated (high input),Other crop costs,ICRPOTH_V,FALSE,23
+Sunf|IR|Seeds,Sunf,Sunflower,IR,Irrigated (high input),Seeds,ISED_V,FALSE,23
+Sunf|IR|Total,Sunf,Sunflower,IR,Irrigated (high input),Total,sum of all items,TRUE,23
+Sunf|IR|Water,Sunf,Sunflower,IR,Irrigated (high input),Water,IWATR_V,FALSE,23
+Sunf|LI|Contract work,Sunf,Sunflower,LI,Low input (rainfed),Contract work,ICNTR_V,FALSE,23
+Sunf|LI|Crop protection,Sunf,Sunflower,LI,Low input (rainfed),Crop protection,IPROT_V,FALSE,23
+Sunf|LI|Electricity,Sunf,Sunflower,LI,Low input (rainfed),Electricity,IELE_V,TRUE,23
+Sunf|LI|Fertiliser,Sunf,Sunflower,LI,Low input (rainfed),Fertiliser,IFERT_V,TRUE,23
+Sunf|LI|Heating fuels,Sunf,Sunflower,LI,Low input (rainfed),Heating fuels,IHFULS_V,TRUE,23
+Sunf|LI|Labour,Sunf,Sunflower,LI,Low input (rainfed),Labour,LABOR_VALUE,FALSE,23
+Sunf|LI|Motor fuels,Sunf,Sunflower,LI,Low input (rainfed),Motor fuels,IFULS_V,TRUE,23
+Sunf|LI|Other crop costs,Sunf,Sunflower,LI,Low input (rainfed),Other crop costs,ICRPOTH_V,FALSE,23
+Sunf|LI|Seeds,Sunf,Sunflower,LI,Low input (rainfed),Seeds,ISED_V,FALSE,23
+Sunf|LI|Total,Sunf,Sunflower,LI,Low input (rainfed),Total,sum of all items,TRUE,23
+Sunf|LI|Water,Sunf,Sunflower,LI,Low input (rainfed),Water,IWATR_V,FALSE,23
+Sunf|SS|Contract work,Sunf,Sunflower,SS,Subsistence,Contract work,ICNTR_V,FALSE,23
+Sunf|SS|Crop protection,Sunf,Sunflower,SS,Subsistence,Crop protection,IPROT_V,FALSE,23
+Sunf|SS|Electricity,Sunf,Sunflower,SS,Subsistence,Electricity,IELE_V,TRUE,23
+Sunf|SS|Fertiliser,Sunf,Sunflower,SS,Subsistence,Fertiliser,IFERT_V,TRUE,23
+Sunf|SS|Heating fuels,Sunf,Sunflower,SS,Subsistence,Heating fuels,IHFULS_V,TRUE,23
+Sunf|SS|Labour,Sunf,Sunflower,SS,Subsistence,Labour,LABOR_VALUE,FALSE,23
+Sunf|SS|Motor fuels,Sunf,Sunflower,SS,Subsistence,Motor fuels,IFULS_V,TRUE,23
+Sunf|SS|Other crop costs,Sunf,Sunflower,SS,Subsistence,Other crop costs,ICRPOTH_V,FALSE,23
+Sunf|SS|Seeds,Sunf,Sunflower,SS,Subsistence,Seeds,ISED_V,FALSE,23
+Sunf|SS|Total,Sunf,Sunflower,SS,Subsistence,Total,sum of all items,TRUE,23
+Sunf|SS|Water,Sunf,Sunflower,SS,Subsistence,Water,IWATR_V,FALSE,23
+Whea|HI|Contract work,Whea,Wheat,HI,High input (rainfed),Contract work,ICNTR_V,FALSE,27
+Whea|HI|Crop protection,Whea,Wheat,HI,High input (rainfed),Crop protection,IPROT_V,FALSE,27
+Whea|HI|Electricity,Whea,Wheat,HI,High input (rainfed),Electricity,IELE_V,TRUE,27
+Whea|HI|Fertiliser,Whea,Wheat,HI,High input (rainfed),Fertiliser,IFERT_V,TRUE,27
+Whea|HI|Heating fuels,Whea,Wheat,HI,High input (rainfed),Heating fuels,IHFULS_V,TRUE,27
+Whea|HI|Labour,Whea,Wheat,HI,High input (rainfed),Labour,LABOR_VALUE,FALSE,27
+Whea|HI|Motor fuels,Whea,Wheat,HI,High input (rainfed),Motor fuels,IFULS_V,TRUE,27
+Whea|HI|Other crop costs,Whea,Wheat,HI,High input (rainfed),Other crop costs,ICRPOTH_V,FALSE,27
+Whea|HI|Seeds,Whea,Wheat,HI,High input (rainfed),Seeds,ISED_V,FALSE,27
+Whea|HI|Total,Whea,Wheat,HI,High input (rainfed),Total,sum of all items,TRUE,27
+Whea|HI|Water,Whea,Wheat,HI,High input (rainfed),Water,IWATR_V,FALSE,27
+Whea|IR|Contract work,Whea,Wheat,IR,Irrigated (high input),Contract work,ICNTR_V,FALSE,27
+Whea|IR|Crop protection,Whea,Wheat,IR,Irrigated (high input),Crop protection,IPROT_V,FALSE,27
+Whea|IR|Electricity,Whea,Wheat,IR,Irrigated (high input),Electricity,IELE_V,TRUE,27
+Whea|IR|Fertiliser,Whea,Wheat,IR,Irrigated (high input),Fertiliser,IFERT_V,TRUE,27
+Whea|IR|Heating fuels,Whea,Wheat,IR,Irrigated (high input),Heating fuels,IHFULS_V,TRUE,27
+Whea|IR|Labour,Whea,Wheat,IR,Irrigated (high input),Labour,LABOR_VALUE,FALSE,27
+Whea|IR|Motor fuels,Whea,Wheat,IR,Irrigated (high input),Motor fuels,IFULS_V,TRUE,27
+Whea|IR|Other crop costs,Whea,Wheat,IR,Irrigated (high input),Other crop costs,ICRPOTH_V,FALSE,27
+Whea|IR|Seeds,Whea,Wheat,IR,Irrigated (high input),Seeds,ISED_V,FALSE,27
+Whea|IR|Total,Whea,Wheat,IR,Irrigated (high input),Total,sum of all items,TRUE,27
+Whea|IR|Water,Whea,Wheat,IR,Irrigated (high input),Water,IWATR_V,FALSE,27
+Whea|LI|Contract work,Whea,Wheat,LI,Low input (rainfed),Contract work,ICNTR_V,FALSE,27
+Whea|LI|Crop protection,Whea,Wheat,LI,Low input (rainfed),Crop protection,IPROT_V,FALSE,27
+Whea|LI|Electricity,Whea,Wheat,LI,Low input (rainfed),Electricity,IELE_V,TRUE,27
+Whea|LI|Fertiliser,Whea,Wheat,LI,Low input (rainfed),Fertiliser,IFERT_V,TRUE,27
+Whea|LI|Heating fuels,Whea,Wheat,LI,Low input (rainfed),Heating fuels,IHFULS_V,TRUE,27
+Whea|LI|Labour,Whea,Wheat,LI,Low input (rainfed),Labour,LABOR_VALUE,FALSE,27
+Whea|LI|Motor fuels,Whea,Wheat,LI,Low input (rainfed),Motor fuels,IFULS_V,TRUE,27
+Whea|LI|Other crop costs,Whea,Wheat,LI,Low input (rainfed),Other crop costs,ICRPOTH_V,FALSE,27
+Whea|LI|Seeds,Whea,Wheat,LI,Low input (rainfed),Seeds,ISED_V,FALSE,27
+Whea|LI|Total,Whea,Wheat,LI,Low input (rainfed),Total,sum of all items,TRUE,27
+Whea|LI|Water,Whea,Wheat,LI,Low input (rainfed),Water,IWATR_V,FALSE,27
+Whea|SS|Contract work,Whea,Wheat,SS,Subsistence,Contract work,ICNTR_V,FALSE,27
+Whea|SS|Crop protection,Whea,Wheat,SS,Subsistence,Crop protection,IPROT_V,FALSE,27
+Whea|SS|Electricity,Whea,Wheat,SS,Subsistence,Electricity,IELE_V,TRUE,27
+Whea|SS|Fertiliser,Whea,Wheat,SS,Subsistence,Fertiliser,IFERT_V,TRUE,27
+Whea|SS|Heating fuels,Whea,Wheat,SS,Subsistence,Heating fuels,IHFULS_V,TRUE,27
+Whea|SS|Labour,Whea,Wheat,SS,Subsistence,Labour,LABOR_VALUE,FALSE,27
+Whea|SS|Motor fuels,Whea,Wheat,SS,Subsistence,Motor fuels,IFULS_V,TRUE,27
+Whea|SS|Other crop costs,Whea,Wheat,SS,Subsistence,Other crop costs,ICRPOTH_V,FALSE,27
+Whea|SS|Seeds,Whea,Wheat,SS,Subsistence,Seeds,ISED_V,FALSE,27
+Whea|SS|Total,Whea,Wheat,SS,Subsistence,Total,sum of all items,TRUE,27
+Whea|SS|Water,Whea,Wheat,SS,Subsistence,Water,IWATR_V,FALSE,27

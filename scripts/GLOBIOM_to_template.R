@@ -6,8 +6,8 @@
 #   Rscript scripts/GLOBIOM_to_template.R [path/to/GLOBIOM_output.gdx]
 #
 # Source : inputs/GLOBIOM/merged_AgEnRes.gdx (OUTPUT_AG_REG, OUTPUT, REGION_AG_MAP)
-#          inputs/GLOBIOM/FADN_costs/FADN_costs_country_USD2000_ha.csv (COST add-on)
-#          inputs/GLOBIOM/LAMASUS_costs_country_20260420.csv (cost per ha for VAAD)
+#          data/GLOBIOM/FADN_costs/FADN_costs_country_USD2000_ha.csv (COST add-on, versioned)
+#          data/GLOBIOM/LAMASUS_costs_country_20260420.csv (cost per ha for VAAD, versioned)
 # Output : outputs/GLOBIOM/GLOBIOM_GLOBIOM_comprehensive.csv
 #          outputs/GLOBIOM/mapping_log.csv
 #          outputs/GLOBIOM/proposed_glossary_additions.csv
@@ -37,8 +37,8 @@ source(file.path(ROOT, "scripts", "GLOBIOM_processing.R"))
 MODEL       <- "GLOBIOM"
 args        <- commandArgs(trailingOnly = TRUE)
 GDX_REL     <- if (length(args) >= 1) args[1] else file.path("inputs", "GLOBIOM", "merged_AgEnRes.gdx")
-FADN_REL    <- file.path("inputs", "GLOBIOM", "FADN_costs", "FADN_costs_country_USD2000_ha.csv")
-COSTS_REL   <- file.path("inputs", "GLOBIOM", "LAMASUS_costs_country_20260420.csv")
+FADN_REL    <- file.path("data", "GLOBIOM", "FADN_costs", "FADN_costs_country_USD2000_ha.csv")
+COSTS_REL   <- file.path("data", "GLOBIOM", "LAMASUS_costs_country_20260420.csv")
 OUT_DIR_REL <- file.path("outputs", "GLOBIOM")
 OUT_CSV     <- "GLOBIOM_GLOBIOM_comprehensive.csv"
 
@@ -175,7 +175,7 @@ readme <- c(
   "",
   sprintf("- GDX: `%s`, symbol `OUTPUT_AG_REG` (%d records), plus `OUTPUT` and `REGION_AG_MAP` for the economic indicators.", GDX_REL, nrow(output_ag)),
   sprintf("- Scenarios (SCEN2): %s.", paste(sprintf("`%s`", scenarios), collapse = ", ")),
-  sprintf("- FADN crop production costs: `%s` (exogenous add-on, documented in `inputs/GLOBIOM/FADN_costs/README.txt`).", FADN_REL),
+  sprintf("- FADN crop production costs: `%s` (exogenous add-on, documented in `data/GLOBIOM/FADN_costs/README.txt`).", FADN_REL),
   sprintf("- Costs per ha for the value added: `%s` (EU countries).", COSTS_REL),
   "",
   "## 2. Output overview",
@@ -231,7 +231,7 @@ readme <- c(
   "```",
   "",
   "- R packages: `data.table`, `readxl`, `gamstransfer`, `dplyr`, `tidyr`.",
-  "- Inputs (not versioned): the GLOBIOM output GDX in `inputs/GLOBIOM/`, the FADN cost add-on in `inputs/GLOBIOM/FADN_costs/` and the cost file in `inputs/GLOBIOM/`. The run stops if SCEN2 does not identify the scenarios uniquely."
+  "- Inputs: the GLOBIOM output GDX in `inputs/GLOBIOM/` (not versioned); the FADN cost add-on (`data/GLOBIOM/FADN_costs/`) and the cost file (`data/GLOBIOM/`) are part of the repository. The run stops if SCEN2 does not identify the scenarios uniquely."
 )
 write_lines_lf(readme, file.path(out_dir, "README.md"))
 log_msg("== %s done (%.1fs) ==", MODEL, as.numeric(difftime(Sys.time(), t0, units = "secs")))

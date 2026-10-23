@@ -1,0 +1,28 @@
+Region,GLOBIOM_ALLCOUNTRY,data_source
+AUT,Austria,FADN
+BEL,Belgium,FADN
+BGR,Bulgaria,proxy: copy of ROU
+CYP,Cyprus,proxy: copy of GRC
+CZE,CzechRep,FADN
+DEU,Germany,FADN
+DNK,Denmark,proxy: copy of DEU
+ESP,Spain,FADN
+EST,Estonia,proxy: copy of FIN
+FIN,Finland,FADN
+FRA,France,FADN
+GRC,Greece,FADN
+HRV,Croatia,proxy: copy of HUN
+HUN,Hungary,FADN
+IRL,Ireland,proxy: copy of FRA
+ITA,Italy,FADN
+LTU,Lithuania,proxy: copy of POL
+LUX,Luxembourg,proxy: copy of BEL
+LVA,Latvia,proxy: copy of POL
+MLT,Malta,proxy: copy of ITA
+NLD,Netherlands,FADN
+POL,Poland,FADN
+PRT,Portugal,FADN
+ROU,Romania,FADN
+SVK,Slovakia,FADN
+SVN,Slovenia,proxy: copy of AUT
+SWE,Sweden,FADN

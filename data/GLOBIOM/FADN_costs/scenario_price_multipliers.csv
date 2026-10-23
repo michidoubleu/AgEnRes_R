@@ -1,0 +1,25 @@
+scenario,year,commodity,multiplier
+EPS-S1,2030,Diesel farm gas oil,1.1
+EPS-S1,2030,Heating oil,1.1
+EPS-S1,2030,Fertiliser composite,1.2
+EPS-S1,2030,Natural gas,2
+EPS-S1,2040,Diesel farm gas oil,1
+EPS-S1,2040,Heating oil,1
+EPS-S1,2040,Fertiliser composite,1
+EPS-S1,2040,Natural gas,1
+EPS-S2,2030,Diesel farm gas oil,1.25
+EPS-S2,2030,Heating oil,1.25
+EPS-S2,2030,Fertiliser composite,1.65
+EPS-S2,2030,Natural gas,2.25
+EPS-S2,2040,Diesel farm gas oil,1.25
+EPS-S2,2040,Heating oil,1.25
+EPS-S2,2040,Fertiliser composite,1.65
+EPS-S2,2040,Natural gas,2.25
+EPS-S3,2030,Diesel farm gas oil,1.15
+EPS-S3,2030,Heating oil,1.15
+EPS-S3,2030,Fertiliser composite,1.5
+EPS-S3,2030,Natural gas,1.9
+EPS-S3,2040,Diesel farm gas oil,1.5
+EPS-S3,2040,Heating oil,1.5
+EPS-S3,2040,Fertiliser composite,2
+EPS-S3,2040,Natural gas,3.1

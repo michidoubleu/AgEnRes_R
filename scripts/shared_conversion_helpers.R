@@ -6,7 +6,7 @@
 #   * COLUMNS: fixed by inputs/template/20260213_GLOBIOM_comprehensive.csv
 #     (Model,Scenario,Region,Item,Variable,Year,Unit,Value). That file only
 #     defines the columns and layout.
-#   * CODES: the GLOBIOM glossary (inputs/template/GLOBIOM_glossary.xlsx) and the
+#   * CODES: the GLOBIOM glossary (data/template/GLOBIOM_glossary.xlsx) and the
 #     codes used in the comprehensive file describe what GLOBIOM reports today.
 #     They are a SUGGESTION: partner models are fitted into this framework as
 #     well as possible, and where nothing fits a new code is proposed. Every new
@@ -30,7 +30,7 @@ suppressPackageStartupMessages({
 })
 
 TEMPLATE_CSV      <- file.path("inputs", "template", "20260213_GLOBIOM_comprehensive.csv")
-TEMPLATE_GLOSSARY <- file.path("inputs", "template", "GLOBIOM_glossary.xlsx")
+TEMPLATE_GLOSSARY <- file.path("data", "template", "GLOBIOM_glossary.xlsx")
 
 # Fallback only - the header of the template CSV is read when available.
 TEMPLATE_COLUMNS_FALLBACK <- c("Model", "Scenario", "Region", "Item", "Variable", "Year", "Unit", "Value")

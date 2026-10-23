@@ -1,0 +1,3160 @@
+country,ALLITEM,COST,Type,value
+Austria,Barl,Fuel,Cropland,0.0357546465151005
+Austria,Barl,K,Cropland,0.010859944370860358
+Austria,Barl,Labor,Cropland,0.030487548032236363
+Austria,Barl,Machinery,Cropland,0.27179997222708663
+Austria,Barl,N,Cropland,0.031607300780862234
+Austria,Barl,P,Cropland,0.009919829783532147
+Austria,Barl,Plant Protection,Cropland,0.008094923205082396
+Austria,BeaD,Fuel,Cropland,0.0718455179171549
+Austria,BeaD,K,Cropland,0.0043841321222022915
+Austria,BeaD,Labor,Cropland,0.020134334422862575
+Austria,BeaD,Machinery,Cropland,0.2378621002887687
+Austria,BeaD,N,Cropland,0.012759787519842488
+Austria,BeaD,P,Cropland,0.00400461023699672
+Austria,BeaD,Plant Protection,Cropland,0.009244052872213037
+Austria,Cass,Fuel,Cropland,0.1318903623629269
+Austria,Cass,K,Cropland,0.025730027403412677
+Austria,Cass,Labor,Cropland,0.09458644431610452
+Austria,Cass,Machinery,Cropland,2.0467394380312256
+Austria,Cass,N,Cropland,0.07488590065172346
+Austria,Cass,P,Cropland,0.02350265189684859
+Austria,Cass,Plant Protection,Cropland,0.2717373425492901
+Austria,ChkP,Fuel,Cropland,0.0718455179171549
+Austria,ChkP,K,Cropland,0.0043841321222022915
+Austria,ChkP,Labor,Cropland,0.020134334422862575
+Austria,ChkP,Machinery,Cropland,0.2378621002887687
+Austria,ChkP,N,Cropland,0.012759787519842488
+Austria,ChkP,P,Cropland,0.00400461023699672
+Austria,ChkP,Plant Protection,Cropland,0.009244052872213037
+Austria,Corn,Fuel,Cropland,0.05072895489504854
+Austria,Corn,K,Cropland,0.023685530149237227
+Austria,Corn,Labor,Cropland,0.06267894751173826
+Austria,Corn,Machinery,Cropland,0.36317857536718806
+Austria,Corn,N,Cropland,0.06893549819554118
+Austria,Corn,P,Cropland,0.021635140972139078
+Austria,Corn,Plant Protection,Cropland,0.007955887425841902
+Austria,Gnut,Fuel,Cropland,0.0718455179171549
+Austria,Gnut,K,Cropland,0.0043841321222022915
+Austria,Gnut,Labor,Cropland,0.020134334422862575
+Austria,Gnut,Machinery,Cropland,0.2378621002887687
+Austria,Gnut,N,Cropland,0.012759787519842488
+Austria,Gnut,P,Cropland,0.00400461023699672
+Austria,Gnut,Plant Protection,Cropland,0.009244052872213037
+Austria,Mill,Fuel,Cropland,0.0357546465151005
+Austria,Mill,K,Cropland,0.010859944370860358
+Austria,Mill,Labor,Cropland,0.030487548032236363
+Austria,Mill,Machinery,Cropland,0.27179997222708663
+Austria,Mill,N,Cropland,0.031607300780862234
+Austria,Mill,P,Cropland,0.009919829783532147
+Austria,Mill,Plant Protection,Cropland,0.008094923205082396
+Austria,Pota,Fuel,Cropland,0.1318903623629269
+Austria,Pota,K,Cropland,0.025730027403412677
+Austria,Pota,Labor,Cropland,0.09458644431610452
+Austria,Pota,Machinery,Cropland,2.0467394380312256
+Austria,Pota,N,Cropland,0.07488590065172346
+Austria,Pota,P,Cropland,0.02350265189684859
+Austria,Pota,Plant Protection,Cropland,0.2717373425492901
+Austria,Rape,Fuel,Cropland,0.05634637068927878
+Austria,Rape,K,Cropland,0.004718656298084232
+Austria,Rape,Labor,Cropland,0.005277532609243964
+Austria,Rape,Machinery,Cropland,0.3105138692454661
+Austria,Rape,N,Cropland,0.013733402658603362
+Austria,Rape,P,Cropland,0.004310175603623208
+Austria,Rape,Plant Protection,Cropland,0.011889901654575553
+Austria,Rice,Fuel,Cropland,0.03598426351106903
+Austria,Rice,K,Cropland,0
+Austria,Rice,Labor,Cropland,0.09621052145796004
+Austria,Rice,Machinery,Cropland,0.2508536910516608
+Austria,Rice,N,Cropland,0
+Austria,Rice,P,Cropland,0
+Austria,Rice,Plant Protection,Cropland,0.01570334213959656
+Austria,Soya,Fuel,Cropland,0.0718455179171549
+Austria,Soya,K,Cropland,0.0043841321222022915
+Austria,Soya,Labor,Cropland,0.020134334422862575
+Austria,Soya,Machinery,Cropland,0.2378621002887687
+Austria,Soya,N,Cropland,0.012759787519842488
+Austria,Soya,P,Cropland,0.00400461023699672
+Austria,Soya,Plant Protection,Cropland,0.009244052872213037
+Austria,Srgh,Fuel,Cropland,0.05072895489504854
+Austria,Srgh,K,Cropland,0.023685530149237227
+Austria,Srgh,Labor,Cropland,0.06267894751173826
+Austria,Srgh,Machinery,Cropland,0.36317857536718806
+Austria,Srgh,N,Cropland,0.06893549819554118
+Austria,Srgh,P,Cropland,0.021635140972139078
+Austria,Srgh,Plant Protection,Cropland,0.007955887425841902
+Austria,Sunf,Fuel,Cropland,0.05634637068927878
+Austria,Sunf,K,Cropland,0.004718656298084232
+Austria,Sunf,Labor,Cropland,0.005277532609243964
+Austria,Sunf,Machinery,Cropland,0.3105138692454661
+Austria,Sunf,N,Cropland,0.013733402658603362
+Austria,Sunf,P,Cropland,0.004310175603623208
+Austria,Sunf,Plant Protection,Cropland,0.011889901654575553
+Austria,SwPo,Fuel,Cropland,0.1318903623629269
+Austria,SwPo,K,Cropland,0.025730027403412677
+Austria,SwPo,Labor,Cropland,0.09458644431610452
+Austria,SwPo,Machinery,Cropland,2.0467394380312256
+Austria,SwPo,N,Cropland,0.07488590065172346
+Austria,SwPo,P,Cropland,0.02350265189684859
+Austria,SwPo,Plant Protection,Cropland,0.2717373425492901
+Austria,Whea,Fuel,Cropland,0.03598426351106903
+Austria,Whea,K,Cropland,0.015672514974370902
+Austria,Whea,Labor,Cropland,0.031950218569386374
+Austria,Whea,Machinery,Cropland,0.2508536910516608
+Austria,Whea,N,Cropland,0.0456140361194377
+Austria,Whea,P,Cropland,0.014315789797485061
+Austria,Whea,Plant Protection,Cropland,0.015118459693252081
+Austria,Extensive Grassland,fertCost_N,Grassland,0.023275521387776152
+Austria,Extensive Grassland,fertCost_P,Grassland,0.012245588989698705
+Austria,Extensive Grassland,fuelCost,Grassland,0.03655646555157471
+Austria,Extensive Grassland,labourCost,Grassland,0.0648506473047761
+Austria,Extensive Grassland,machCost,Grassland,0.1361557551257233
+Austria,Extensive Grassland,seedCost,Grassland,0.013074901958022899
+Austria,Grassland,fertCost_N,Grassland,0.05896753826280537
+Austria,Grassland,fertCost_P,Grassland,0.02140296140570219
+Austria,Grassland,fuelCost,Grassland,0.055161713025764954
+Austria,Grassland,labourCost,Grassland,0.1194126144641188
+Austria,Grassland,machCost,Grassland,0.15841275855089493
+Austria,Grassland,seedCost,Grassland,0.01311273057363632
+Belgium,Barl,Fuel,Cropland,0.03693812628730026
+Belgium,Barl,K,Cropland,0.01690129437216466
+Belgium,Barl,Labor,Cropland,0.014652364645622916
+Belgium,Barl,Machinery,Cropland,0.21337348906063397
+Belgium,Barl,N,Cropland,0.04919033436674789
+Belgium,Barl,P,Cropland,0.015438197247410105
+Belgium,Barl,Plant Protection,Cropland,0.01466638985245922
+Belgium,BeaD,Fuel,Cropland,0.07736521714921762
+Belgium,BeaD,K,Cropland,0
+Belgium,BeaD,Labor,Cropland,0.006663298513185207
+Belgium,BeaD,Machinery,Cropland,0.2805566175322673
+Belgium,BeaD,N,Cropland,0
+Belgium,BeaD,P,Cropland,0
+Belgium,BeaD,Plant Protection,Cropland,0.014093553987865614
+Belgium,Cass,Fuel,Cropland,0.11230163185751504
+Belgium,Cass,K,Cropland,0.033695948028964286
+Belgium,Cass,Labor,Cropland,0.033059049645110826
+Belgium,Cass,Machinery,Cropland,1.137510512743253
+Belgium,Cass,N,Cropland,0.0980702965022095
+Belgium,Cass,P,Cropland,0.030778985363770363
+Belgium,Cass,Plant Protection,Cropland,0.10289749479016072
+Belgium,ChkP,Fuel,Cropland,0.07736521714921762
+Belgium,ChkP,K,Cropland,0
+Belgium,ChkP,Labor,Cropland,0.006663298513185207
+Belgium,ChkP,Machinery,Cropland,0.2805566175322673
+Belgium,ChkP,N,Cropland,0
+Belgium,ChkP,P,Cropland,0
+Belgium,ChkP,Plant Protection,Cropland,0.014093553987865614
+Belgium,Corn,Fuel,Cropland,0.10469699861578927
+Belgium,Corn,K,Cropland,0.010937373294647426
+Belgium,Corn,Labor,Cropland,0.024185776427241575
+Belgium,Corn,Machinery,Cropland,0.42456467715189966
+Belgium,Corn,N,Cropland,0.03183265361874997
+Belgium,Corn,P,Cropland,0.00999055590496153
+Belgium,Corn,Plant Protection,Cropland,0.01455666865230071
+Belgium,Gnut,Fuel,Cropland,0.07736521714921762
+Belgium,Gnut,K,Cropland,0
+Belgium,Gnut,Labor,Cropland,0.006663298513185207
+Belgium,Gnut,Machinery,Cropland,0.2805566175322673
+Belgium,Gnut,N,Cropland,0
+Belgium,Gnut,P,Cropland,0
+Belgium,Gnut,Plant Protection,Cropland,0.014093553987865614
+Belgium,Mill,Fuel,Cropland,0.03693812628730026
+Belgium,Mill,K,Cropland,0.01690129437216466
+Belgium,Mill,Labor,Cropland,0.014652364645622916
+Belgium,Mill,Machinery,Cropland,0.21337348906063397
+Belgium,Mill,N,Cropland,0.04919033436674789
+Belgium,Mill,P,Cropland,0.015438197247410105
+Belgium,Mill,Plant Protection,Cropland,0.01466638985245922
+Belgium,Pota,Fuel,Cropland,0.11230163185751504
+Belgium,Pota,K,Cropland,0.033695948028964286
+Belgium,Pota,Labor,Cropland,0.033059049645110826
+Belgium,Pota,Machinery,Cropland,1.137510512743253
+Belgium,Pota,N,Cropland,0.0980702965022095
+Belgium,Pota,P,Cropland,0.030778985363770363
+Belgium,Pota,Plant Protection,Cropland,0.10289749479016072
+Belgium,Rape,Fuel,Cropland,0.05794674407440494
+Belgium,Rape,K,Cropland,0
+Belgium,Rape,Labor,Cropland,0.004482583420594795
+Belgium,Rape,Machinery,Cropland,0.21265928145251298
+Belgium,Rape,N,Cropland,0
+Belgium,Rape,P,Cropland,0
+Belgium,Rape,Plant Protection,Cropland,0.016133171079315747
+Belgium,Rice,Fuel,Cropland,0.03363156066497546
+Belgium,Rice,K,Cropland,0
+Belgium,Rice,Labor,Cropland,0.05870166531423262
+Belgium,Rice,Machinery,Cropland,0.20363645876972047
+Belgium,Rice,N,Cropland,0
+Belgium,Rice,P,Cropland,0
+Belgium,Rice,Plant Protection,Cropland,0.014617415953335964
+Belgium,Soya,Fuel,Cropland,0.07736521714921762
+Belgium,Soya,K,Cropland,0
+Belgium,Soya,Labor,Cropland,0.006663298513185207
+Belgium,Soya,Machinery,Cropland,0.2805566175322673
+Belgium,Soya,N,Cropland,0
+Belgium,Soya,P,Cropland,0
+Belgium,Soya,Plant Protection,Cropland,0.014093553987865614
+Belgium,Srgh,Fuel,Cropland,0.10469699861578927
+Belgium,Srgh,K,Cropland,0.010937373294647426
+Belgium,Srgh,Labor,Cropland,0.024185776427241575
+Belgium,Srgh,Machinery,Cropland,0.42456467715189966
+Belgium,Srgh,N,Cropland,0.03183265361874997
+Belgium,Srgh,P,Cropland,0.00999055590496153
+Belgium,Srgh,Plant Protection,Cropland,0.01455666865230071
+Belgium,Sunf,Fuel,Cropland,0.05794674407440494
+Belgium,Sunf,K,Cropland,0
+Belgium,Sunf,Labor,Cropland,0.004482583420594795
+Belgium,Sunf,Machinery,Cropland,0.21265928145251298
+Belgium,Sunf,N,Cropland,0
+Belgium,Sunf,P,Cropland,0
+Belgium,Sunf,Plant Protection,Cropland,0.016133171079315747
+Belgium,SwPo,Fuel,Cropland,0.11230163185751504
+Belgium,SwPo,K,Cropland,0.033695948028964286
+Belgium,SwPo,Labor,Cropland,0.033059049645110826
+Belgium,SwPo,Machinery,Cropland,1.137510512743253
+Belgium,SwPo,N,Cropland,0.0980702965022095
+Belgium,SwPo,P,Cropland,0.030778985363770363
+Belgium,SwPo,Plant Protection,Cropland,0.10289749479016072
+Belgium,Whea,Fuel,Cropland,0.03363156066497546
+Belgium,Whea,K,Cropland,0.022095703625550356
+Belgium,Whea,Labor,Cropland,0.013239308808795848
+Belgium,Whea,Machinery,Cropland,0.20363645876972047
+Belgium,Whea,N,Cropland,0.06430839114898984
+Belgium,Whea,P,Cropland,0.020182941222144504
+Belgium,Whea,Plant Protection,Cropland,0.014072979620864796
+Belgium,Extensive Grassland,fertCost_N,Grassland,0.027989832005185424
+Belgium,Extensive Grassland,fertCost_P,Grassland,0.02220945862545862
+Belgium,Extensive Grassland,fuelCost,Grassland,0.019997922930929633
+Belgium,Extensive Grassland,labourCost,Grassland,0.09669667314282956
+Belgium,Extensive Grassland,machCost,Grassland,0.1603669880830058
+Belgium,Extensive Grassland,seedCost,Grassland,0.01545750665829291
+Belgium,Grassland,fertCost_N,Grassland,0.043439037892751345
+Belgium,Grassland,fertCost_P,Grassland,0.022334326665111835
+Belgium,Grassland,fuelCost,Grassland,0.01955668981355257
+Belgium,Grassland,labourCost,Grassland,0.1845419268800647
+Belgium,Grassland,machCost,Grassland,0.16729954940214073
+Belgium,Grassland,seedCost,Grassland,0.010054879081217367
+Bulgaria,Barl,Fuel,Cropland,0.03222942352863904
+Bulgaria,Barl,K,Cropland,0.010544687487352503
+Bulgaria,Barl,Labor,Cropland,0.0028107681382020526
+Bulgaria,Barl,Machinery,Cropland,0.11453895494717815
+Bulgaria,Barl,N,Cropland,0.030689762090055788
+Bulgaria,Barl,P,Cropland,0.009631863794417508
+Bulgaria,Barl,Plant Protection,Cropland,0.0076071243917417005
+Bulgaria,BeaD,Fuel,Cropland,0.06598256485281523
+Bulgaria,BeaD,K,Cropland,0.010210760015977384
+Bulgaria,BeaD,Labor,Cropland,0.00127822284041948
+Bulgaria,BeaD,Machinery,Cropland,0.13347650509771905
+Bulgaria,BeaD,N,Cropland,0.02971788362859089
+Bulgaria,BeaD,P,Cropland,0.009326843477280834
+Bulgaria,BeaD,Plant Protection,Cropland,0.009963375151565514
+Bulgaria,Cass,Fuel,Cropland,0.12322967951655626
+Bulgaria,Cass,K,Cropland,0.030122780455216613
+Bulgaria,Cass,Labor,Cropland,0.006341728838251079
+Bulgaria,Cass,Machinery,Cropland,0.6608472586531097
+Bulgaria,Cass,N,Cropland,0.08767077893682447
+Bulgaria,Cass,P,Cropland,0.027515136774018754
+Bulgaria,Cass,Plant Protection,Cropland,0.38830292024769686
+Bulgaria,ChkP,Fuel,Cropland,0.06598256485281523
+Bulgaria,ChkP,K,Cropland,0.010210760015977384
+Bulgaria,ChkP,Labor,Cropland,0.00127822284041948
+Bulgaria,ChkP,Machinery,Cropland,0.13347650509771905
+Bulgaria,ChkP,N,Cropland,0.02971788362859089
+Bulgaria,ChkP,P,Cropland,0.009326843477280834
+Bulgaria,ChkP,Plant Protection,Cropland,0.009963375151565514
+Bulgaria,Corn,Fuel,Cropland,0.10417921828230131
+Bulgaria,Corn,K,Cropland,0.016877302524553994
+Bulgaria,Corn,Labor,Cropland,0.004639565791838021
+Bulgaria,Corn,Machinery,Cropland,0.21863129870589015
+Bulgaria,Corn,N,Cropland,0.04912050734758252
+Bulgaria,Corn,P,Cropland,0.015416282306010512
+Bulgaria,Corn,Plant Protection,Cropland,0.007320039651721924
+Bulgaria,Gnut,Fuel,Cropland,0.06598256485281523
+Bulgaria,Gnut,K,Cropland,0.010210760015977384
+Bulgaria,Gnut,Labor,Cropland,0.00127822284041948
+Bulgaria,Gnut,Machinery,Cropland,0.13347650509771905
+Bulgaria,Gnut,N,Cropland,0.02971788362859089
+Bulgaria,Gnut,P,Cropland,0.009326843477280834
+Bulgaria,Gnut,Plant Protection,Cropland,0.009963375151565514
+Bulgaria,Mill,Fuel,Cropland,0.03222942352863904
+Bulgaria,Mill,K,Cropland,0.010544687487352503
+Bulgaria,Mill,Labor,Cropland,0.0028107681382020526
+Bulgaria,Mill,Machinery,Cropland,0.11453895494717815
+Bulgaria,Mill,N,Cropland,0.030689762090055788
+Bulgaria,Mill,P,Cropland,0.009631863794417508
+Bulgaria,Mill,Plant Protection,Cropland,0.0076071243917417005
+Bulgaria,Pota,Fuel,Cropland,0.12322967951655626
+Bulgaria,Pota,K,Cropland,0.030122780455216613
+Bulgaria,Pota,Labor,Cropland,0.006341728838251079
+Bulgaria,Pota,Machinery,Cropland,0.6608472586531097
+Bulgaria,Pota,N,Cropland,0.08767077893682447
+Bulgaria,Pota,P,Cropland,0.027515136774018754
+Bulgaria,Pota,Plant Protection,Cropland,0.38830292024769686
+Bulgaria,Rape,Fuel,Cropland,0.05186224810883228
+Bulgaria,Rape,K,Cropland,0.011405011081274384
+Bulgaria,Rape,Labor,Cropland,8.598955158548049e-4
+Bulgaria,Rape,Machinery,Cropland,0.13460535827675627
+Bulgaria,Rape,N,Cropland,0.03319368896788814
+Bulgaria,Rape,P,Cropland,0.010417711614537199
+Bulgaria,Rape,Plant Protection,Cropland,0.014792105830439304
+Bulgaria,Rice,Fuel,Cropland,0.032408919080469334
+Bulgaria,Rice,K,Cropland,0.042898437545035674
+Bulgaria,Rice,Labor,Cropland,0.011260760601800538
+Bulgaria,Rice,Machinery,Cropland,0.10770731674692534
+Bulgaria,Rice,N,Cropland,0.124853661511671
+Bulgaria,Rice,P,Cropland,0.03918484145904751
+Bulgaria,Rice,Plant Protection,Cropland,0.0080424558487008
+Bulgaria,Soya,Fuel,Cropland,0.06598256485281523
+Bulgaria,Soya,K,Cropland,0.010210760015977384
+Bulgaria,Soya,Labor,Cropland,0.00127822284041948
+Bulgaria,Soya,Machinery,Cropland,0.13347650509771905
+Bulgaria,Soya,N,Cropland,0.02971788362859089
+Bulgaria,Soya,P,Cropland,0.009326843477280834
+Bulgaria,Soya,Plant Protection,Cropland,0.009963375151565514
+Bulgaria,Srgh,Fuel,Cropland,0.10417921828230131
+Bulgaria,Srgh,K,Cropland,0.016877302524553994
+Bulgaria,Srgh,Labor,Cropland,0.004639565791838021
+Bulgaria,Srgh,Machinery,Cropland,0.21863129870589015
+Bulgaria,Srgh,N,Cropland,0.04912050734758252
+Bulgaria,Srgh,P,Cropland,0.015416282306010512
+Bulgaria,Srgh,Plant Protection,Cropland,0.007320039651721924
+Bulgaria,Sunf,Fuel,Cropland,0.05186224810883228
+Bulgaria,Sunf,K,Cropland,0.011405011081274384
+Bulgaria,Sunf,Labor,Cropland,8.598955158548049e-4
+Bulgaria,Sunf,Machinery,Cropland,0.13460535827675627
+Bulgaria,Sunf,N,Cropland,0.03319368896788814
+Bulgaria,Sunf,P,Cropland,0.010417711614537199
+Bulgaria,Sunf,Plant Protection,Cropland,0.014792105830439304
+Bulgaria,SwPo,Fuel,Cropland,0.12322967951655626
+Bulgaria,SwPo,K,Cropland,0.030122780455216613
+Bulgaria,SwPo,Labor,Cropland,0.006341728838251079
+Bulgaria,SwPo,Machinery,Cropland,0.6608472586531097
+Bulgaria,SwPo,N,Cropland,0.08767077893682447
+Bulgaria,SwPo,P,Cropland,0.027515136774018754
+Bulgaria,SwPo,Plant Protection,Cropland,0.38830292024769686
+Bulgaria,Whea,Fuel,Cropland,0.032408919080469334
+Bulgaria,Whea,K,Cropland,0.01666366578373685
+Bulgaria,Whea,Labor,Cropland,0.002539701152107051
+Bulgaria,Whea,Machinery,Cropland,0.10770731674692534
+Bulgaria,Whea,N,Cropland,0.048498728773562476
+Bulgaria,Whea,P,Cropland,0.015221139492010377
+Bulgaria,Whea,Plant Protection,Cropland,0.02187225587048125
+Bulgaria,Extensive Grassland,fertCost_N,Grassland,0.014885128009080878
+Bulgaria,Extensive Grassland,fertCost_P,Grassland,0.006060700506977103
+Bulgaria,Extensive Grassland,fuelCost,Grassland,0.04453414087930401
+Bulgaria,Extensive Grassland,labourCost,Grassland,0.008725597744187248
+Bulgaria,Extensive Grassland,machCost,Grassland,0.06661296666064961
+Bulgaria,Extensive Grassland,seedCost,Grassland,0.005391454726017288
+Bulgaria,Grassland,fertCost_N,Grassland,0.04458126768965952
+Bulgaria,Grassland,fertCost_P,Grassland,0.013361106260498962
+Bulgaria,Grassland,fuelCost,Grassland,0.07292821591109747
+Bulgaria,Grassland,labourCost,Grassland,0.018301632440976795
+Bulgaria,Grassland,machCost,Grassland,0.08167990650523578
+Bulgaria,Grassland,seedCost,Grassland,0.005924795184637969
+Cyprus,Barl,Fuel,Cropland,0.03856357931283515
+Cyprus,Barl,K,Cropland,0.008654384023723262
+Cyprus,Barl,Labor,Cropland,0.013303460818744436
+Cyprus,Barl,Machinery,Cropland,0.2205934852739607
+Cyprus,Barl,N,Cropland,0.02518813260635875
+Cyprus,Barl,P,Cropland,0.007905198541072592
+Cyprus,Barl,Plant Protection,Cropland,0.004920529518217005
+Cyprus,BeaD,Fuel,Cropland,0.072829385289879
+Cyprus,BeaD,K,Cropland,0
+Cyprus,BeaD,Labor,Cropland,0.008785761610701808
+Cyprus,BeaD,Machinery,Cropland,0.1860706142284172
+Cyprus,BeaD,N,Cropland,0
+Cyprus,BeaD,P,Cropland,0
+Cyprus,BeaD,Plant Protection,Cropland,0.006821582816449046
+Cyprus,Cass,Fuel,Cropland,0.14306514334423212
+Cyprus,Cass,K,Cropland,0.010871270571672078
+Cyprus,Cass,Labor,Cropland,0.041273475145103246
+Cyprus,Cass,Machinery,Cropland,1.8838699962938459
+Cyprus,Cass,N,Cropland,0.03164026509665754
+Cyprus,Cass,P,Cropland,0.009930175507258674
+Cyprus,Cass,Plant Protection,Cropland,0.47926915870248127
+Cyprus,ChkP,Fuel,Cropland,0.072829385289879
+Cyprus,ChkP,K,Cropland,0
+Cyprus,ChkP,Labor,Cropland,0.008785761610701808
+Cyprus,ChkP,Machinery,Cropland,0.1860706142284172
+Cyprus,ChkP,N,Cropland,0
+Cyprus,ChkP,P,Cropland,0
+Cyprus,ChkP,Plant Protection,Cropland,0.006821582816449046
+Cyprus,Corn,Fuel,Cropland,0.05513120457053732
+Cyprus,Corn,K,Cropland,0
+Cyprus,Corn,Labor,Cropland,0.027350409468838606
+Cyprus,Corn,Machinery,Cropland,0.32118577218942723
+Cyprus,Corn,N,Cropland,0
+Cyprus,Corn,P,Cropland,0
+Cyprus,Corn,Plant Protection,Cropland,0.013363150772588062
+Cyprus,Gnut,Fuel,Cropland,0.072829385289879
+Cyprus,Gnut,K,Cropland,0
+Cyprus,Gnut,Labor,Cropland,0.008785761610701808
+Cyprus,Gnut,Machinery,Cropland,0.1860706142284172
+Cyprus,Gnut,N,Cropland,0
+Cyprus,Gnut,P,Cropland,0
+Cyprus,Gnut,Plant Protection,Cropland,0.006821582816449046
+Cyprus,Mill,Fuel,Cropland,0.03856357931283515
+Cyprus,Mill,K,Cropland,0.008654384023723262
+Cyprus,Mill,Labor,Cropland,0.013303460818744436
+Cyprus,Mill,Machinery,Cropland,0.2205934852739607
+Cyprus,Mill,N,Cropland,0.02518813260635875
+Cyprus,Mill,P,Cropland,0.007905198541072592
+Cyprus,Mill,Plant Protection,Cropland,0.004920529518217005
+Cyprus,Pota,Fuel,Cropland,0.14306514334423212
+Cyprus,Pota,K,Cropland,0.010871270571672078
+Cyprus,Pota,Labor,Cropland,0.041273475145103246
+Cyprus,Pota,Machinery,Cropland,1.8838699962938459
+Cyprus,Pota,N,Cropland,0.03164026509665754
+Cyprus,Pota,P,Cropland,0.009930175507258674
+Cyprus,Pota,Plant Protection,Cropland,0.47926915870248127
+Cyprus,Rape,Fuel,Cropland,0.08234766472794673
+Cyprus,Rape,K,Cropland,0
+Cyprus,Rape,Labor,Cropland,0.0023028893045936786
+Cyprus,Rape,Machinery,Cropland,0.29175530718375703
+Cyprus,Rape,N,Cropland,0
+Cyprus,Rape,P,Cropland,0
+Cyprus,Rape,Plant Protection,Cropland,0.007244569970140904
+Cyprus,Rice,Fuel,Cropland,0.040903662860272756
+Cyprus,Rice,K,Cropland,0
+Cyprus,Rice,Labor,Cropland,0.04198215288463312
+Cyprus,Rice,Machinery,Cropland,0.19975920259076888
+Cyprus,Rice,N,Cropland,0
+Cyprus,Rice,P,Cropland,0
+Cyprus,Rice,Plant Protection,Cropland,0.004706119961193881
+Cyprus,Soya,Fuel,Cropland,0.072829385289879
+Cyprus,Soya,K,Cropland,0
+Cyprus,Soya,Labor,Cropland,0.008785761610701808
+Cyprus,Soya,Machinery,Cropland,0.1860706142284172
+Cyprus,Soya,N,Cropland,0
+Cyprus,Soya,P,Cropland,0
+Cyprus,Soya,Plant Protection,Cropland,0.006821582816449046
+Cyprus,Srgh,Fuel,Cropland,0.05513120457053732
+Cyprus,Srgh,K,Cropland,0
+Cyprus,Srgh,Labor,Cropland,0.027350409468838606
+Cyprus,Srgh,Machinery,Cropland,0.32118577218942723
+Cyprus,Srgh,N,Cropland,0
+Cyprus,Srgh,P,Cropland,0
+Cyprus,Srgh,Plant Protection,Cropland,0.013363150772588062
+Cyprus,Sunf,Fuel,Cropland,0.08234766472794673
+Cyprus,Sunf,K,Cropland,0
+Cyprus,Sunf,Labor,Cropland,0.0023028893045936786
+Cyprus,Sunf,Machinery,Cropland,0.29175530718375703
+Cyprus,Sunf,N,Cropland,0
+Cyprus,Sunf,P,Cropland,0
+Cyprus,Sunf,Plant Protection,Cropland,0.007244569970140904
+Cyprus,SwPo,Fuel,Cropland,0.14306514334423212
+Cyprus,SwPo,K,Cropland,0.010871270571672078
+Cyprus,SwPo,Labor,Cropland,0.041273475145103246
+Cyprus,SwPo,Machinery,Cropland,1.8838699962938459
+Cyprus,SwPo,N,Cropland,0.03164026509665754
+Cyprus,SwPo,P,Cropland,0.009930175507258674
+Cyprus,SwPo,Plant Protection,Cropland,0.47926915870248127
+Cyprus,Whea,Fuel,Cropland,0.040903662860272756
+Cyprus,Whea,K,Cropland,0.009272554311132067
+Cyprus,Whea,Labor,Cropland,0.013941707625641871
+Cyprus,Whea,Machinery,Cropland,0.19975920259076888
+Cyprus,Whea,N,Cropland,0.026987284935384374
+Cyprus,Whea,P,Cropland,0.008469855579720634
+Cyprus,Whea,Plant Protection,Cropland,0.015938926177943166
+Cyprus,Extensive Grassland,fertCost_N,Grassland,0.0348977748961661
+Cyprus,Extensive Grassland,fertCost_P,Grassland,0.03244226104006982
+Cyprus,Extensive Grassland,fuelCost,Grassland,0.024707418318269118
+Cyprus,Extensive Grassland,labourCost,Grassland,0.029850068185514382
+Cyprus,Extensive Grassland,machCost,Grassland,0.13243561565601294
+Cyprus,Extensive Grassland,seedCost,Grassland,0.011622271696885749
+Cyprus,Grassland,fertCost_N,Grassland,0.041825344754609105
+Cyprus,Grassland,fertCost_P,Grassland,0.019408521913384734
+Cyprus,Grassland,fuelCost,Grassland,0.03960485869314981
+Cyprus,Grassland,labourCost,Grassland,0.07844972409906024
+Cyprus,Grassland,machCost,Grassland,0.1280426925870648
+Cyprus,Grassland,seedCost,Grassland,0.008359876183050901
+CzechRep,Barl,Fuel,Cropland,0.03312966495620402
+CzechRep,Barl,K,Cropland,0.01307009711998009
+CzechRep,Barl,Labor,Cropland,0.004974733971517582
+CzechRep,Barl,Machinery,Cropland,0.1585720551152157
+CzechRep,Barl,N,Cropland,0.03803983490143459
+CzechRep,Barl,P,Cropland,0.011938655876757933
+CzechRep,Barl,Plant Protection,Cropland,0.004387808202538589
+CzechRep,BeaD,Fuel,Cropland,0.06782560862692165
+CzechRep,BeaD,K,Cropland,0.011164289649893928
+CzechRep,BeaD,Labor,Cropland,0.0022623063428746535
+CzechRep,BeaD,Machinery,Cropland,0.1847899148210887
+CzechRep,BeaD,N,Cropland,0.03249308181685546
+CzechRep,BeaD,P,Cropland,0.010197828754828482
+CzechRep,BeaD,Plant Protection,Cropland,0.0060589592614502235
+CzechRep,Cass,Fuel,Cropland,0.12667176598477317
+CzechRep,Cass,K,Cropland,0.02149526816600855
+CzechRep,Cass,Labor,Cropland,0.011224125341758269
+CzechRep,Cass,Machinery,Cropland,0.9149019034625617
+CzechRep,Cass,N,Cropland,0.06256085511002488
+CzechRep,Cass,P,Cropland,0.019634483757607808
+CzechRep,Cass,Plant Protection,Cropland,0.22792888484677887
+CzechRep,ChkP,Fuel,Cropland,0.06782560862692165
+CzechRep,ChkP,K,Cropland,0.011164289649893928
+CzechRep,ChkP,Labor,Cropland,0.0022623063428746535
+CzechRep,ChkP,Machinery,Cropland,0.1847899148210887
+CzechRep,ChkP,N,Cropland,0.03249308181685546
+CzechRep,ChkP,P,Cropland,0.010197828754828482
+CzechRep,ChkP,Plant Protection,Cropland,0.0060589592614502235
+CzechRep,Corn,Fuel,Cropland,0.10708918184729417
+CzechRep,Corn,K,Cropland,0.022060933117745617
+CzechRep,Corn,Labor,Cropland,0.008211493948594174
+CzechRep,Corn,Machinery,Cropland,0.3026814271744066
+CzechRep,Corn,N,Cropland,0.06420719340239395
+CzechRep,Corn,P,Cropland,0.020151180698597487
+CzechRep,Corn,Plant Protection,Cropland,0.004207920305108833
+CzechRep,Gnut,Fuel,Cropland,0.06782560862692165
+CzechRep,Gnut,K,Cropland,0.011164289649893928
+CzechRep,Gnut,Labor,Cropland,0.0022623063428746535
+CzechRep,Gnut,Machinery,Cropland,0.1847899148210887
+CzechRep,Gnut,N,Cropland,0.03249308181685546
+CzechRep,Gnut,P,Cropland,0.010197828754828482
+CzechRep,Gnut,Plant Protection,Cropland,0.0060589592614502235
+CzechRep,Mill,Fuel,Cropland,0.03312966495620402
+CzechRep,Mill,K,Cropland,0.01307009711998009
+CzechRep,Mill,Labor,Cropland,0.004974733971517582
+CzechRep,Mill,Machinery,Cropland,0.1585720551152157
+CzechRep,Mill,N,Cropland,0.03803983490143459
+CzechRep,Mill,P,Cropland,0.011938655876757933
+CzechRep,Mill,Plant Protection,Cropland,0.004387808202538589
+CzechRep,Pota,Fuel,Cropland,0.12667176598477317
+CzechRep,Pota,K,Cropland,0.02149526816600855
+CzechRep,Pota,Labor,Cropland,0.011224125341758269
+CzechRep,Pota,Machinery,Cropland,0.9149019034625617
+CzechRep,Pota,N,Cropland,0.06256085511002488
+CzechRep,Pota,P,Cropland,0.019634483757607808
+CzechRep,Pota,Plant Protection,Cropland,0.22792888484677887
+CzechRep,Rape,Fuel,Cropland,0.05331087917828772
+CzechRep,Rape,K,Cropland,0.01248870690885071
+CzechRep,Rape,Labor,Cropland,0.0015219154424508516
+CzechRep,Rape,Machinery,Cropland,0.18635274177453673
+CzechRep,Rape,N,Cropland,0.036347729063072966
+CzechRep,Rape,P,Cropland,0.011407594967487514
+CzechRep,Rape,Plant Protection,Cropland,0.008997481580369664
+CzechRep,Rice,Fuel,Cropland,0.03331417422885615
+CzechRep,Rice,K,Cropland,0
+CzechRep,Rice,Labor,Cropland,0.01993024168359096
+CzechRep,Rice,Machinery,Cropland,0.14911407712954916
+CzechRep,Rice,N,Cropland,0
+CzechRep,Rice,P,Cropland,0
+CzechRep,Rice,Plant Protection,Cropland,0.007102306122146417
+CzechRep,Soya,Fuel,Cropland,0.06782560862692165
+CzechRep,Soya,K,Cropland,0.011164289649893928
+CzechRep,Soya,Labor,Cropland,0.0022623063428746535
+CzechRep,Soya,Machinery,Cropland,0.1847899148210887
+CzechRep,Soya,N,Cropland,0.03249308181685546
+CzechRep,Soya,P,Cropland,0.010197828754828482
+CzechRep,Soya,Plant Protection,Cropland,0.0060589592614502235
+CzechRep,Srgh,Fuel,Cropland,0.10708918184729417
+CzechRep,Srgh,K,Cropland,0.022060933117745617
+CzechRep,Srgh,Labor,Cropland,0.008211493948594174
+CzechRep,Srgh,Machinery,Cropland,0.3026814271744066
+CzechRep,Srgh,N,Cropland,0.06420719340239395
+CzechRep,Srgh,P,Cropland,0.020151180698597487
+CzechRep,Srgh,Plant Protection,Cropland,0.004207920305108833
+CzechRep,Sunf,Fuel,Cropland,0.05331087917828772
+CzechRep,Sunf,K,Cropland,0.01248870690885071
+CzechRep,Sunf,Labor,Cropland,0.0015219154424508516
+CzechRep,Sunf,Machinery,Cropland,0.18635274177453673
+CzechRep,Sunf,N,Cropland,0.036347729063072966
+CzechRep,Sunf,P,Cropland,0.011407594967487514
+CzechRep,Sunf,Plant Protection,Cropland,0.008997481580369664
+CzechRep,SwPo,Fuel,Cropland,0.12667176598477317
+CzechRep,SwPo,K,Cropland,0.02149526816600855
+CzechRep,SwPo,Labor,Cropland,0.011224125341758269
+CzechRep,SwPo,Machinery,Cropland,0.9149019034625617
+CzechRep,SwPo,N,Cropland,0.06256085511002488
+CzechRep,SwPo,P,Cropland,0.019634483757607808
+CzechRep,SwPo,Plant Protection,Cropland,0.22792888484677887
+CzechRep,Whea,Fuel,Cropland,0.03331417422885615
+CzechRep,Whea,K,Cropland,0.022287199098440444
+CzechRep,Whea,Labor,Cropland,0.004494976809780909
+CzechRep,Whea,Machinery,Cropland,0.14911407712954916
+CzechRep,Whea,N,Cropland,0.06486572871934158
+CzechRep,Whea,P,Cropland,0.02035785947499336
+CzechRep,Whea,Plant Protection,Cropland,0.018401093569427616
+CzechRep,Extensive Grassland,fertCost_N,Grassland,0.0038375196494000357
+CzechRep,Extensive Grassland,fertCost_P,Grassland,0.004720381185442228
+CzechRep,Extensive Grassland,fuelCost,Grassland,0.022605127564586047
+CzechRep,Extensive Grassland,labourCost,Grassland,0.02570799660107391
+CzechRep,Extensive Grassland,machCost,Grassland,0.07791911243758055
+CzechRep,Extensive Grassland,seedCost,Grassland,0.0042089796195762955
+CzechRep,Grassland,fertCost_N,Grassland,0.07117592995213681
+CzechRep,Grassland,fertCost_P,Grassland,0.060744730952822935
+CzechRep,Grassland,fuelCost,Grassland,0.07892693403948602
+CzechRep,Grassland,labourCost,Grassland,0.05178314749387768
+CzechRep,Grassland,machCost,Grassland,0.11875389252435553
+CzechRep,Grassland,seedCost,Grassland,0.009618429943080315
+Germany,Barl,Fuel,Cropland,0.0339630114765842
+Germany,Barl,K,Cropland,0.010261961690715811
+Germany,Barl,Labor,Cropland,0.013915834833806992
+Germany,Barl,Machinery,Cropland,0.23524405071731155
+Germany,Barl,N,Cropland,0.029866903428202734
+Germany,Barl,P,Cropland,0.009373612768235935
+Germany,Barl,Plant Protection,Cropland,0.01630158240718688
+Germany,BeaD,Fuel,Cropland,0.069531699980898
+Germany,BeaD,K,Cropland,0.0033955374085148492
+Germany,BeaD,Labor,Cropland,0.006328354760508694
+Germany,BeaD,Machinery,Cropland,0.2741386435450037
+Germany,BeaD,N,Cropland,0.00988253424866262
+Germany,BeaD,P,Cropland,0.003101595364195653
+Germany,BeaD,Plant Protection,Cropland,0.017232064833471814
+Germany,Cass,Fuel,Cropland,0.12985807878188024
+Germany,Cass,K,Cropland,0.02556462683037706
+Germany,Cass,Labor,Cropland,0.03139727175445477
+Germany,Cass,Machinery,Cropland,1.3572708615651157
+Germany,Cass,N,Cropland,0.07440451092423174
+Germany,Cass,P,Cropland,0.023351569582374266
+Germany,Cass,Plant Protection,Cropland,0.21594108836092413
+Germany,ChkP,Fuel,Cropland,0.069531699980898
+Germany,ChkP,K,Cropland,0.0033955374085148492
+Germany,ChkP,Labor,Cropland,0.006328354760508694
+Germany,ChkP,Machinery,Cropland,0.2741386435450037
+Germany,ChkP,N,Cropland,0.00988253424866262
+Germany,ChkP,P,Cropland,0.003101595364195653
+Germany,ChkP,Plant Protection,Cropland,0.017232064833471814
+Germany,Corn,Fuel,Cropland,0.10978291259225571
+Germany,Corn,K,Cropland,0.015551814655146042
+Germany,Corn,Labor,Cropland,0.022970030996970727
+Germany,Corn,Machinery,Cropland,0.44903249160279585
+Germany,Corn,N,Cropland,0.0452627441455743
+Germany,Corn,P,Cropland,0.014205538162611012
+Germany,Corn,Plant Protection,Cropland,0.016259166823371123
+Germany,Gnut,Fuel,Cropland,0.069531699980898
+Germany,Gnut,K,Cropland,0.0033955374085148492
+Germany,Gnut,Labor,Cropland,0.006328354760508694
+Germany,Gnut,Machinery,Cropland,0.2741386435450037
+Germany,Gnut,N,Cropland,0.00988253424866262
+Germany,Gnut,P,Cropland,0.003101595364195653
+Germany,Gnut,Plant Protection,Cropland,0.017232064833471814
+Germany,Mill,Fuel,Cropland,0.0339630114765842
+Germany,Mill,K,Cropland,0.010261961690715811
+Germany,Mill,Labor,Cropland,0.013915834833806992
+Germany,Mill,Machinery,Cropland,0.23524405071731155
+Germany,Mill,N,Cropland,0.029866903428202734
+Germany,Mill,P,Cropland,0.009373612768235935
+Germany,Mill,Plant Protection,Cropland,0.01630158240718688
+Germany,Pota,Fuel,Cropland,0.12985807878188024
+Germany,Pota,K,Cropland,0.02556462683037706
+Germany,Pota,Labor,Cropland,0.03139727175445477
+Germany,Pota,Machinery,Cropland,1.3572708615651157
+Germany,Pota,N,Cropland,0.07440451092423174
+Germany,Pota,P,Cropland,0.023351569582374266
+Germany,Pota,Plant Protection,Cropland,0.21594108836092413
+Germany,Rape,Fuel,Cropland,0.05465186574486977
+Germany,Rape,K,Cropland,0.0030213216908432667
+Germany,Rape,Labor,Cropland,0.004257257583907669
+Germany,Rape,Machinery,Cropland,0.27645712109235326
+Germany,Rape,N,Cropland,0.008793398950961746
+Germany,Rape,P,Cropland,0.002759774439994148
+Germany,Rape,Plant Protection,Cropland,0.025106987454336843
+Germany,Rice,Fuel,Cropland,0.03415216191178795
+Germany,Rice,K,Cropland,0
+Germany,Rice,Labor,Cropland,0.05575091111497177
+Germany,Rice,Machinery,Cropland,0.22121299688215376
+Germany,Rice,N,Cropland,0
+Germany,Rice,P,Cropland,0
+Germany,Rice,Plant Protection,Cropland,0.02101774203118349
+Germany,Soya,Fuel,Cropland,0.069531699980898
+Germany,Soya,K,Cropland,0.0033955374085148492
+Germany,Soya,Labor,Cropland,0.006328354760508694
+Germany,Soya,Machinery,Cropland,0.2741386435450037
+Germany,Soya,N,Cropland,0.00988253424866262
+Germany,Soya,P,Cropland,0.003101595364195653
+Germany,Soya,Plant Protection,Cropland,0.017232064833471814
+Germany,Srgh,Fuel,Cropland,0.10978291259225571
+Germany,Srgh,K,Cropland,0.015551814655146042
+Germany,Srgh,Labor,Cropland,0.022970030996970727
+Germany,Srgh,Machinery,Cropland,0.44903249160279585
+Germany,Srgh,N,Cropland,0.0452627441455743
+Germany,Srgh,P,Cropland,0.014205538162611012
+Germany,Srgh,Plant Protection,Cropland,0.016259166823371123
+Germany,Sunf,Fuel,Cropland,0.05465186574486977
+Germany,Sunf,K,Cropland,0.0030213216908432667
+Germany,Sunf,Labor,Cropland,0.004257257583907669
+Germany,Sunf,Machinery,Cropland,0.27645712109235326
+Germany,Sunf,N,Cropland,0.008793398950961746
+Germany,Sunf,P,Cropland,0.002759774439994148
+Germany,Sunf,Plant Protection,Cropland,0.025106987454336843
+Germany,SwPo,Fuel,Cropland,0.12985807878188024
+Germany,SwPo,K,Cropland,0.02556462683037706
+Germany,SwPo,Labor,Cropland,0.03139727175445477
+Germany,SwPo,Machinery,Cropland,1.3572708615651157
+Germany,SwPo,N,Cropland,0.07440451092423174
+Germany,SwPo,P,Cropland,0.023351569582374266
+Germany,SwPo,Plant Protection,Cropland,0.21594108836092413
+Germany,Whea,Fuel,Cropland,0.03415216191178795
+Germany,Whea,K,Cropland,0.012569274858268722
+Germany,Whea,Labor,Cropland,0.012573809016690397
+Germany,Whea,Machinery,Cropland,0.22121299688215376
+Germany,Whea,N,Cropland,0.03658221787108061
+Germany,Whea,P,Cropland,0.011481188378000683
+Germany,Whea,Plant Protection,Cropland,0.020234920879701426
+Germany,Extensive Grassland,fertCost_N,Grassland,0.025350391260891128
+Germany,Extensive Grassland,fertCost_P,Grassland,0.010819777281041932
+Germany,Extensive Grassland,fuelCost,Grassland,0.037047275896090644
+Germany,Extensive Grassland,labourCost,Grassland,0.061183535728176315
+Germany,Extensive Grassland,machCost,Grassland,0.1345969695242906
+Germany,Extensive Grassland,seedCost,Grassland,0.013095032049467685
+Germany,Grassland,fertCost_N,Grassland,0.04007711825015498
+Germany,Grassland,fertCost_P,Grassland,0.011989635951440496
+Germany,Grassland,fuelCost,Grassland,0.04311585908205205
+Germany,Grassland,labourCost,Grassland,0.10236164523549159
+Germany,Grassland,machCost,Grassland,0.14235405072550014
+Germany,Grassland,seedCost,Grassland,0.010891408972313844
+Denmark,Barl,Fuel,Cropland,0.036597142632075655
+Denmark,Barl,K,Cropland,0.010556533383483755
+Denmark,Barl,Labor,Cropland,0.008937403400398941
+Denmark,Barl,Machinery,Cropland,0.25228261639171895
+Denmark,Barl,N,Cropland,0.03072423895193033
+Denmark,Barl,P,Cropland,0.009642684224913519
+Denmark,Barl,Plant Protection,Cropland,0.00753766847669739
+Denmark,BeaD,Fuel,Cropland,0.07665104246895357
+Denmark,BeaD,K,Cropland,0
+Denmark,BeaD,Labor,Cropland,0.004064366962598408
+Denmark,BeaD,Machinery,Cropland,0.3317167367787964
+Denmark,BeaD,N,Cropland,0
+Denmark,BeaD,P,Cropland,0
+Denmark,BeaD,Plant Protection,Cropland,0.011222857031202033
+Denmark,Cass,Fuel,Cropland,0.11126495174492282
+Denmark,Cass,K,Cropland,0.02021014954122161
+Denmark,Cass,Labor,Cropland,0.020164804102144294
+Denmark,Cass,Machinery,Cropland,1.3449380684646892
+Denmark,Cass,N,Cropland,0.058820584485644985
+Denmark,Cass,P,Cropland,0.018460614207802425
+Denmark,Cass,Plant Protection,Cropland,0.05656166414595993
+Denmark,ChkP,Fuel,Cropland,0.07665104246895357
+Denmark,ChkP,K,Cropland,0
+Denmark,ChkP,Labor,Cropland,0.004064366962598408
+Denmark,ChkP,Machinery,Cropland,0.3317167367787964
+Denmark,ChkP,N,Cropland,0
+Denmark,ChkP,P,Cropland,0
+Denmark,ChkP,Plant Protection,Cropland,0.011222857031202033
+Denmark,Corn,Fuel,Cropland,0.10373051848083636
+Denmark,Corn,K,Cropland,0.006349206271799709
+Denmark,Corn,Labor,Cropland,0.014752433870575978
+Denmark,Corn,Machinery,Cropland,0.501984984271672
+Denmark,Corn,N,Cropland,0.018479033179118556
+Denmark,Corn,P,Cropland,0.005799573490061823
+Denmark,Corn,Plant Protection,Cropland,0.0047212847815708905
+Denmark,Gnut,Fuel,Cropland,0.07665104246895357
+Denmark,Gnut,K,Cropland,0
+Denmark,Gnut,Labor,Cropland,0.004064366962598408
+Denmark,Gnut,Machinery,Cropland,0.3317167367787964
+Denmark,Gnut,N,Cropland,0
+Denmark,Gnut,P,Cropland,0
+Denmark,Gnut,Plant Protection,Cropland,0.011222857031202033
+Denmark,Mill,Fuel,Cropland,0.036597142632075655
+Denmark,Mill,K,Cropland,0.010556533383483755
+Denmark,Mill,Labor,Cropland,0.008937403400398941
+Denmark,Mill,Machinery,Cropland,0.25228261639171895
+Denmark,Mill,N,Cropland,0.03072423895193033
+Denmark,Mill,P,Cropland,0.009642684224913519
+Denmark,Mill,Plant Protection,Cropland,0.00753766847669739
+Denmark,Pota,Fuel,Cropland,0.11126495174492282
+Denmark,Pota,K,Cropland,0.02021014954122161
+Denmark,Pota,Labor,Cropland,0.020164804102144294
+Denmark,Pota,Machinery,Cropland,1.3449380684646892
+Denmark,Pota,N,Cropland,0.058820584485644985
+Denmark,Pota,P,Cropland,0.018460614207802425
+Denmark,Pota,Plant Protection,Cropland,0.05656166414595993
+Denmark,Rape,Fuel,Cropland,0.05741182542560361
+Denmark,Rape,K,Cropland,0
+Denmark,Rape,Labor,Cropland,0.0027342109805985294
+Denmark,Rape,Machinery,Cropland,0.25143817145205566
+Denmark,Rape,N,Cropland,0
+Denmark,Rape,P,Cropland,0
+Denmark,Rape,Plant Protection,Cropland,0.010316565046624197
+Denmark,Rice,Fuel,Cropland,0.033321100616264365
+Denmark,Rice,K,Cropland,0
+Denmark,Rice,Labor,Cropland,0.03580585631584241
+Denmark,Rice,Machinery,Cropland,0.24077001708978257
+Denmark,Rice,N,Cropland,0
+Denmark,Rice,P,Cropland,0
+Denmark,Rice,Plant Protection,Cropland,0.024148109968998892
+Denmark,Soya,Fuel,Cropland,0.07665104246895357
+Denmark,Soya,K,Cropland,0
+Denmark,Soya,Labor,Cropland,0.004064366962598408
+Denmark,Soya,Machinery,Cropland,0.3317167367787964
+Denmark,Soya,N,Cropland,0
+Denmark,Soya,P,Cropland,0
+Denmark,Soya,Plant Protection,Cropland,0.011222857031202033
+Denmark,Srgh,Fuel,Cropland,0.10373051848083636
+Denmark,Srgh,K,Cropland,0.006349206271799709
+Denmark,Srgh,Labor,Cropland,0.014752433870575978
+Denmark,Srgh,Machinery,Cropland,0.501984984271672
+Denmark,Srgh,N,Cropland,0.018479033179118556
+Denmark,Srgh,P,Cropland,0.005799573490061823
+Denmark,Srgh,Plant Protection,Cropland,0.0047212847815708905
+Denmark,Sunf,Fuel,Cropland,0.05741182542560361
+Denmark,Sunf,K,Cropland,0
+Denmark,Sunf,Labor,Cropland,0.0027342109805985294
+Denmark,Sunf,Machinery,Cropland,0.25143817145205566
+Denmark,Sunf,N,Cropland,0
+Denmark,Sunf,P,Cropland,0
+Denmark,Sunf,Plant Protection,Cropland,0.010316565046624197
+Denmark,SwPo,Fuel,Cropland,0.11126495174492282
+Denmark,SwPo,K,Cropland,0.02021014954122161
+Denmark,SwPo,Labor,Cropland,0.020164804102144294
+Denmark,SwPo,Machinery,Cropland,1.3449380684646892
+Denmark,SwPo,N,Cropland,0.058820584485644985
+Denmark,SwPo,P,Cropland,0.018460614207802425
+Denmark,SwPo,Plant Protection,Cropland,0.05656166414595993
+Denmark,Whea,Fuel,Cropland,0.033321100616264365
+Denmark,Whea,K,Cropland,0.016186004721066866
+Denmark,Whea,Labor,Cropland,0.008075491323648624
+Denmark,Whea,Machinery,Cropland,0.24077001708978257
+Denmark,Whea,N,Cropland,0.047108521203105054
+Denmark,Whea,P,Cropland,0.014784828192974508
+Denmark,Whea,Plant Protection,Cropland,0.024148109968998892
+Denmark,Extensive Grassland,fertCost_N,Grassland,0.0328871330957164
+Denmark,Extensive Grassland,fertCost_P,Grassland,0.022139506236766547
+Denmark,Extensive Grassland,fuelCost,Grassland,0.029470305797019373
+Denmark,Extensive Grassland,labourCost,Grassland,0.08969134323196623
+Denmark,Extensive Grassland,machCost,Grassland,0.17091679816485253
+Denmark,Extensive Grassland,seedCost,Grassland,0.017319830471607664
+Denmark,Grassland,fertCost_N,Grassland,0.06362457827458211
+Denmark,Grassland,fertCost_P,Grassland,0.02793974022893897
+Denmark,Grassland,fuelCost,Grassland,0.03667939360697222
+Denmark,Grassland,labourCost,Grassland,0.15769290936714525
+Denmark,Grassland,machCost,Grassland,0.18633825033393375
+Denmark,Grassland,seedCost,Grassland,0.014492012169073793
+Estonia,Barl,Fuel,Cropland,0.03337694411300064
+Estonia,Barl,K,Cropland,0.01688244607885499
+Estonia,Barl,Labor,Cropland,0.005263502296086579
+Estonia,Barl,Machinery,Cropland,0.1713064261070392
+Estonia,Barl,N,Cropland,0.04913547739368244
+Estonia,Barl,P,Cropland,0.015420980597401872
+Estonia,Barl,Plant Protection,Cropland,0.005888962226300095
+Estonia,BeaD,Fuel,Cropland,0.06833185761352185
+Estonia,BeaD,K,Cropland,0
+Estonia,BeaD,Labor,Cropland,0.0023936264126580916
+Estonia,BeaD,Machinery,Cropland,0.1996297511040672
+Estonia,BeaD,N,Cropland,0
+Estonia,BeaD,P,Cropland,0
+Estonia,BeaD,Plant Protection,Cropland,0.0100284812148968
+Estonia,Cass,Fuel,Cropland,0.12761724151324774
+Estonia,Cass,K,Cropland,0.03142953861376637
+Estonia,Cass,Labor,Cropland,0.011875652013988183
+Estonia,Cass,Machinery,Cropland,0.9883744979010035
+Estonia,Cass,N,Cropland,0.09147403029379765
+Estonia,Cass,P,Cropland,0.028708772584514954
+Estonia,Cass,Plant Protection,Cropland,0.1580789628849904
+Estonia,ChkP,Fuel,Cropland,0.06833185761352185
+Estonia,ChkP,K,Cropland,0
+Estonia,ChkP,Labor,Cropland,0.0023936264126580916
+Estonia,ChkP,Machinery,Cropland,0.1996297511040672
+Estonia,ChkP,N,Cropland,0
+Estonia,ChkP,P,Cropland,0
+Estonia,ChkP,Plant Protection,Cropland,0.0100284812148968
+Estonia,Corn,Fuel,Cropland,0.10788849335932557
+Estonia,Corn,K,Cropland,0
+Estonia,Corn,Labor,Cropland,0.008688146441636057
+Estonia,Corn,Machinery,Cropland,0.3269887213559688
+Estonia,Corn,N,Cropland,0
+Estonia,Corn,P,Cropland,0
+Estonia,Corn,Plant Protection,Cropland,0.03641406996506403
+Estonia,Gnut,Fuel,Cropland,0.06833185761352185
+Estonia,Gnut,K,Cropland,0
+Estonia,Gnut,Labor,Cropland,0.0023936264126580916
+Estonia,Gnut,Machinery,Cropland,0.1996297511040672
+Estonia,Gnut,N,Cropland,0
+Estonia,Gnut,P,Cropland,0
+Estonia,Gnut,Plant Protection,Cropland,0.0100284812148968
+Estonia,Mill,Fuel,Cropland,0.03337694411300064
+Estonia,Mill,K,Cropland,0.01688244607885499
+Estonia,Mill,Labor,Cropland,0.005263502296086579
+Estonia,Mill,Machinery,Cropland,0.1713064261070392
+Estonia,Mill,N,Cropland,0.04913547739368244
+Estonia,Mill,P,Cropland,0.015420980597401872
+Estonia,Mill,Plant Protection,Cropland,0.005888962226300095
+Estonia,Pota,Fuel,Cropland,0.12761724151324774
+Estonia,Pota,K,Cropland,0.03142953861376637
+Estonia,Pota,Labor,Cropland,0.011875652013988183
+Estonia,Pota,Machinery,Cropland,0.9883744979010035
+Estonia,Pota,N,Cropland,0.09147403029379765
+Estonia,Pota,P,Cropland,0.028708772584514954
+Estonia,Pota,Plant Protection,Cropland,0.1580789628849904
+Estonia,Rape,Fuel,Cropland,0.0537087905145092
+Estonia,Rape,K,Cropland,0
+Estonia,Rape,Labor,Cropland,0.001610258050310574
+Estonia,Rape,Machinery,Cropland,0.20131808328705517
+Estonia,Rape,N,Cropland,0
+Estonia,Rape,P,Cropland,0
+Estonia,Rape,Plant Protection,Cropland,0.00921864000269195
+Estonia,Rice,Fuel,Cropland,0.03356283055917453
+Estonia,Rice,K,Cropland,0
+Estonia,Rice,Labor,Cropland,0.0210871321891289
+Estonia,Rice,Machinery,Cropland,0.16108891081247756
+Estonia,Rice,N,Cropland,0
+Estonia,Rice,P,Cropland,0
+Estonia,Rice,Plant Protection,Cropland,0.02157818339181229
+Estonia,Soya,Fuel,Cropland,0.06833185761352185
+Estonia,Soya,K,Cropland,0
+Estonia,Soya,Labor,Cropland,0.0023936264126580916
+Estonia,Soya,Machinery,Cropland,0.1996297511040672
+Estonia,Soya,N,Cropland,0
+Estonia,Soya,P,Cropland,0
+Estonia,Soya,Plant Protection,Cropland,0.0100284812148968
+Estonia,Srgh,Fuel,Cropland,0.10788849335932557
+Estonia,Srgh,K,Cropland,0
+Estonia,Srgh,Labor,Cropland,0.008688146441636057
+Estonia,Srgh,Machinery,Cropland,0.3269887213559688
+Estonia,Srgh,N,Cropland,0
+Estonia,Srgh,P,Cropland,0
+Estonia,Srgh,Plant Protection,Cropland,0.03641406996506403
+Estonia,Sunf,Fuel,Cropland,0.0537087905145092
+Estonia,Sunf,K,Cropland,0
+Estonia,Sunf,Labor,Cropland,0.001610258050310574
+Estonia,Sunf,Machinery,Cropland,0.20131808328705517
+Estonia,Sunf,N,Cropland,0
+Estonia,Sunf,P,Cropland,0
+Estonia,Sunf,Plant Protection,Cropland,0.00921864000269195
+Estonia,SwPo,Fuel,Cropland,0.12761724151324774
+Estonia,SwPo,K,Cropland,0.03142953861376637
+Estonia,SwPo,Labor,Cropland,0.011875652013988183
+Estonia,SwPo,Machinery,Cropland,0.9883744979010035
+Estonia,SwPo,N,Cropland,0.09147403029379765
+Estonia,SwPo,P,Cropland,0.028708772584514954
+Estonia,SwPo,Plant Protection,Cropland,0.1580789628849904
+Estonia,Whea,Fuel,Cropland,0.03356283055917453
+Estonia,Whea,K,Cropland,0.026079829913550824
+Estonia,Whea,Labor,Cropland,0.004755896676002612
+Estonia,Whea,Machinery,Cropland,0.16108891081247756
+Estonia,Whea,N,Cropland,0.07590398258421509
+Estonia,Whea,P,Cropland,0.023822172995661348
+Estonia,Whea,Plant Protection,Cropland,0.02157818339181229
+Estonia,Extensive Grassland,fertCost_N,Grassland,0.045403577515894834
+Estonia,Extensive Grassland,fertCost_P,Grassland,0.01325245927720364
+Estonia,Extensive Grassland,fuelCost,Grassland,0.03835770772098409
+Estonia,Extensive Grassland,labourCost,Grassland,0.03718694878005694
+Estonia,Extensive Grassland,machCost,Grassland,0.11813298502198748
+Estonia,Extensive Grassland,seedCost,Grassland,0.011484236002357444
+Estonia,Grassland,fertCost_N,Grassland,2.5998947160387204e-5
+Estonia,Grassland,fertCost_P,Grassland,6.38418134664327e-6
+Estonia,Grassland,fuelCost,Grassland,0.014051195679721056
+Estonia,Grassland,labourCost,Grassland,0.06698238456149243
+Estonia,Grassland,machCost,Grassland,0.0962899542071823
+Estonia,Grassland,seedCost,Grassland,0.004016672799245364
+Greece,Barl,Fuel,Cropland,0.03793399391798022
+Greece,Barl,K,Cropland,0.0030393640349319767
+Greece,Barl,Labor,Cropland,0.011595873797553242
+Greece,Barl,Machinery,Cropland,0.20063852105028923
+Greece,Barl,N,Cropland,0.008845910250921424
+Greece,Barl,P,Cropland,0.0027762549095199547
+Greece,Barl,Plant Protection,Cropland,0.006387847556487115
+Greece,BeaD,Fuel,Cropland,0.07164037954632996
+Greece,BeaD,K,Cropland,0.0018968709276823404
+Greece,BeaD,Labor,Cropland,0.00765805110723823
+Greece,BeaD,Machinery,Cropland,0.16923860102056879
+Greece,BeaD,N,Cropland,0.00552074374474711
+Greece,BeaD,P,Cropland,0.001732664190659093
+Greece,BeaD,Plant Protection,Cropland,0.005293330340041645
+Greece,Cass,Fuel,Cropland,0.1407294751731924
+Greece,Cass,K,Cropland,0.018741918641126502
+Greece,Cass,Labor,Cropland,0.03597575213622026
+Greece,Cass,Machinery,Cropland,1.7134544543581873
+Greece,Cass,N,Cropland,0.05454737514954728
+Greece,Cass,P,Cropland,0.017119483893088684
+Greece,Cass,Plant Protection,Cropland,0.21807203142190487
+Greece,ChkP,Fuel,Cropland,0.07164037954632996
+Greece,ChkP,K,Cropland,0.0018968709276823404
+Greece,ChkP,Labor,Cropland,0.00765805110723823
+Greece,ChkP,Machinery,Cropland,0.16923860102056879
+Greece,ChkP,N,Cropland,0.00552074374474711
+Greece,ChkP,P,Cropland,0.001732664190659093
+Greece,ChkP,Plant Protection,Cropland,0.005293330340041645
+Greece,Corn,Fuel,Cropland,0.05423113767278395
+Greece,Corn,K,Cropland,0.013003652192979128
+Greece,Corn,Labor,Cropland,0.02383980385503853
+Greece,Corn,Machinery,Cropland,0.29213119431626744
+Greece,Corn,N,Cropland,0.03784645041240194
+Greece,Corn,P,Cropland,0.011877962898661531
+Greece,Corn,Plant Protection,Cropland,0.006253024850829311
+Greece,Gnut,Fuel,Cropland,0.07164037954632996
+Greece,Gnut,K,Cropland,0.0018968709276823404
+Greece,Gnut,Labor,Cropland,0.00765805110723823
+Greece,Gnut,Machinery,Cropland,0.16923860102056879
+Greece,Gnut,N,Cropland,0.00552074374474711
+Greece,Gnut,P,Cropland,0.001732664190659093
+Greece,Gnut,Plant Protection,Cropland,0.005293330340041645
+Greece,Mill,Fuel,Cropland,0.03793399391798022
+Greece,Mill,K,Cropland,0.0030393640349319767
+Greece,Mill,Labor,Cropland,0.011595873797553242
+Greece,Mill,Machinery,Cropland,0.20063852105028923
+Greece,Mill,N,Cropland,0.008845910250921424
+Greece,Mill,P,Cropland,0.0027762549095199547
+Greece,Mill,Plant Protection,Cropland,0.006387847556487115
+Greece,Pota,Fuel,Cropland,0.1407294751731924
+Greece,Pota,K,Cropland,0.018741918641126502
+Greece,Pota,Labor,Cropland,0.03597575213622026
+Greece,Pota,Machinery,Cropland,1.7134544543581873
+Greece,Pota,N,Cropland,0.05454737514954728
+Greece,Pota,P,Cropland,0.017119483893088684
+Greece,Pota,Plant Protection,Cropland,0.21807203142190487
+Greece,Rape,Fuel,Cropland,0.08100326444309379
+Greece,Rape,K,Cropland,0.002128199837994595
+Greece,Rape,Labor,Cropland,0.00200729825942568
+Greece,Rape,Machinery,Cropland,0.2653630195978917
+Greece,Rape,N,Cropland,0.006194014453864867
+Greece,Rape,P,Cropland,0.0019439676132129735
+Greece,Rape,Plant Protection,Cropland,0.012076929385622546
+Greece,Rice,Fuel,Cropland,0.04023587347993569
+Greece,Rice,K,Cropland,0.003108904975384859
+Greece,Rice,Labor,Cropland,0.03659346640942238
+Greece,Rice,Machinery,Cropland,0.18168891496468892
+Greece,Rice,N,Cropland,0.009048305525373843
+Greece,Rice,P,Cropland,0.002839775887963483
+Greece,Rice,Plant Protection,Cropland,0.006522701355942351
+Greece,Soya,Fuel,Cropland,0.07164037954632996
+Greece,Soya,K,Cropland,0.0018968709276823404
+Greece,Soya,Labor,Cropland,0.00765805110723823
+Greece,Soya,Machinery,Cropland,0.16923860102056879
+Greece,Soya,N,Cropland,0.00552074374474711
+Greece,Soya,P,Cropland,0.001732664190659093
+Greece,Soya,Plant Protection,Cropland,0.005293330340041645
+Greece,Srgh,Fuel,Cropland,0.05423113767278395
+Greece,Srgh,K,Cropland,0.013003652192979128
+Greece,Srgh,Labor,Cropland,0.02383980385503853
+Greece,Srgh,Machinery,Cropland,0.29213119431626744
+Greece,Srgh,N,Cropland,0.03784645041240194
+Greece,Srgh,P,Cropland,0.011877962898661531
+Greece,Srgh,Plant Protection,Cropland,0.006253024850829311
+Greece,Sunf,Fuel,Cropland,0.08100326444309379
+Greece,Sunf,K,Cropland,0.002128199837994595
+Greece,Sunf,Labor,Cropland,0.00200729825942568
+Greece,Sunf,Machinery,Cropland,0.2653630195978917
+Greece,Sunf,N,Cropland,0.006194014453864867
+Greece,Sunf,P,Cropland,0.0019439676132129735
+Greece,Sunf,Plant Protection,Cropland,0.012076929385622546
+Greece,SwPo,Fuel,Cropland,0.1407294751731924
+Greece,SwPo,K,Cropland,0.018741918641126502
+Greece,SwPo,Labor,Cropland,0.03597575213622026
+Greece,SwPo,Machinery,Cropland,1.7134544543581873
+Greece,SwPo,N,Cropland,0.05454737514954728
+Greece,SwPo,P,Cropland,0.017119483893088684
+Greece,SwPo,Plant Protection,Cropland,0.21807203142190487
+Greece,Whea,Fuel,Cropland,0.04023587347993569
+Greece,Whea,K,Cropland,0.003007962251044994
+Greece,Whea,Labor,Cropland,0.01215219741328833
+Greece,Whea,Machinery,Cropland,0.18168891496468892
+Greece,Whea,N,Cropland,0.008754516999310057
+Greece,Whea,P,Cropland,0.002747571489014233
+Greece,Whea,Plant Protection,Cropland,0.019432161985461757
+Greece,Extensive Grassland,fertCost_N,Grassland,0.034163681257172514
+Greece,Extensive Grassland,fertCost_P,Grassland,0.039493249232656714
+Greece,Extensive Grassland,fuelCost,Grassland,0.04837898571099185
+Greece,Extensive Grassland,labourCost,Grassland,0.015841533578041533
+Greece,Extensive Grassland,machCost,Grassland,0.10567253227115261
+Greece,Extensive Grassland,seedCost,Grassland,0.010279384701279879
+Greece,Grassland,fertCost_N,Grassland,0.12266995934433603
+Greece,Grassland,fertCost_P,Grassland,0.09629850788408996
+Greece,Grassland,fuelCost,Grassland,0.08944225173436907
+Greece,Grassland,labourCost,Grassland,0.03151725307853573
+Greece,Grassland,machCost,Grassland,0.13381425239345812
+Greece,Grassland,seedCost,Grassland,0.011752859019322664
+Spain,Barl,Fuel,Cropland,0.03160538342671
+Spain,Barl,K,Cropland,0.015278100386185696
+Spain,Barl,Labor,Cropland,0.009989199825442073
+Spain,Barl,Machinery,Cropland,0.19667396230672654
+Spain,Barl,N,Cropland,0.0444661130642718
+Spain,Barl,P,Cropland,0.013955518561709918
+Spain,Barl,Plant Protection,Cropland,0.005273529361508713
+Spain,BeaD,Fuel,Cropland,0.0647049817629501
+Spain,BeaD,K,Cropland,0.003920061385543956
+Spain,BeaD,Labor,Cropland,0.004542681127217361
+Spain,BeaD,Machinery,Cropland,0.2291914846671862
+Spain,BeaD,N,Cropland,0.011409133883299572
+Spain,BeaD,P,Cropland,0.003580712787989404
+Spain,BeaD,Plant Protection,Cropland,0.0034219058673611137
+Spain,Cass,Fuel,Cropland,0.12084365291890828
+Spain,Cass,K,Cropland,0.022149435778261853
+Spain,Cass,Labor,Cropland,0.022537894799312966
+Spain,Cass,Machinery,Cropland,1.1347357663360205
+Spain,Cass,N,Cropland,0.06446477577255315
+Spain,Cass,P,Cropland,0.020232021934770528
+Spain,Cass,Plant Protection,Cropland,0.36564433433398047
+Spain,ChkP,Fuel,Cropland,0.0647049817629501
+Spain,ChkP,K,Cropland,0.003920061385543956
+Spain,ChkP,Labor,Cropland,0.004542681127217361
+Spain,ChkP,Machinery,Cropland,0.2291914846671862
+Spain,ChkP,N,Cropland,0.011409133883299572
+Spain,ChkP,P,Cropland,0.003580712787989404
+Spain,ChkP,Plant Protection,Cropland,0.0034219058673611137
+Spain,Corn,Fuel,Cropland,0.10216205499242721
+Spain,Corn,K,Cropland,0.0337655843197503
+Spain,Corn,Labor,Cropland,0.01648857092410367
+Spain,Corn,Machinery,Cropland,0.3754101285512018
+Spain,Corn,N,Cropland,0.09827296928882548
+Spain,Corn,P,Cropland,0.03084259343833907
+Spain,Corn,Plant Protection,Cropland,0.005001283984604828
+Spain,Gnut,Fuel,Cropland,0.0647049817629501
+Spain,Gnut,K,Cropland,0.003920061385543956
+Spain,Gnut,Labor,Cropland,0.004542681127217361
+Spain,Gnut,Machinery,Cropland,0.2291914846671862
+Spain,Gnut,N,Cropland,0.011409133883299572
+Spain,Gnut,P,Cropland,0.003580712787989404
+Spain,Gnut,Plant Protection,Cropland,0.0034219058673611137
+Spain,Mill,Fuel,Cropland,0.03160538342671
+Spain,Mill,K,Cropland,0.015278100386185696
+Spain,Mill,Labor,Cropland,0.009989199825442073
+Spain,Mill,Machinery,Cropland,0.19667396230672654
+Spain,Mill,N,Cropland,0.0444661130642718
+Spain,Mill,P,Cropland,0.013955518561709918
+Spain,Mill,Plant Protection,Cropland,0.005273529361508713
+Spain,Pota,Fuel,Cropland,0.12084365291890828
+Spain,Pota,K,Cropland,0.022149435778261853
+Spain,Pota,Labor,Cropland,0.022537894799312966
+Spain,Pota,Machinery,Cropland,1.1347357663360205
+Spain,Pota,N,Cropland,0.06446477577255315
+Spain,Pota,P,Cropland,0.020232021934770528
+Spain,Pota,Plant Protection,Cropland,0.36564433433398047
+Spain,Rape,Fuel,Cropland,0.05085806872699053
+Spain,Rape,K,Cropland,0.004031318099900101
+Spain,Rape,Labor,Cropland,0.003055986020380087
+Spain,Rape,Machinery,Cropland,0.2311298297500555
+Spain,Rape,N,Cropland,0.01173294073851522
+Spain,Rape,P,Cropland,0.0036823383240878536
+Spain,Rape,Plant Protection,Cropland,0.010784149731804592
+Spain,Rice,Fuel,Cropland,0.03178140350767559
+Spain,Rice,K,Cropland,0.0066007046275211026
+Spain,Rice,Labor,Cropland,0.04001966092792134
+Spain,Rice,Machinery,Cropland,0.18494340859561026
+Spain,Rice,N,Cropland,0.019211006005471865
+Spain,Rice,P,Cropland,0.006029300346332708
+Spain,Rice,Plant Protection,Cropland,0.005916374483643031
+Spain,Soya,Fuel,Cropland,0.0647049817629501
+Spain,Soya,K,Cropland,0.003920061385543956
+Spain,Soya,Labor,Cropland,0.004542681127217361
+Spain,Soya,Machinery,Cropland,0.2291914846671862
+Spain,Soya,N,Cropland,0.011409133883299572
+Spain,Soya,P,Cropland,0.003580712787989404
+Spain,Soya,Plant Protection,Cropland,0.0034219058673611137
+Spain,Srgh,Fuel,Cropland,0.10216205499242721
+Spain,Srgh,K,Cropland,0.0337655843197503
+Spain,Srgh,Labor,Cropland,0.01648857092410367
+Spain,Srgh,Machinery,Cropland,0.3754101285512018
+Spain,Srgh,N,Cropland,0.09827296928882548
+Spain,Srgh,P,Cropland,0.03084259343833907
+Spain,Srgh,Plant Protection,Cropland,0.005001283984604828
+Spain,Sunf,Fuel,Cropland,0.05085806872699053
+Spain,Sunf,K,Cropland,0.004031318099900101
+Spain,Sunf,Labor,Cropland,0.003055986020380087
+Spain,Sunf,Machinery,Cropland,0.2311298297500555
+Spain,Sunf,N,Cropland,0.01173294073851522
+Spain,Sunf,P,Cropland,0.0036823383240878536
+Spain,Sunf,Plant Protection,Cropland,0.010784149731804592
+Spain,SwPo,Fuel,Cropland,0.12084365291890828
+Spain,SwPo,K,Cropland,0.022149435778261853
+Spain,SwPo,Labor,Cropland,0.022537894799312966
+Spain,SwPo,Machinery,Cropland,1.1347357663360205
+Spain,SwPo,N,Cropland,0.06446477577255315
+Spain,SwPo,P,Cropland,0.020232021934770528
+Spain,SwPo,Plant Protection,Cropland,0.36564433433398047
+Spain,Whea,Fuel,Cropland,0.03178140350767559
+Spain,Whea,K,Cropland,0.01968838735845498
+Spain,Whea,Labor,Cropland,0.009025853808607208
+Spain,Whea,Machinery,Cropland,0.18494340859561026
+Spain,Whea,N,Cropland,0.057302022908936136
+Spain,Whea,P,Cropland,0.017984019497573802
+Spain,Whea,Plant Protection,Cropland,0.01895857427094461
+Spain,Extensive Grassland,fertCost_N,Grassland,0.017574635403547208
+Spain,Extensive Grassland,fertCost_P,Grassland,0.011579725264961692
+Spain,Extensive Grassland,fuelCost,Grassland,0.020445763411414936
+Spain,Extensive Grassland,labourCost,Grassland,0.030785757887947584
+Spain,Extensive Grassland,machCost,Grassland,0.10543419922579142
+Spain,Extensive Grassland,seedCost,Grassland,0.007833704727806664
+Spain,Grassland,fertCost_N,Grassland,0.06932589349737253
+Spain,Grassland,fertCost_P,Grassland,0.030210506060912898
+Spain,Grassland,fuelCost,Grassland,0.03678932403648942
+Spain,Grassland,labourCost,Grassland,0.06461568287853713
+Spain,Grassland,machCost,Grassland,0.13883642836501567
+Spain,Grassland,seedCost,Grassland,0.008972151575636238
+Finland,Barl,Fuel,Cropland,0.03633047509430693
+Finland,Barl,K,Cropland,0.007945985723327368
+Finland,Barl,Labor,Cropland,0.008925819439867916
+Finland,Barl,Machinery,Cropland,0.2391017023596222
+Finland,Barl,N,Cropland,0.023126376358937863
+Finland,Barl,P,Cropland,0.007258124272651267
+Finland,Barl,Plant Protection,Cropland,0.010685989718008928
+Finland,BeaD,Fuel,Cropland,0.07609251949987657
+Finland,BeaD,K,Cropland,0
+Finland,BeaD,Labor,Cropland,0.004059099049271786
+Finland,BeaD,Machinery,Cropland,0.31438565857645195
+Finland,BeaD,N,Cropland,0
+Finland,BeaD,P,Cropland,0
+Finland,BeaD,Plant Protection,Cropland,0.022433928114011376
+Finland,Cass,Fuel,Cropland,0.11045421220112663
+Finland,Cass,K,Cropland,0.02551646440371923
+Finland,Cass,Labor,Cropland,0.020138668066388685
+Finland,Cass,Machinery,Cropland,1.2746696005718694
+Finland,Cass,N,Cropland,0.07426433669739178
+Finland,Cass,P,Cropland,0.02330757644041219
+Finland,Cass,Plant Protection,Cropland,0.09237308303908368
+Finland,ChkP,Fuel,Cropland,0.07609251949987657
+Finland,ChkP,K,Cropland,0
+Finland,ChkP,Labor,Cropland,0.004059099049271786
+Finland,ChkP,Machinery,Cropland,0.31438565857645195
+Finland,ChkP,N,Cropland,0
+Finland,ChkP,P,Cropland,0
+Finland,ChkP,Plant Protection,Cropland,0.022433928114011376
+Finland,Corn,Fuel,Cropland,0.10297467909105533
+Finland,Corn,K,Cropland,0
+Finland,Corn,Labor,Cropland,0.014733312924140271
+Finland,Corn,Machinery,Cropland,0.47575796569089224
+Finland,Corn,N,Cropland,0
+Finland,Corn,P,Cropland,0
+Finland,Corn,Plant Protection,Cropland,0.08145905750128425
+Finland,Gnut,Fuel,Cropland,0.07609251949987657
+Finland,Gnut,K,Cropland,0
+Finland,Gnut,Labor,Cropland,0.004059099049271786
+Finland,Gnut,Machinery,Cropland,0.31438565857645195
+Finland,Gnut,N,Cropland,0
+Finland,Gnut,P,Cropland,0
+Finland,Gnut,Plant Protection,Cropland,0.022433928114011376
+Finland,Mill,Fuel,Cropland,0.03633047509430693
+Finland,Mill,K,Cropland,0.007945985723327368
+Finland,Mill,Labor,Cropland,0.008925819439867916
+Finland,Mill,Machinery,Cropland,0.2391017023596222
+Finland,Mill,N,Cropland,0.023126376358937863
+Finland,Mill,P,Cropland,0.007258124272651267
+Finland,Mill,Plant Protection,Cropland,0.010685989718008928
+Finland,Pota,Fuel,Cropland,0.11045421220112663
+Finland,Pota,K,Cropland,0.02551646440371923
+Finland,Pota,Labor,Cropland,0.020138668066388685
+Finland,Pota,Machinery,Cropland,1.2746696005718694
+Finland,Pota,N,Cropland,0.07426433669739178
+Finland,Pota,P,Cropland,0.02330757644041219
+Finland,Pota,Plant Protection,Cropland,0.09237308303908368
+Finland,Rape,Fuel,Cropland,0.05699349030367978
+Finland,Rape,K,Cropland,0
+Finland,Rape,Labor,Cropland,0.0027306671110131713
+Finland,Rape,Machinery,Cropland,0.23830137684249802
+Finland,Rape,N,Cropland,0
+Finland,Rape,P,Cropland,0
+Finland,Rape,Plant Protection,Cropland,0.015327588413454343
+Finland,Rice,Fuel,Cropland,0.03307830417867322
+Finland,Rice,K,Cropland,0
+Finland,Rice,Labor,Cropland,0.03575944757632823
+Finland,Rice,Machinery,Cropland,0.2281905975877132
+Finland,Rice,N,Cropland,0
+Finland,Rice,P,Cropland,0
+Finland,Rice,Plant Protection,Cropland,0.04827086022994088
+Finland,Soya,Fuel,Cropland,0.07609251949987657
+Finland,Soya,K,Cropland,0
+Finland,Soya,Labor,Cropland,0.004059099049271786
+Finland,Soya,Machinery,Cropland,0.31438565857645195
+Finland,Soya,N,Cropland,0
+Finland,Soya,P,Cropland,0
+Finland,Soya,Plant Protection,Cropland,0.022433928114011376
+Finland,Srgh,Fuel,Cropland,0.10297467909105533
+Finland,Srgh,K,Cropland,0
+Finland,Srgh,Labor,Cropland,0.014733312924140271
+Finland,Srgh,Machinery,Cropland,0.47575796569089224
+Finland,Srgh,N,Cropland,0
+Finland,Srgh,P,Cropland,0
+Finland,Srgh,Plant Protection,Cropland,0.08145905750128425
+Finland,Sunf,Fuel,Cropland,0.05699349030367978
+Finland,Sunf,K,Cropland,0
+Finland,Sunf,Labor,Cropland,0.0027306671110131713
+Finland,Sunf,Machinery,Cropland,0.23830137684249802
+Finland,Sunf,N,Cropland,0
+Finland,Sunf,P,Cropland,0
+Finland,Sunf,Plant Protection,Cropland,0.015327588413454343
+Finland,SwPo,Fuel,Cropland,0.11045421220112663
+Finland,SwPo,K,Cropland,0.02551646440371923
+Finland,SwPo,Labor,Cropland,0.020138668066388685
+Finland,SwPo,Machinery,Cropland,1.2746696005718694
+Finland,SwPo,N,Cropland,0.07426433669739178
+Finland,SwPo,P,Cropland,0.02330757644041219
+Finland,SwPo,Plant Protection,Cropland,0.09237308303908368
+Finland,Whea,Fuel,Cropland,0.03307830417867322
+Finland,Whea,K,Cropland,0.010888491275725018
+Finland,Whea,Labor,Cropland,0.00806502450587495
+Finland,Whea,Machinery,Cropland,0.2281905975877132
+Finland,Whea,N,Cropland,0.031690385056214604
+Finland,Whea,P,Cropland,0.009945905463796582
+Finland,Whea,Plant Protection,Cropland,0.04827086022994088
+Finland,Extensive Grassland,fertCost_N,Grassland,0.03340103077768774
+Finland,Extensive Grassland,fertCost_P,Grassland,0.050816673508796824
+Finland,Extensive Grassland,fuelCost,Grassland,0.022669480895270995
+Finland,Extensive Grassland,labourCost,Grassland,0.0915972093859653
+Finland,Extensive Grassland,machCost,Grassland,0.1701446587391643
+Finland,Extensive Grassland,seedCost,Grassland,0.01745379161533182
+Finland,Grassland,fertCost_N,Grassland,0
+Finland,Grassland,fertCost_P,Grassland,0
+Finland,Grassland,fuelCost,Grassland,0.007965491297192486
+Finland,Grassland,labourCost,Grassland,0.15613964357040905
+Finland,Grassland,machCost,Grassland,0.13821831278310368
+Finland,Grassland,seedCost,Grassland,0.005852246672173015
+France,Barl,Fuel,Cropland,0.03372007488679934
+France,Barl,K,Cropland,0.014624007240003272
+France,Barl,Labor,Cropland,0.013874555994877419
+France,Barl,Machinery,Cropland,0.23127991147690014
+France,Barl,N,Cropland,0.042562409131352806
+France,Barl,P,Cropland,0.013358048404301494
+France,Barl,Plant Protection,Cropland,0.010761467206661901
+France,BeaD,Fuel,Cropland,0.06903434143285082
+France,BeaD,K,Cropland,0.004099610976492624
+France,BeaD,Labor,Cropland,0.006309582826236119
+France,BeaD,Machinery,Cropland,0.2695190846238856
+France,BeaD,N,Cropland,0.011931703588299427
+France,BeaD,P,Cropland,0.0037447192800201274
+France,BeaD,Plant Protection,Cropland,0.0060574676177876825
+France,Cass,Fuel,Cropland,0.12892920712286865
+France,Cass,K,Cropland,0.024059715528617808
+France,Cass,Labor,Cropland,0.031304137354754104
+France,Cass,Machinery,Cropland,1.3343992491528744
+France,Cass,N,Cropland,0.07002454519523094
+France,Cass,P,Cropland,0.0219769341843494
+France,Cass,Plant Protection,Cropland,0.08173313589709712
+France,ChkP,Fuel,Cropland,0.06903434143285082
+France,ChkP,K,Cropland,0.004099610976492624
+France,ChkP,Labor,Cropland,0.006309582826236119
+France,ChkP,Machinery,Cropland,0.2695190846238856
+France,ChkP,N,Cropland,0.011931703588299427
+France,ChkP,P,Cropland,0.0037447192800201274
+France,ChkP,Plant Protection,Cropland,0.0060574676177876825
+France,Corn,Fuel,Cropland,0.10899763810562195
+France,Corn,K,Cropland,0.020568697981328165
+France,Corn,Labor,Cropland,0.022901894502031325
+France,Corn,Machinery,Cropland,0.44146576542261434
+France,Corn,N,Cropland,0.059864120990432715
+France,Corn,P,Cropland,0.01878812412622811
+France,Corn,Plant Protection,Cropland,0.00934905306690527
+France,Gnut,Fuel,Cropland,0.06903434143285082
+France,Gnut,K,Cropland,0.004099610976492624
+France,Gnut,Labor,Cropland,0.006309582826236119
+France,Gnut,Machinery,Cropland,0.2695190846238856
+France,Gnut,N,Cropland,0.011931703588299427
+France,Gnut,P,Cropland,0.0037447192800201274
+France,Gnut,Plant Protection,Cropland,0.0060574676177876825
+France,Mill,Fuel,Cropland,0.03372007488679934
+France,Mill,K,Cropland,0.014624007240003272
+France,Mill,Labor,Cropland,0.013874555994877419
+France,Mill,Machinery,Cropland,0.23127991147690014
+France,Mill,N,Cropland,0.042562409131352806
+France,Mill,P,Cropland,0.013358048404301494
+France,Mill,Plant Protection,Cropland,0.010761467206661901
+France,Pota,Fuel,Cropland,0.12892920712286865
+France,Pota,K,Cropland,0.024059715528617808
+France,Pota,Labor,Cropland,0.031304137354754104
+France,Pota,Machinery,Cropland,1.3343992491528744
+France,Pota,N,Cropland,0.07002454519523094
+France,Pota,P,Cropland,0.0219769341843494
+France,Pota,Plant Protection,Cropland,0.08173313589709712
+France,Rape,Fuel,Cropland,0.05426094228690162
+France,Rape,K,Cropland,0.012033142906172727
+France,Rape,Labor,Cropland,0.004244629189550696
+France,Rape,Machinery,Cropland,0.2717984930875853
+France,Rape,N,Cropland,0.03502183383139824
+France,Rape,P,Cropland,0.010991467848623445
+France,Rape,Plant Protection,Cropland,0.02062763561774691
+France,Rice,Fuel,Cropland,0.033907872333569886
+France,Rice,K,Cropland,0.0027548725269058625
+France,Rice,Labor,Cropland,0.055585535993207535
+France,Rice,Machinery,Cropland,0.2174852974023915
+France,Rice,N,Cropland,0.008017912578308108
+France,Rice,P,Cropland,0.002516391024576698
+France,Rice,Plant Protection,Cropland,0.011351345605338141
+France,Soya,Fuel,Cropland,0.06903434143285082
+France,Soya,K,Cropland,0.004099610976492624
+France,Soya,Labor,Cropland,0.006309582826236119
+France,Soya,Machinery,Cropland,0.2695190846238856
+France,Soya,N,Cropland,0.011931703588299427
+France,Soya,P,Cropland,0.0037447192800201274
+France,Soya,Plant Protection,Cropland,0.0060574676177876825
+France,Srgh,Fuel,Cropland,0.10899763810562195
+France,Srgh,K,Cropland,0.020568697981328165
+France,Srgh,Labor,Cropland,0.022901894502031325
+France,Srgh,Machinery,Cropland,0.44146576542261434
+France,Srgh,N,Cropland,0.059864120990432715
+France,Srgh,P,Cropland,0.01878812412622811
+France,Srgh,Plant Protection,Cropland,0.00934905306690527
+France,Sunf,Fuel,Cropland,0.05426094228690162
+France,Sunf,K,Cropland,0.012033142906172727
+France,Sunf,Labor,Cropland,0.004244629189550696
+France,Sunf,Machinery,Cropland,0.2717984930875853
+France,Sunf,N,Cropland,0.03502183383139824
+France,Sunf,P,Cropland,0.010991467848623445
+France,Sunf,Plant Protection,Cropland,0.02062763561774691
+France,SwPo,Fuel,Cropland,0.12892920712286865
+France,SwPo,K,Cropland,0.024059715528617808
+France,SwPo,Labor,Cropland,0.031304137354754104
+France,SwPo,Machinery,Cropland,1.3343992491528744
+France,SwPo,N,Cropland,0.07002454519523094
+France,SwPo,P,Cropland,0.0219769341843494
+France,SwPo,Plant Protection,Cropland,0.08173313589709712
+France,Whea,Fuel,Cropland,0.033907872333569886
+France,Whea,K,Cropland,0.018870365120484553
+France,Whea,Labor,Cropland,0.012536511057686873
+France,Whea,Machinery,Cropland,0.2174852974023915
+France,Whea,N,Cropland,0.05492121191782818
+France,Whea,P,Cropland,0.01723681112497992
+France,Whea,Plant Protection,Cropland,0.019317540015610993
+France,Extensive Grassland,fertCost_N,Grassland,0.020134753936788388
+France,Extensive Grassland,fertCost_P,Grassland,0.012010676850706115
+France,Extensive Grassland,fuelCost,Grassland,0.06163632192016787
+France,Extensive Grassland,labourCost,Grassland,0.03366313192273598
+France,Extensive Grassland,machCost,Grassland,0.11364562621338561
+France,Extensive Grassland,seedCost,Grassland,0.01131020444278685
+France,Grassland,fertCost_N,Grassland,0.003591620668668054
+France,Grassland,fertCost_P,Grassland,0.001540658447895957
+France,Grassland,fuelCost,Grassland,0.03237426261512126
+France,Grassland,labourCost,Grassland,0.06154723359050816
+France,Grassland,machCost,Grassland,0.10199374346463026
+France,Grassland,seedCost,Grassland,0.005392399168027861
+Croatia,Barl,Fuel,Cropland,0.03258158237326798
+Croatia,Barl,K,Cropland,0.015926204940132863
+Croatia,Barl,Labor,Cropland,0.004857618816068934
+Croatia,Barl,Machinery,Cropland,0.13952527333025921
+Croatia,Barl,N,Cropland,0.04635238751232698
+Croatia,Barl,P,Cropland,0.014547518542330315
+Croatia,Barl,Plant Protection,Cropland,0.0038992457533778262
+Croatia,BeaD,Fuel,Cropland,0.0667035316359652
+Croatia,BeaD,K,Cropland,0.008228415250953872
+Croatia,BeaD,Labor,Cropland,0.002209047141370577
+Croatia,BeaD,Machinery,Cropland,0.16259399144387743
+Croatia,BeaD,N,Cropland,0.023948372745313504
+Croatia,BeaD,P,Cropland,0.0075161046769907
+Croatia,BeaD,Plant Protection,Cropland,0.004689532576607964
+Croatia,Cass,Fuel,Cropland,0.12457616408907685
+Croatia,Cass,K,Cropland,0.03185240988026573
+Croatia,Cass,Labor,Cropland,0.010959887054504864
+Croatia,Cass,Machinery,Cropland,0.8050090419256756
+Croatia,Cass,N,Cropland,0.09270477502465396
+Croatia,Cass,P,Cropland,0.02909503708466063
+Croatia,Cass,Plant Protection,Cropland,0.20225825383148766
+Croatia,ChkP,Fuel,Cropland,0.0667035316359652
+Croatia,ChkP,K,Cropland,0.008228415250953872
+Croatia,ChkP,Labor,Cropland,0.002209047141370577
+Croatia,ChkP,Machinery,Cropland,0.16259399144387743
+Croatia,ChkP,N,Cropland,0.023948372745313504
+Croatia,ChkP,P,Cropland,0.0075161046769907
+Croatia,ChkP,Plant Protection,Cropland,0.004689532576607964
+Croatia,Corn,Fuel,Cropland,0.10531754559715507
+Croatia,Corn,K,Cropland,0.020649148474103297
+Croatia,Corn,Labor,Cropland,0.00801817901039621
+Croatia,Corn,Machinery,Cropland,0.2663250395939635
+Croatia,Corn,N,Cropland,0.06009826794701706
+Croatia,Corn,P,Cropland,0.018861610247986892
+Croatia,Corn,Plant Protection,Cropland,0.003716413503544878
+Croatia,Gnut,Fuel,Cropland,0.0667035316359652
+Croatia,Gnut,K,Cropland,0.008228415250953872
+Croatia,Gnut,Labor,Cropland,0.002209047141370577
+Croatia,Gnut,Machinery,Cropland,0.16259399144387743
+Croatia,Gnut,N,Cropland,0.023948372745313504
+Croatia,Gnut,P,Cropland,0.0075161046769907
+Croatia,Gnut,Plant Protection,Cropland,0.004689532576607964
+Croatia,Mill,Fuel,Cropland,0.03258158237326798
+Croatia,Mill,K,Cropland,0.015926204940132863
+Croatia,Mill,Labor,Cropland,0.004857618816068934
+Croatia,Mill,Machinery,Cropland,0.13952527333025921
+Croatia,Mill,N,Cropland,0.04635238751232698
+Croatia,Mill,P,Cropland,0.014547518542330315
+Croatia,Mill,Plant Protection,Cropland,0.0038992457533778262
+Croatia,Pota,Fuel,Cropland,0.12457616408907685
+Croatia,Pota,K,Cropland,0.03185240988026573
+Croatia,Pota,Labor,Cropland,0.010959887054504864
+Croatia,Pota,Machinery,Cropland,0.8050090419256756
+Croatia,Pota,N,Cropland,0.09270477502465396
+Croatia,Pota,P,Cropland,0.02909503708466063
+Croatia,Pota,Plant Protection,Cropland,0.20225825383148766
+Croatia,Rape,Fuel,Cropland,0.052428927477379976
+Croatia,Rape,K,Cropland,0.012546215791872734
+Croatia,Rape,Labor,Cropland,0.0014860865188053211
+Croatia,Rape,Machinery,Cropland,0.163969100417975
+Croatia,Rape,N,Cropland,0.03651510566291318
+Croatia,Rape,P,Cropland,0.011460125469591213
+Croatia,Rape,Plant Protection,Cropland,0.00796813595817939
+Croatia,Rice,Fuel,Cropland,0.03276303920579236
+Croatia,Rice,K,Cropland,0
+Croatia,Rice,Labor,Cropland,0.01946104406091068
+Croatia,Rice,Machinery,Cropland,0.13120333438971896
+Croatia,Rice,N,Cropland,0
+Croatia,Rice,P,Cropland,0
+Croatia,Rice,Plant Protection,Cropland,0.008281849620024193
+Croatia,Soya,Fuel,Cropland,0.0667035316359652
+Croatia,Soya,K,Cropland,0.008228415250953872
+Croatia,Soya,Labor,Cropland,0.002209047141370577
+Croatia,Soya,Machinery,Cropland,0.16259399144387743
+Croatia,Soya,N,Cropland,0.023948372745313504
+Croatia,Soya,P,Cropland,0.0075161046769907
+Croatia,Soya,Plant Protection,Cropland,0.004689532576607964
+Croatia,Srgh,Fuel,Cropland,0.10531754559715507
+Croatia,Srgh,K,Cropland,0.020649148474103297
+Croatia,Srgh,Labor,Cropland,0.00801817901039621
+Croatia,Srgh,Machinery,Cropland,0.2663250395939635
+Croatia,Srgh,N,Cropland,0.06009826794701706
+Croatia,Srgh,P,Cropland,0.018861610247986892
+Croatia,Srgh,Plant Protection,Cropland,0.003716413503544878
+Croatia,Sunf,Fuel,Cropland,0.052428927477379976
+Croatia,Sunf,K,Cropland,0.012546215791872734
+Croatia,Sunf,Labor,Cropland,0.0014860865188053211
+Croatia,Sunf,Machinery,Cropland,0.163969100417975
+Croatia,Sunf,N,Cropland,0.03651510566291318
+Croatia,Sunf,P,Cropland,0.011460125469591213
+Croatia,Sunf,Plant Protection,Cropland,0.00796813595817939
+Croatia,SwPo,Fuel,Cropland,0.12457616408907685
+Croatia,SwPo,K,Cropland,0.03185240988026573
+Croatia,SwPo,Labor,Cropland,0.010959887054504864
+Croatia,SwPo,Machinery,Cropland,0.8050090419256756
+Croatia,SwPo,N,Cropland,0.09270477502465396
+Croatia,SwPo,P,Cropland,0.02909503708466063
+Croatia,SwPo,Plant Protection,Cropland,0.20225825383148766
+Croatia,Whea,Fuel,Cropland,0.03276303920579236
+Croatia,Whea,K,Cropland,0.01933111772043713
+Croatia,Whea,Labor,Cropland,0.004389156094375907
+Croatia,Whea,Machinery,Cropland,0.13120333438971896
+Croatia,Whea,N,Cropland,0.05626220829082448
+Croatia,Whea,P,Cropland,0.017657677678966453
+Croatia,Whea,Plant Protection,Cropland,0.019361991024037028
+Croatia,Extensive Grassland,fertCost_N,Grassland,0.022506038249880275
+Croatia,Extensive Grassland,fertCost_P,Grassland,0.011070802739124514
+Croatia,Extensive Grassland,fuelCost,Grassland,0.03432770676089515
+Croatia,Extensive Grassland,labourCost,Grassland,0.03808083004376332
+Croatia,Extensive Grassland,machCost,Grassland,0.09186903567041643
+Croatia,Extensive Grassland,seedCost,Grassland,0.007717426734412819
+Croatia,Grassland,fertCost_N,Grassland,0.0575885048258398
+Croatia,Grassland,fertCost_P,Grassland,0.021649496426651323
+Croatia,Grassland,fuelCost,Grassland,0.05389061066496635
+Croatia,Grassland,labourCost,Grassland,0.07319175508322634
+Croatia,Grassland,machCost,Grassland,0.11387330213439976
+Croatia,Grassland,seedCost,Grassland,0.008231788211524194
+Hungary,Barl,Fuel,Cropland,0.035438840988160546
+Hungary,Barl,K,Cropland,0.010585683146807204
+Hungary,Barl,Labor,Cropland,0.004134059124683193
+Hungary,Barl,Machinery,Cropland,0.12729212276074878
+Hungary,Barl,N,Cropland,0.030809077815334398
+Hungary,Barl,P,Cropland,0.009669310575889564
+Hungary,Barl,Plant Protection,Cropland,0.005077360305878925
+Hungary,BeaD,Fuel,Cropland,0.07422503261916329
+Hungary,BeaD,K,Cropland,0.009359531778897253
+Hungary,BeaD,Labor,Cropland,0.001880001671071583
+Hungary,BeaD,Machinery,Cropland,0.16737153039470837
+Hungary,BeaD,N,Cropland,0.027240428311715883
+Hungary,BeaD,P,Cropland,0.008549303654753907
+Hungary,BeaD,Plant Protection,Cropland,0.0033634779496346627
+Hungary,Cass,Fuel,Cropland,0.10774340969963418
+Hungary,Cass,K,Cropland,0.011710718736339937
+Hungary,Cass,Labor,Cropland,0.009327372689946793
+Hungary,Cass,Machinery,Cropland,0.678604115853707
+Hungary,Cass,N,Cropland,0.034083435128153546
+Hungary,Cass,P,Cropland,0.010696955024835883
+Hungary,Cass,Plant Protection,Cropland,0.6373035091510973
+Hungary,ChkP,Fuel,Cropland,0.07422503261916329
+Hungary,ChkP,K,Cropland,0.009359531778897253
+Hungary,ChkP,Labor,Cropland,0.001880001671071583
+Hungary,ChkP,Machinery,Cropland,0.16737153039470837
+Hungary,ChkP,N,Cropland,0.027240428311715883
+Hungary,ChkP,P,Cropland,0.008549303654753907
+Hungary,ChkP,Plant Protection,Cropland,0.0033634779496346627
+Hungary,Corn,Fuel,Cropland,0.10044744167649555
+Hungary,Corn,K,Cropland,0.020765398171654317
+Hungary,Corn,Labor,Cropland,0.006823842577276718
+Hungary,Corn,Machinery,Cropland,0.2532823513511971
+Hungary,Corn,N,Cropland,0.06043660661899391
+Hungary,Corn,P,Cropland,0.01896779653888424
+Hungary,Corn,Plant Protection,Cropland,0.004613673181396933
+Hungary,Gnut,Fuel,Cropland,0.07422503261916329
+Hungary,Gnut,K,Cropland,0.009359531778897253
+Hungary,Gnut,Labor,Cropland,0.001880001671071583
+Hungary,Gnut,Machinery,Cropland,0.16737153039470837
+Hungary,Gnut,N,Cropland,0.027240428311715883
+Hungary,Gnut,P,Cropland,0.008549303654753907
+Hungary,Gnut,Plant Protection,Cropland,0.0033634779496346627
+Hungary,Mill,Fuel,Cropland,0.035438840988160546
+Hungary,Mill,K,Cropland,0.010585683146807204
+Hungary,Mill,Labor,Cropland,0.004134059124683193
+Hungary,Mill,Machinery,Cropland,0.12729212276074878
+Hungary,Mill,N,Cropland,0.030809077815334398
+Hungary,Mill,P,Cropland,0.009669310575889564
+Hungary,Mill,Plant Protection,Cropland,0.005077360305878925
+Hungary,Pota,Fuel,Cropland,0.10774340969963418
+Hungary,Pota,K,Cropland,0.011710718736339937
+Hungary,Pota,Labor,Cropland,0.009327372689946793
+Hungary,Pota,Machinery,Cropland,0.678604115853707
+Hungary,Pota,N,Cropland,0.034083435128153546
+Hungary,Pota,P,Cropland,0.010696955024835883
+Hungary,Pota,Plant Protection,Cropland,0.6373035091510973
+Hungary,Rape,Fuel,Cropland,0.05559473788849191
+Hungary,Rape,K,Cropland,0.012439882050753895
+Hungary,Rape,Labor,Cropland,0.0012647286182301874
+Hungary,Rape,Machinery,Cropland,0.12686604830053808
+Hungary,Rape,N,Cropland,0.03620562686413447
+Hungary,Rape,P,Cropland,0.011362996738897587
+Hungary,Rape,Plant Protection,Cropland,0.009661902948167751
+Hungary,Rice,Fuel,Cropland,0.03226648588830874
+Hungary,Rice,K,Cropland,0.011375258558039227
+Hungary,Rice,Labor,Cropland,0.016562251963808224
+Hungary,Rice,Machinery,Cropland,0.12148330717697504
+Hungary,Rice,N,Cropland,0.03310709580324849
+Hungary,Rice,P,Cropland,0.01039053468286568
+Hungary,Rice,Plant Protection,Cropland,0.005279645664406048
+Hungary,Soya,Fuel,Cropland,0.07422503261916329
+Hungary,Soya,K,Cropland,0.009359531778897253
+Hungary,Soya,Labor,Cropland,0.001880001671071583
+Hungary,Soya,Machinery,Cropland,0.16737153039470837
+Hungary,Soya,N,Cropland,0.027240428311715883
+Hungary,Soya,P,Cropland,0.008549303654753907
+Hungary,Soya,Plant Protection,Cropland,0.0033634779496346627
+Hungary,Srgh,Fuel,Cropland,0.10044744167649555
+Hungary,Srgh,K,Cropland,0.020765398171654317
+Hungary,Srgh,Labor,Cropland,0.006823842577276718
+Hungary,Srgh,Machinery,Cropland,0.2532823513511971
+Hungary,Srgh,N,Cropland,0.06043660661899391
+Hungary,Srgh,P,Cropland,0.01896779653888424
+Hungary,Srgh,Plant Protection,Cropland,0.004613673181396933
+Hungary,Sunf,Fuel,Cropland,0.05559473788849191
+Hungary,Sunf,K,Cropland,0.012439882050753895
+Hungary,Sunf,Labor,Cropland,0.0012647286182301874
+Hungary,Sunf,Machinery,Cropland,0.12686604830053808
+Hungary,Sunf,N,Cropland,0.03620562686413447
+Hungary,Sunf,P,Cropland,0.011362996738897587
+Hungary,Sunf,Plant Protection,Cropland,0.009661902948167751
+Hungary,SwPo,Fuel,Cropland,0.10774340969963418
+Hungary,SwPo,K,Cropland,0.011710718736339937
+Hungary,SwPo,Labor,Cropland,0.009327372689946793
+Hungary,SwPo,Machinery,Cropland,0.678604115853707
+Hungary,SwPo,N,Cropland,0.034083435128153546
+Hungary,SwPo,P,Cropland,0.010696955024835883
+Hungary,SwPo,Plant Protection,Cropland,0.6373035091510973
+Hungary,Whea,Fuel,Cropland,0.03226648588830874
+Hungary,Whea,K,Cropland,0.01907519134372897
+Hungary,Whea,Labor,Cropland,0.0037353756004052984
+Hungary,Whea,Machinery,Cropland,0.12148330717697504
+Hungary,Whea,N,Cropland,0.05551734794070372
+Hungary,Whea,P,Cropland,0.01742390612292855
+Hungary,Whea,Plant Protection,Cropland,0.02055925218207842
+Hungary,Extensive Grassland,fertCost_N,Grassland,0.0024563452917922583
+Hungary,Extensive Grassland,fertCost_P,Grassland,0.002489308245308662
+Hungary,Extensive Grassland,fuelCost,Grassland,0.016990778350385233
+Hungary,Extensive Grassland,labourCost,Grassland,0.007859555177698109
+Hungary,Extensive Grassland,machCost,Grassland,0.07451866498516155
+Hungary,Extensive Grassland,seedCost,Grassland,0.003706920646835828
+Hungary,Grassland,fertCost_N,Grassland,0.05929554247836417
+Hungary,Grassland,fertCost_P,Grassland,0.03828556949427646
+Hungary,Grassland,fuelCost,Grassland,0.06250656195640217
+Hungary,Grassland,labourCost,Grassland,0.02789737068595144
+Hungary,Grassland,machCost,Grassland,0.12239462382274191
+Hungary,Grassland,seedCost,Grassland,0.00923997208913317
+Ireland,Barl,Fuel,Cropland,0.03438134411262751
+Ireland,Barl,K,Cropland,0.032254493626616046
+Ireland,Barl,Labor,Cropland,0.015384027512500063
+Ireland,Barl,Machinery,Cropland,0.22761194432228868
+Ireland,Barl,N,Cropland,0.09387501876403177
+Ireland,Barl,P,Cropland,0.029462313581326893
+Ireland,Barl,Plant Protection,Cropland,0.01859815176296104
+Ireland,BeaD,Fuel,Cropland,0.07201015374918766
+Ireland,BeaD,K,Cropland,0
+Ireland,BeaD,Labor,Cropland,0.006996028977579684
+Ireland,BeaD,Machinery,Cropland,0.2992782163429574
+Ireland,BeaD,N,Cropland,0
+Ireland,BeaD,P,Cropland,0
+Ireland,BeaD,Plant Protection,Cropland,0.00626233602647778
+Ireland,Cass,Fuel,Cropland,0.10452834069795035
+Ireland,Cass,K,Cropland,0.056379087563953434
+Ireland,Cass,Labor,Cropland,0.034709846606869585
+Ireland,Cass,Machinery,Cropland,1.2134168152917908
+Ireland,Cass,N,Cropland,0.16408838917867044
+Ireland,Cass,P,Cropland,0.05149850983453656
+Ireland,Cass,Plant Protection,Cropland,0.21789188540148619
+Ireland,ChkP,Fuel,Cropland,0.07201015374918766
+Ireland,ChkP,K,Cropland,0
+Ireland,ChkP,Labor,Cropland,0.006996028977579684
+Ireland,ChkP,Machinery,Cropland,0.2992782163429574
+Ireland,ChkP,N,Cropland,0
+Ireland,ChkP,P,Cropland,0
+Ireland,ChkP,Plant Protection,Cropland,0.00626233602647778
+Ireland,Corn,Fuel,Cropland,0.09745008474364135
+Ireland,Corn,K,Cropland,0
+Ireland,Corn,Labor,Cropland,0.025393488284432605
+Ireland,Corn,Machinery,Cropland,0.4528959623293423
+Ireland,Corn,N,Cropland,0
+Ireland,Corn,P,Cropland,0
+Ireland,Corn,Plant Protection,Cropland,0.022738950926503743
+Ireland,Gnut,Fuel,Cropland,0.07201015374918766
+Ireland,Gnut,K,Cropland,0
+Ireland,Gnut,Labor,Cropland,0.006996028977579684
+Ireland,Gnut,Machinery,Cropland,0.2992782163429574
+Ireland,Gnut,N,Cropland,0
+Ireland,Gnut,P,Cropland,0
+Ireland,Gnut,Plant Protection,Cropland,0.00626233602647778
+Ireland,Mill,Fuel,Cropland,0.03438134411262751
+Ireland,Mill,K,Cropland,0.032254493626616046
+Ireland,Mill,Labor,Cropland,0.015384027512500063
+Ireland,Mill,Machinery,Cropland,0.22761194432228868
+Ireland,Mill,N,Cropland,0.09387501876403177
+Ireland,Mill,P,Cropland,0.029462313581326893
+Ireland,Mill,Plant Protection,Cropland,0.01859815176296104
+Ireland,Pota,Fuel,Cropland,0.10452834069795035
+Ireland,Pota,K,Cropland,0.056379087563953434
+Ireland,Pota,Labor,Cropland,0.034709846606869585
+Ireland,Pota,Machinery,Cropland,1.2134168152917908
+Ireland,Pota,N,Cropland,0.16408838917867044
+Ireland,Pota,P,Cropland,0.05149850983453656
+Ireland,Pota,Plant Protection,Cropland,0.21789188540148619
+Ireland,Rape,Fuel,Cropland,0.0539357879913212
+Ireland,Rape,K,Cropland,0
+Ireland,Rape,Labor,Cropland,0.004706420317631624
+Ireland,Rape,Machinery,Cropland,0.22685007756329384
+Ireland,Rape,N,Cropland,0
+Ireland,Rape,P,Cropland,0
+Ireland,Rape,Plant Protection,Cropland,0.026727845719198437
+Ireland,Rice,Fuel,Cropland,0.03130365225549562
+Ireland,Rice,K,Cropland,0
+Ireland,Rice,Labor,Cropland,0.06163292110625283
+Ireland,Rice,Machinery,Cropland,0.21722516013827295
+Ireland,Rice,N,Cropland,0
+Ireland,Rice,P,Cropland,0
+Ireland,Rice,Plant Protection,Cropland,0.013474606208541538
+Ireland,Soya,Fuel,Cropland,0.07201015374918766
+Ireland,Soya,K,Cropland,0
+Ireland,Soya,Labor,Cropland,0.006996028977579684
+Ireland,Soya,Machinery,Cropland,0.2992782163429574
+Ireland,Soya,N,Cropland,0
+Ireland,Soya,P,Cropland,0
+Ireland,Soya,Plant Protection,Cropland,0.00626233602647778
+Ireland,Srgh,Fuel,Cropland,0.09745008474364135
+Ireland,Srgh,K,Cropland,0
+Ireland,Srgh,Labor,Cropland,0.025393488284432605
+Ireland,Srgh,Machinery,Cropland,0.4528959623293423
+Ireland,Srgh,N,Cropland,0
+Ireland,Srgh,P,Cropland,0
+Ireland,Srgh,Plant Protection,Cropland,0.022738950926503743
+Ireland,Sunf,Fuel,Cropland,0.0539357879913212
+Ireland,Sunf,K,Cropland,0
+Ireland,Sunf,Labor,Cropland,0.004706420317631624
+Ireland,Sunf,Machinery,Cropland,0.22685007756329384
+Ireland,Sunf,N,Cropland,0
+Ireland,Sunf,P,Cropland,0
+Ireland,Sunf,Plant Protection,Cropland,0.026727845719198437
+Ireland,SwPo,Fuel,Cropland,0.10452834069795035
+Ireland,SwPo,K,Cropland,0.056379087563953434
+Ireland,SwPo,Labor,Cropland,0.034709846606869585
+Ireland,SwPo,Machinery,Cropland,1.2134168152917908
+Ireland,SwPo,N,Cropland,0.16408838917867044
+Ireland,SwPo,P,Cropland,0.05149850983453656
+Ireland,SwPo,Plant Protection,Cropland,0.21789188540148619
+Ireland,Whea,Fuel,Cropland,0.03130365225549562
+Ireland,Whea,K,Cropland,0.036800168064471415
+Ireland,Whea,Labor,Cropland,0.0139004110180839
+Ireland,Whea,Machinery,Cropland,0.21722516013827295
+Ireland,Whea,N,Cropland,0.10710496675480487
+Ireland,Whea,P,Cropland,0.03361448187381568
+Ireland,Whea,Plant Protection,Cropland,0.013474606208541538
+Ireland,Extensive Grassland,fertCost_N,Grassland,0.008182903846708098
+Ireland,Extensive Grassland,fertCost_P,Grassland,0.006523330936438965
+Ireland,Extensive Grassland,fuelCost,Grassland,0.02022067148823007
+Ireland,Extensive Grassland,labourCost,Grassland,0.04805532809176611
+Ireland,Extensive Grassland,machCost,Grassland,0.10904419663471618
+Ireland,Extensive Grassland,seedCost,Grassland,0.006692941408034994
+Ireland,Grassland,fertCost_N,Grassland,0.0018758536394894736
+Ireland,Grassland,fertCost_P,Grassland,0.0011169122893309098
+Ireland,Grassland,fuelCost,Grassland,0.015137784618197777
+Ireland,Grassland,labourCost,Grassland,0.08884862384623898
+Ireland,Grassland,machCost,Grassland,0.10630166492433683
+Ireland,Grassland,seedCost,Grassland,0.0047626239578004515
+Italy,Barl,Fuel,Cropland,0.042968847493793844
+Italy,Barl,K,Cropland,0.009134085328687263
+Italy,Barl,Labor,Cropland,0.010881738458302329
+Italy,Barl,Machinery,Cropland,0.23543196510797085
+Italy,Barl,N,Cropland,0.02658427819543308
+Italy,Barl,P,Cropland,0.008343373464412843
+Italy,Barl,Plant Protection,Cropland,0.004182212372709385
+Italy,BeaD,Fuel,Cropland,0.08634175983787339
+Italy,BeaD,K,Cropland,0.003180465983288657
+Italy,BeaD,Labor,Cropland,0.007186427750435025
+Italy,BeaD,Machinery,Cropland,0.20603512662325846
+Italy,BeaD,N,Cropland,0.00925658010061624
+Italy,BeaD,P,Cropland,0.0029051420623472505
+Italy,BeaD,Plant Protection,Cropland,0.003250220650646135
+Italy,Cass,Fuel,Cropland,0.1585018289547446
+Italy,Cass,K,Cropland,0.019657330486740995
+Italy,Cass,Labor,Cropland,0.033760174732986765
+Italy,Cass,Machinery,Cropland,1.7728768848463878
+Italy,Cass,N,Cropland,0.05721163350618648
+Italy,Cass,P,Cropland,0.01795565113117237
+Italy,Cass,Plant Protection,Cropland,0.29135528045534786
+Italy,ChkP,Fuel,Cropland,0.08634175983787339
+Italy,ChkP,K,Cropland,0.003180465983288657
+Italy,ChkP,Labor,Cropland,0.007186427750435025
+Italy,ChkP,Machinery,Cropland,0.20603512662325846
+Italy,ChkP,N,Cropland,0.00925658010061624
+Italy,ChkP,P,Cropland,0.0029051420623472505
+Italy,ChkP,Plant Protection,Cropland,0.003250220650646135
+Italy,Corn,Fuel,Cropland,0.060964516191882735
+Italy,Corn,K,Cropland,0.023159041180735338
+Italy,Corn,Labor,Cropland,0.022371622438879496
+Italy,Corn,Machinery,Cropland,0.3145837175579874
+Italy,Corn,N,Cropland,0.06740317955587151
+Italy,Corn,P,Cropland,0.02115422866061198
+Italy,Corn,Plant Protection,Cropland,0.00397823042087609
+Italy,Gnut,Fuel,Cropland,0.08634175983787339
+Italy,Gnut,K,Cropland,0.003180465983288657
+Italy,Gnut,Labor,Cropland,0.007186427750435025
+Italy,Gnut,Machinery,Cropland,0.20603512662325846
+Italy,Gnut,N,Cropland,0.00925658010061624
+Italy,Gnut,P,Cropland,0.0029051420623472505
+Italy,Gnut,Plant Protection,Cropland,0.003250220650646135
+Italy,Mill,Fuel,Cropland,0.042968847493793844
+Italy,Mill,K,Cropland,0.009134085328687263
+Italy,Mill,Labor,Cropland,0.010881738458302329
+Italy,Mill,Machinery,Cropland,0.23543196510797085
+Italy,Mill,N,Cropland,0.02658427819543308
+Italy,Mill,P,Cropland,0.008343373464412843
+Italy,Mill,Plant Protection,Cropland,0.004182212372709385
+Italy,Pota,Fuel,Cropland,0.1585018289547446
+Italy,Pota,K,Cropland,0.019657330486740995
+Italy,Pota,Labor,Cropland,0.033760174732986765
+Italy,Pota,Machinery,Cropland,1.7728768848463878
+Italy,Pota,N,Cropland,0.05721163350618648
+Italy,Pota,P,Cropland,0.01795565113117237
+Italy,Pota,Plant Protection,Cropland,0.29135528045534786
+Italy,Rape,Fuel,Cropland,0.06771535576372878
+Italy,Rape,K,Cropland,0.003117361336534848
+Italy,Rape,Labor,Cropland,0.0018836781986610318
+Italy,Rape,Machinery,Cropland,0.2689657759357622
+Italy,Rape,N,Cropland,0.009072917322750677
+Italy,Rape,P,Cropland,0.0028475002059094433
+Italy,Rape,Plant Protection,Cropland,0.007846133403547227
+Italy,Rice,Fuel,Cropland,0.04324479422081822
+Italy,Rice,K,Cropland,0.005331209847287264
+Italy,Rice,Labor,Cropland,0.034339846888815515
+Italy,Rice,Machinery,Cropland,0.21728838661528607
+Italy,Rice,N,Cropland,0.01551620776449278
+Italy,Rice,P,Cropland,0.004869702129163888
+Italy,Rice,Plant Protection,Cropland,0.004251004235882729
+Italy,Soya,Fuel,Cropland,0.08634175983787339
+Italy,Soya,K,Cropland,0.003180465983288657
+Italy,Soya,Labor,Cropland,0.007186427750435025
+Italy,Soya,Machinery,Cropland,0.20603512662325846
+Italy,Soya,N,Cropland,0.00925658010061624
+Italy,Soya,P,Cropland,0.0029051420623472505
+Italy,Soya,Plant Protection,Cropland,0.003250220650646135
+Italy,Srgh,Fuel,Cropland,0.060964516191882735
+Italy,Srgh,K,Cropland,0.023159041180735338
+Italy,Srgh,Labor,Cropland,0.022371622438879496
+Italy,Srgh,Machinery,Cropland,0.3145837175579874
+Italy,Srgh,N,Cropland,0.06740317955587151
+Italy,Srgh,P,Cropland,0.02115422866061198
+Italy,Srgh,Plant Protection,Cropland,0.00397823042087609
+Italy,Sunf,Fuel,Cropland,0.06771535576372878
+Italy,Sunf,K,Cropland,0.003117361336534848
+Italy,Sunf,Labor,Cropland,0.0018836781986610318
+Italy,Sunf,Machinery,Cropland,0.2689657759357622
+Italy,Sunf,N,Cropland,0.009072917322750677
+Italy,Sunf,P,Cropland,0.0028475002059094433
+Italy,Sunf,Plant Protection,Cropland,0.007846133403547227
+Italy,SwPo,Fuel,Cropland,0.1585018289547446
+Italy,SwPo,K,Cropland,0.019657330486740995
+Italy,SwPo,Labor,Cropland,0.033760174732986765
+Italy,SwPo,Machinery,Cropland,1.7728768848463878
+Italy,SwPo,N,Cropland,0.05721163350618648
+Italy,SwPo,P,Cropland,0.01795565113117237
+Italy,SwPo,Plant Protection,Cropland,0.29135528045534786
+Italy,Whea,Fuel,Cropland,0.04324479422081822
+Italy,Whea,K,Cropland,0.010743885083846294
+Italy,Whea,Labor,Cropland,0.011403800718576641
+Italy,Whea,Machinery,Cropland,0.21728838661528607
+Italy,Whea,N,Cropland,0.03126951628880638
+Italy,Whea,P,Cropland,0.00981381741987154
+Italy,Whea,Plant Protection,Cropland,0.017194379922318963
+Italy,Extensive Grassland,fertCost_N,Grassland,0.02729399295592969
+Italy,Extensive Grassland,fertCost_P,Grassland,0.010142417893730169
+Italy,Extensive Grassland,fuelCost,Grassland,0.03106023553702569
+Italy,Extensive Grassland,labourCost,Grassland,0.02493451919595627
+Italy,Extensive Grassland,machCost,Grassland,0.12548056097881852
+Italy,Extensive Grassland,seedCost,Grassland,0.011493597085446566
+Italy,Grassland,fertCost_N,Grassland,0.06750793349999525
+Italy,Grassland,fertCost_P,Grassland,0.017135886522549302
+Italy,Grassland,fuelCost,Grassland,0.042464627456057634
+Italy,Grassland,labourCost,Grassland,0.051193777444218366
+Italy,Grassland,machCost,Grassland,0.14569963753472664
+Italy,Grassland,seedCost,Grassland,0.010152374539088486
+Lithuania,Barl,Fuel,Cropland,0.03043441962117658
+Lithuania,Barl,K,Cropland,0.012384075532575008
+Lithuania,Barl,Labor,Cropland,0.005470797763243225
+Lithuania,Barl,Machinery,Cropland,0.1268127090370751
+Lithuania,Barl,N,Cropland,0.03604320490824069
+Lithuania,Barl,P,Cropland,0.011312021232740157
+Lithuania,Barl,Plant Protection,Cropland,0.006988468094163977
+Lithuania,BeaD,Fuel,Cropland,0.06374350080697681
+Lithuania,BeaD,K,Cropland,0
+Lithuania,BeaD,Labor,Cropland,0.0024878959460407145
+Lithuania,BeaD,Machinery,Cropland,0.1667411676605141
+Lithuania,BeaD,N,Cropland,0
+Lithuania,BeaD,P,Cropland,0
+Lithuania,BeaD,Plant Protection,Cropland,0.003614933930973201
+Lithuania,Cass,Fuel,Cropland,0.0925286507905409
+Lithuania,Cass,K,Cropland,0.021641489636138957
+Lithuania,Cass,Labor,Cropland,0.012343357487178493
+Lithuania,Cass,Machinery,Cropland,0.6760483241427877
+Lithuania,Cass,N,Cropland,0.06298642506040443
+Lithuania,Cass,P,Cropland,0.019768047249726927
+Lithuania,Cass,Plant Protection,Cropland,0.16379120139181255
+Lithuania,ChkP,Fuel,Cropland,0.06374350080697681
+Lithuania,ChkP,K,Cropland,0
+Lithuania,ChkP,Labor,Cropland,0.0024878959460407145
+Lithuania,ChkP,Machinery,Cropland,0.1667411676605141
+Lithuania,ChkP,N,Cropland,0
+Lithuania,ChkP,P,Cropland,0
+Lithuania,ChkP,Plant Protection,Cropland,0.003614933930973201
+Lithuania,Corn,Fuel,Cropland,0.08626296754110646
+Lithuania,Corn,K,Cropland,0.015537479738766437
+Lithuania,Corn,Labor,Cropland,0.009030316592617724
+Lithuania,Corn,Machinery,Cropland,0.25232842706732733
+Lithuania,Corn,N,Cropland,0.045221023120290374
+Lithuania,Corn,P,Cropland,0.014192444179291133
+Lithuania,Corn,Plant Protection,Cropland,0.006840781388359341
+Lithuania,Gnut,Fuel,Cropland,0.06374350080697681
+Lithuania,Gnut,K,Cropland,0
+Lithuania,Gnut,Labor,Cropland,0.0024878959460407145
+Lithuania,Gnut,Machinery,Cropland,0.1667411676605141
+Lithuania,Gnut,N,Cropland,0
+Lithuania,Gnut,P,Cropland,0
+Lithuania,Gnut,Plant Protection,Cropland,0.003614933930973201
+Lithuania,Mill,Fuel,Cropland,0.03043441962117658
+Lithuania,Mill,K,Cropland,0.012384075532575008
+Lithuania,Mill,Labor,Cropland,0.005470797763243225
+Lithuania,Mill,Machinery,Cropland,0.1268127090370751
+Lithuania,Mill,N,Cropland,0.03604320490824069
+Lithuania,Mill,P,Cropland,0.011312021232740157
+Lithuania,Mill,Plant Protection,Cropland,0.006988468094163977
+Lithuania,Pota,Fuel,Cropland,0.0925286507905409
+Lithuania,Pota,K,Cropland,0.021641489636138957
+Lithuania,Pota,Labor,Cropland,0.012343357487178493
+Lithuania,Pota,Machinery,Cropland,0.6760483241427877
+Lithuania,Pota,N,Cropland,0.06298642506040443
+Lithuania,Pota,P,Cropland,0.019768047249726927
+Lithuania,Pota,Plant Protection,Cropland,0.16379120139181255
+Lithuania,Rape,Fuel,Cropland,0.047744043948642415
+Lithuania,Rape,K,Cropland,0.0029112755577363645
+Lithuania,Rape,Labor,Cropland,0.0016736757475024344
+Lithuania,Rape,Machinery,Cropland,0.12638823924794312
+Lithuania,Rape,N,Cropland,0.008473115429232701
+Lithuania,Rape,P,Cropland,0.0026592546885591864
+Lithuania,Rape,Plant Protection,Cropland,0.012109720247938357
+Lithuania,Rice,Fuel,Cropland,0.027710041972129743
+Lithuania,Rice,K,Cropland,0
+Lithuania,Rice,Labor,Cropland,0.021917618559656276
+Lithuania,Rice,Machinery,Cropland,0.1210257708986022
+Lithuania,Rice,N,Cropland,0
+Lithuania,Rice,P,Cropland,0
+Lithuania,Rice,Plant Protection,Cropland,0.028345370277747278
+Lithuania,Soya,Fuel,Cropland,0.06374350080697681
+Lithuania,Soya,K,Cropland,0
+Lithuania,Soya,Labor,Cropland,0.0024878959460407145
+Lithuania,Soya,Machinery,Cropland,0.1667411676605141
+Lithuania,Soya,N,Cropland,0
+Lithuania,Soya,P,Cropland,0
+Lithuania,Soya,Plant Protection,Cropland,0.003614933930973201
+Lithuania,Srgh,Fuel,Cropland,0.08626296754110646
+Lithuania,Srgh,K,Cropland,0.015537479738766437
+Lithuania,Srgh,Labor,Cropland,0.009030316592617724
+Lithuania,Srgh,Machinery,Cropland,0.25232842706732733
+Lithuania,Srgh,N,Cropland,0.045221023120290374
+Lithuania,Srgh,P,Cropland,0.014192444179291133
+Lithuania,Srgh,Plant Protection,Cropland,0.006840781388359341
+Lithuania,Sunf,Fuel,Cropland,0.047744043948642415
+Lithuania,Sunf,K,Cropland,0.0029112755577363645
+Lithuania,Sunf,Labor,Cropland,0.0016736757475024344
+Lithuania,Sunf,Machinery,Cropland,0.12638823924794312
+Lithuania,Sunf,N,Cropland,0.008473115429232701
+Lithuania,Sunf,P,Cropland,0.0026592546885591864
+Lithuania,Sunf,Plant Protection,Cropland,0.012109720247938357
+Lithuania,SwPo,Fuel,Cropland,0.0925286507905409
+Lithuania,SwPo,K,Cropland,0.021641489636138957
+Lithuania,SwPo,Labor,Cropland,0.012343357487178493
+Lithuania,SwPo,Machinery,Cropland,0.6760483241427877
+Lithuania,SwPo,N,Cropland,0.06298642506040443
+Lithuania,SwPo,P,Cropland,0.019768047249726927
+Lithuania,SwPo,Plant Protection,Cropland,0.16379120139181255
+Lithuania,Whea,Fuel,Cropland,0.027710041972129743
+Lithuania,Whea,K,Cropland,0.01609238972943666
+Lithuania,Whea,Labor,Cropland,0.004943200825928357
+Lithuania,Whea,Machinery,Cropland,0.1210257708986022
+Lithuania,Whea,N,Cropland,0.04683605966030072
+Lithuania,Whea,P,Cropland,0.01469931718569438
+Lithuania,Whea,Plant Protection,Cropland,0.028345370277747278
+Lithuania,Extensive Grassland,fertCost_N,Grassland,0.029650154339347264
+Lithuania,Extensive Grassland,fertCost_P,Grassland,0.01736832287605243
+Lithuania,Extensive Grassland,fuelCost,Grassland,0.01892665621068969
+Lithuania,Extensive Grassland,labourCost,Grassland,0.015887437025419254
+Lithuania,Extensive Grassland,machCost,Grassland,0.10390846324382341
+Lithuania,Extensive Grassland,seedCost,Grassland,0.0081958307613353
+Lithuania,Grassland,fertCost_N,Grassland,1.3190569095054389e-5
+Lithuania,Grassland,fertCost_P,Grassland,5.557432124439331e-6
+Lithuania,Grassland,fuelCost,Grassland,0.007699660535623289
+Lithuania,Grassland,labourCost,Grassland,0.026338917748178998
+Lithuania,Grassland,machCost,Grassland,0.08389873471117498
+Lithuania,Grassland,seedCost,Grassland,0.003192912515616142
+Luxembourg,Barl,Fuel,Cropland,0.029333255721310892
+Luxembourg,Barl,K,Cropland,0.014478373165472113
+Luxembourg,Barl,Labor,Cropland,0.01930542685563417
+Luxembourg,Barl,Machinery,Cropland,0.2707848836518771
+Luxembourg,Barl,N,Cropland,0.04213854876518003
+Luxembourg,Barl,P,Cropland,0.013225021458610348
+Luxembourg,Barl,Plant Protection,Cropland,0.008196348820257836
+Luxembourg,BeaD,Fuel,Cropland,0.06005330645320851
+Luxembourg,BeaD,K,Cropland,0
+Luxembourg,BeaD,Labor,Cropland,0.0087793216436215845
+Luxembourg,BeaD,Machinery,Cropland,0.3155556983087407
+Luxembourg,BeaD,N,Cropland,0
+Luxembourg,BeaD,P,Cropland,0
+Luxembourg,BeaD,Plant Protection,Cropland,0.011148438759246652
+Luxembourg,Cass,Fuel,Cropland,0.11215613889284391
+Luxembourg,Cass,K,Cropland,0.017242370785870466
+Luxembourg,Cass,Labor,Cropland,0.043557410716714616
+Luxembourg,Cass,Machinery,Cropland,1.5623282761795805
+Luxembourg,Cass,N,Cropland,0.05018301945141404
+Luxembourg,Cass,P,Cropland,0.01574974764321302
+Luxembourg,Cass,Plant Protection,Cropland,0.5448250313151342
+Luxembourg,ChkP,Fuel,Cropland,0.06005330645320851
+Luxembourg,ChkP,K,Cropland,0
+Luxembourg,ChkP,Labor,Cropland,0.0087793216436215845
+Luxembourg,ChkP,Machinery,Cropland,0.3155556983087407
+Luxembourg,ChkP,N,Cropland,0
+Luxembourg,ChkP,P,Cropland,0
+Luxembourg,ChkP,Plant Protection,Cropland,0.011148438759246652
+Luxembourg,Corn,Fuel,Cropland,0.09481757090707896
+Luxembourg,Corn,K,Cropland,0.01831902794215173
+Luxembourg,Corn,Labor,Cropland,0.03186630615982622
+Luxembourg,Corn,Machinery,Cropland,0.516872629209661
+Luxembourg,Corn,N,Cropland,0.053316573861486374
+Luxembourg,Corn,P,Cropland,0.016733201642681876
+Luxembourg,Corn,Plant Protection,Cropland,0.006482429802766071
+Luxembourg,Gnut,Fuel,Cropland,0.06005330645320851
+Luxembourg,Gnut,K,Cropland,0
+Luxembourg,Gnut,Labor,Cropland,0.0087793216436215845
+Luxembourg,Gnut,Machinery,Cropland,0.3155556983087407
+Luxembourg,Gnut,N,Cropland,0
+Luxembourg,Gnut,P,Cropland,0
+Luxembourg,Gnut,Plant Protection,Cropland,0.011148438759246652
+Luxembourg,Mill,Fuel,Cropland,0.029333255721310892
+Luxembourg,Mill,K,Cropland,0.014478373165472113
+Luxembourg,Mill,Labor,Cropland,0.01930542685563417
+Luxembourg,Mill,Machinery,Cropland,0.2707848836518771
+Luxembourg,Mill,N,Cropland,0.04213854876518003
+Luxembourg,Mill,P,Cropland,0.013225021458610348
+Luxembourg,Mill,Plant Protection,Cropland,0.008196348820257836
+Luxembourg,Pota,Fuel,Cropland,0.11215613889284391
+Luxembourg,Pota,K,Cropland,0.017242370785870466
+Luxembourg,Pota,Labor,Cropland,0.043557410716714616
+Luxembourg,Pota,Machinery,Cropland,1.5623282761795805
+Luxembourg,Pota,N,Cropland,0.05018301945141404
+Luxembourg,Pota,P,Cropland,0.01574974764321302
+Luxembourg,Pota,Plant Protection,Cropland,0.5448250313151342
+Luxembourg,Rape,Fuel,Cropland,0.04720185530798073
+Luxembourg,Rape,K,Cropland,0
+Luxembourg,Rape,Labor,Cropland,0.005906090139274736
+Luxembourg,Rape,Machinery,Cropland,0.3182244530031994
+Luxembourg,Rape,N,Cropland,0
+Luxembourg,Rape,P,Cropland,0
+Luxembourg,Rape,Plant Protection,Cropland,0.008613160379276126
+Luxembourg,Rice,Fuel,Cropland,0.029496621625699385
+Luxembourg,Rice,K,Cropland,0
+Luxembourg,Rice,Labor,Cropland,0.07734319568455274
+Luxembourg,Rice,Machinery,Cropland,0.2546340086021014
+Luxembourg,Rice,N,Cropland,0
+Luxembourg,Rice,P,Cropland,0
+Luxembourg,Rice,Plant Protection,Cropland,0.019615874496506376
+Luxembourg,Soya,Fuel,Cropland,0.06005330645320851
+Luxembourg,Soya,K,Cropland,0
+Luxembourg,Soya,Labor,Cropland,0.0087793216436215845
+Luxembourg,Soya,Machinery,Cropland,0.3155556983087407
+Luxembourg,Soya,N,Cropland,0
+Luxembourg,Soya,P,Cropland,0
+Luxembourg,Soya,Plant Protection,Cropland,0.011148438759246652
+Luxembourg,Srgh,Fuel,Cropland,0.09481757090707896
+Luxembourg,Srgh,K,Cropland,0.01831902794215173
+Luxembourg,Srgh,Labor,Cropland,0.03186630615982622
+Luxembourg,Srgh,Machinery,Cropland,0.516872629209661
+Luxembourg,Srgh,N,Cropland,0.053316573861486374
+Luxembourg,Srgh,P,Cropland,0.016733201642681876
+Luxembourg,Srgh,Plant Protection,Cropland,0.006482429802766071
+Luxembourg,Sunf,Fuel,Cropland,0.04720185530798073
+Luxembourg,Sunf,K,Cropland,0
+Luxembourg,Sunf,Labor,Cropland,0.005906090139274736
+Luxembourg,Sunf,Machinery,Cropland,0.3182244530031994
+Luxembourg,Sunf,N,Cropland,0
+Luxembourg,Sunf,P,Cropland,0
+Luxembourg,Sunf,Plant Protection,Cropland,0.008613160379276126
+Luxembourg,SwPo,Fuel,Cropland,0.11215613889284391
+Luxembourg,SwPo,K,Cropland,0.017242370785870466
+Luxembourg,SwPo,Labor,Cropland,0.043557410716714616
+Luxembourg,SwPo,Machinery,Cropland,1.5623282761795805
+Luxembourg,SwPo,N,Cropland,0.05018301945141404
+Luxembourg,SwPo,P,Cropland,0.01574974764321302
+Luxembourg,SwPo,Plant Protection,Cropland,0.5448250313151342
+Luxembourg,Whea,Fuel,Cropland,0.029496621625699385
+Luxembourg,Whea,K,Cropland,0.010889262156712059
+Luxembourg,Whea,Labor,Cropland,0.017443635481984382
+Luxembourg,Whea,Machinery,Cropland,0.2546340086021014
+Luxembourg,Whea,N,Cropland,0.03169262866505748
+Luxembourg,Whea,P,Cropland,0.009946609611802656
+Luxembourg,Whea,Plant Protection,Cropland,0.018885266925155474
+Luxembourg,Extensive Grassland,fertCost_N,Grassland,0.030188107027166143
+Luxembourg,Extensive Grassland,fertCost_P,Grassland,0.024700514056827775
+Luxembourg,Extensive Grassland,fuelCost,Grassland,0.020955965385430046
+Luxembourg,Extensive Grassland,labourCost,Grassland,0.08059004524933372
+Luxembourg,Extensive Grassland,machCost,Grassland,0.1937547219079854
+Luxembourg,Extensive Grassland,seedCost,Grassland,0.020181290350930494
+Luxembourg,Grassland,fertCost_N,Grassland,0.010059787669204576
+Luxembourg,Grassland,fertCost_P,Grassland,0.0064668923616558235
+Luxembourg,Grassland,fuelCost,Grassland,0.011467538094302475
+Luxembourg,Grassland,labourCost,Grassland,0.14037803421834297
+Luxembourg,Grassland,machCost,Grassland,0.17050576000763987
+Luxembourg,Grassland,seedCost,Grassland,0.009306417244632362
+Latvia,Barl,Fuel,Cropland,0.03057215377983347
+Latvia,Barl,K,Cropland,0.018269590988691832
+Latvia,Barl,Labor,Cropland,0.003875523950983168
+Latvia,Barl,Machinery,Cropland,0.1390195361065382
+Latvia,Barl,N,Cropland,0.05317269019096876
+Latvia,Barl,P,Cropland,0.016688044306088657
+Latvia,Barl,Plant Protection,Cropland,0.007183040410314716
+Latvia,BeaD,Fuel,Cropland,0.06403197870676186
+Latvia,BeaD,K,Cropland,0
+Latvia,BeaD,Labor,Cropland,0.001762430406624784
+Latvia,BeaD,Machinery,Cropland,0.18279145643368014
+Latvia,BeaD,N,Cropland,0
+Latvia,BeaD,P,Cropland,0
+Latvia,BeaD,Plant Protection,Cropland,0.00895050092913641
+Latvia,Cass,Fuel,Cropland,0.09294739890622453
+Latvia,Cass,K,Cropland,0.0260211915756662
+Latvia,Cass,Labor,Cropland,0.008744058846135945
+Latvia,Cass,Machinery,Cropland,0.7411238599998313
+Latvia,Cass,N,Cropland,0.07573331876499864
+Latvia,Cass,P,Cropland,0.023768610812399574
+Latvia,Cass,Plant Protection,Cropland,0.10513570143892569
+Latvia,ChkP,Fuel,Cropland,0.06403197870676186
+Latvia,ChkP,K,Cropland,0
+Latvia,ChkP,Labor,Cropland,0.001762430406624784
+Latvia,ChkP,Machinery,Cropland,0.18279145643368014
+Latvia,ChkP,N,Cropland,0
+Latvia,ChkP,P,Cropland,0
+Latvia,ChkP,Plant Protection,Cropland,0.00895050092913641
+Latvia,Corn,Fuel,Cropland,0.08665335964995595
+Latvia,Corn,K,Cropland,0.011221167953766077
+Latvia,Corn,Labor,Cropland,0.006397094126708037
+Latvia,Corn,Machinery,Cropland,0.2766172345667204
+Latvia,Corn,N,Cropland,0.03265862314902067
+Latvia,Corn,P,Cropland,0.010249783265231101
+Latvia,Corn,Plant Protection,Cropland,0.03249985317535422
+Latvia,Gnut,Fuel,Cropland,0.06403197870676186
+Latvia,Gnut,K,Cropland,0
+Latvia,Gnut,Labor,Cropland,0.001762430406624784
+Latvia,Gnut,Machinery,Cropland,0.18279145643368014
+Latvia,Gnut,N,Cropland,0
+Latvia,Gnut,P,Cropland,0
+Latvia,Gnut,Plant Protection,Cropland,0.00895050092913641
+Latvia,Mill,Fuel,Cropland,0.03057215377983347
+Latvia,Mill,K,Cropland,0.018269590988691832
+Latvia,Mill,Labor,Cropland,0.003875523950983168
+Latvia,Mill,Machinery,Cropland,0.1390195361065382
+Latvia,Mill,N,Cropland,0.05317269019096876
+Latvia,Mill,P,Cropland,0.016688044306088657
+Latvia,Mill,Plant Protection,Cropland,0.007183040410314716
+Latvia,Pota,Fuel,Cropland,0.09294739890622453
+Latvia,Pota,K,Cropland,0.0260211915756662
+Latvia,Pota,Labor,Cropland,0.008744058846135945
+Latvia,Pota,Machinery,Cropland,0.7411238599998313
+Latvia,Pota,N,Cropland,0.07573331876499864
+Latvia,Pota,P,Cropland,0.023768610812399574
+Latvia,Pota,Plant Protection,Cropland,0.10513570143892569
+Latvia,Rape,Fuel,Cropland,0.0479601146280244
+Latvia,Rape,K,Cropland,0.002973394441896362
+Latvia,Rape,Labor,Cropland,0.0011856352083064498
+Latvia,Rape,Machinery,Cropland,0.1385542074689717
+Latvia,Rape,N,Cropland,0.008653909196564037
+Latvia,Rape,P,Cropland,0.0027159961170754826
+Latvia,Rape,Plant Protection,Cropland,0.008227711070236818
+Latvia,Rice,Fuel,Cropland,0.02783544667394055
+Latvia,Rice,K,Cropland,0
+Latvia,Rice,Labor,Cropland,0.015526484317728684
+Latvia,Rice,Machinery,Cropland,0.13267555477040577
+Latvia,Rice,N,Cropland,0
+Latvia,Rice,P,Cropland,0
+Latvia,Rice,Plant Protection,Cropland,0.019258703921247688
+Latvia,Soya,Fuel,Cropland,0.06403197870676186
+Latvia,Soya,K,Cropland,0
+Latvia,Soya,Labor,Cropland,0.001762430406624784
+Latvia,Soya,Machinery,Cropland,0.18279145643368014
+Latvia,Soya,N,Cropland,0
+Latvia,Soya,P,Cropland,0
+Latvia,Soya,Plant Protection,Cropland,0.00895050092913641
+Latvia,Srgh,Fuel,Cropland,0.08665335964995595
+Latvia,Srgh,K,Cropland,0.011221167953766077
+Latvia,Srgh,Labor,Cropland,0.006397094126708037
+Latvia,Srgh,Machinery,Cropland,0.2766172345667204
+Latvia,Srgh,N,Cropland,0.03265862314902067
+Latvia,Srgh,P,Cropland,0.010249783265231101
+Latvia,Srgh,Plant Protection,Cropland,0.03249985317535422
+Latvia,Sunf,Fuel,Cropland,0.0479601146280244
+Latvia,Sunf,K,Cropland,0.002973394441896362
+Latvia,Sunf,Labor,Cropland,0.0011856352083064498
+Latvia,Sunf,Machinery,Cropland,0.1385542074689717
+Latvia,Sunf,N,Cropland,0.008653909196564037
+Latvia,Sunf,P,Cropland,0.0027159961170754826
+Latvia,Sunf,Plant Protection,Cropland,0.008227711070236818
+Latvia,SwPo,Fuel,Cropland,0.09294739890622453
+Latvia,SwPo,K,Cropland,0.0260211915756662
+Latvia,SwPo,Labor,Cropland,0.008744058846135945
+Latvia,SwPo,Machinery,Cropland,0.7411238599998313
+Latvia,SwPo,N,Cropland,0.07573331876499864
+Latvia,SwPo,P,Cropland,0.023768610812399574
+Latvia,SwPo,Plant Protection,Cropland,0.10513570143892569
+Latvia,Whea,Fuel,Cropland,0.02783544667394055
+Latvia,Whea,K,Cropland,0.02813101791963914
+Latvia,Whea,Labor,Cropland,0.003501773237555776
+Latvia,Whea,Machinery,Cropland,0.13267555477040577
+Latvia,Whea,N,Cropland,0.08187385812432287
+Latvia,Whea,P,Cropland,0.025695795472864408
+Latvia,Whea,Plant Protection,Cropland,0.019258703921247688
+Latvia,Extensive Grassland,fertCost_N,Grassland,0.020749394676410304
+Latvia,Extensive Grassland,fertCost_P,Grassland,0.029681323635130277
+Latvia,Extensive Grassland,fuelCost,Grassland,0.035421412537266786
+Latvia,Extensive Grassland,labourCost,Grassland,0.0207306664950869
+Latvia,Extensive Grassland,machCost,Grassland,0.09906492565912949
+Latvia,Extensive Grassland,seedCost,Grassland,0.00875999896998578
+Latvia,Grassland,fertCost_N,Grassland,0.00905462297470062
+Latvia,Grassland,fertCost_P,Grassland,0.011008156358032891
+Latvia,Grassland,fuelCost,Grassland,0.022140774692130532
+Latvia,Grassland,labourCost,Grassland,0.037112930476727715
+Latvia,Grassland,machCost,Grassland,0.08879127519496063
+Latvia,Grassland,seedCost,Grassland,0.004560364394768773
+Malta,Barl,Fuel,Cropland,0.03636319899491206
+Malta,Barl,K,Cropland,0
+Malta,Barl,Labor,Cropland,0.011882895865713856
+Malta,Barl,Machinery,Cropland,0.1836020264772447
+Malta,Barl,N,Cropland,0
+Malta,Barl,P,Cropland,0
+Malta,Barl,Plant Protection,Cropland,0.004236639740415128
+Malta,BeaD,Fuel,Cropland,0.07459095911833868
+Malta,BeaD,K,Cropland,0
+Malta,BeaD,Labor,Cropland,0.007847603848605852
+Malta,BeaD,Machinery,Cropland,0.18059145788719802
+Malta,BeaD,N,Cropland,0
+Malta,BeaD,P,Cropland,0
+Malta,BeaD,Plant Protection,Cropland,0.007167576359228574
+Malta,Cass,Fuel,Cropland,0.10650134774698078
+Malta,Cass,K,Cropland,0.004631118110776136
+Malta,Cass,Labor,Cropland,0.036866227055320396
+Malta,Cass,Machinery,Cropland,1.2564858040026847
+Malta,Cass,N,Cropland,0.013478627337333527
+Malta,Cass,P,Cropland,0.004230215348947753
+Malta,Cass,Plant Protection,Cropland,0.43133043794016324
+Malta,ChkP,Fuel,Cropland,0.07459095911833868
+Malta,ChkP,K,Cropland,0
+Malta,ChkP,Labor,Cropland,0.007847603848605852
+Malta,ChkP,Machinery,Cropland,0.18059145788719802
+Malta,ChkP,N,Cropland,0
+Malta,ChkP,P,Cropland,0
+Malta,ChkP,Plant Protection,Cropland,0.007167576359228574
+Malta,Corn,Fuel,Cropland,0.044596215484745814
+Malta,Corn,K,Cropland,0
+Malta,Corn,Labor,Cropland,0.024429888735788118
+Malta,Corn,Machinery,Cropland,0.24634252050041594
+Malta,Corn,N,Cropland,0
+Malta,Corn,P,Cropland,0
+Malta,Corn,Plant Protection,Cropland,0.015669582790426483
+Malta,Gnut,Fuel,Cropland,0.07459095911833868
+Malta,Gnut,K,Cropland,0
+Malta,Gnut,Labor,Cropland,0.007847603848605852
+Malta,Gnut,Machinery,Cropland,0.18059145788719802
+Malta,Gnut,N,Cropland,0
+Malta,Gnut,P,Cropland,0
+Malta,Gnut,Plant Protection,Cropland,0.007167576359228574
+Malta,Mill,Fuel,Cropland,0.03636319899491206
+Malta,Mill,K,Cropland,0
+Malta,Mill,Labor,Cropland,0.011882895865713856
+Malta,Mill,Machinery,Cropland,0.1836020264772447
+Malta,Mill,N,Cropland,0
+Malta,Mill,P,Cropland,0
+Malta,Mill,Plant Protection,Cropland,0.004236639740415128
+Malta,Pota,Fuel,Cropland,0.10650134774698078
+Malta,Pota,K,Cropland,0.004631118110776136
+Malta,Pota,Labor,Cropland,0.036866227055320396
+Malta,Pota,Machinery,Cropland,1.2564858040026847
+Malta,Pota,N,Cropland,0.013478627337333527
+Malta,Pota,P,Cropland,0.004230215348947753
+Malta,Pota,Plant Protection,Cropland,0.43133043794016324
+Malta,Rape,Fuel,Cropland,0.05533234143477721
+Malta,Rape,K,Cropland,0
+Malta,Rape,Labor,Cropland,0.002056983079034283
+Malta,Rape,Machinery,Cropland,0.17773934019503254
+Malta,Rape,N,Cropland,0
+Malta,Rape,P,Cropland,0
+Malta,Rape,Plant Protection,Cropland,0.008060760132931818
+Malta,Rice,Fuel,Cropland,0.03302997670352642
+Malta,Rice,K,Cropland,0
+Malta,Rice,Labor,Cropland,0.03749923104547892
+Malta,Rice,Machinery,Cropland,0.1746861116941242
+Malta,Rice,N,Cropland,0
+Malta,Rice,P,Cropland,0
+Malta,Rice,Plant Protection,Cropland,0.006828962807162613
+Malta,Soya,Fuel,Cropland,0.07459095911833868
+Malta,Soya,K,Cropland,0
+Malta,Soya,Labor,Cropland,0.007847603848605852
+Malta,Soya,Machinery,Cropland,0.18059145788719802
+Malta,Soya,N,Cropland,0
+Malta,Soya,P,Cropland,0
+Malta,Soya,Plant Protection,Cropland,0.007167576359228574
+Malta,Srgh,Fuel,Cropland,0.044596215484745814
+Malta,Srgh,K,Cropland,0
+Malta,Srgh,Labor,Cropland,0.024429888735788118
+Malta,Srgh,Machinery,Cropland,0.24634252050041594
+Malta,Srgh,N,Cropland,0
+Malta,Srgh,P,Cropland,0
+Malta,Srgh,Plant Protection,Cropland,0.015669582790426483
+Malta,Sunf,Fuel,Cropland,0.05533234143477721
+Malta,Sunf,K,Cropland,0
+Malta,Sunf,Labor,Cropland,0.002056983079034283
+Malta,Sunf,Machinery,Cropland,0.17773934019503254
+Malta,Sunf,N,Cropland,0
+Malta,Sunf,P,Cropland,0
+Malta,Sunf,Plant Protection,Cropland,0.008060760132931818
+Malta,SwPo,Fuel,Cropland,0.10650134774698078
+Malta,SwPo,K,Cropland,0.004631118110776136
+Malta,SwPo,Labor,Cropland,0.036866227055320396
+Malta,SwPo,Machinery,Cropland,1.2564858040026847
+Malta,SwPo,N,Cropland,0.013478627337333527
+Malta,SwPo,P,Cropland,0.004230215348947753
+Malta,SwPo,Plant Protection,Cropland,0.43133043794016324
+Malta,Whea,Fuel,Cropland,0.03302997670352642
+Malta,Whea,K,Cropland,0
+Malta,Whea,Labor,Cropland,0.01245298965155795
+Malta,Whea,Machinery,Cropland,0.1746861116941242
+Malta,Whea,N,Cropland,0
+Malta,Whea,P,Cropland,0
+Malta,Whea,Plant Protection,Cropland,0.0070325933286215355
+Malta,Extensive Grassland,fertCost_N,Grassland,0.019756596282144753
+Malta,Extensive Grassland,fertCost_P,Grassland,0.014187524737652168
+Malta,Extensive Grassland,fuelCost,Grassland,0.03134121638120526
+Malta,Extensive Grassland,labourCost,Grassland,0.04167956620236968
+Malta,Extensive Grassland,machCost,Grassland,0.11640884956670486
+Malta,Extensive Grassland,seedCost,Grassland,0.009804572849795783
+Malta,Grassland,fertCost_N,Grassland,0.041825344754609105
+Malta,Grassland,fertCost_P,Grassland,0.019408521913384734
+Malta,Grassland,fuelCost,Grassland,0.03960485869314981
+Malta,Grassland,labourCost,Grassland,0.07844972409906024
+Malta,Grassland,machCost,Grassland,0.1280426925870648
+Malta,Grassland,seedCost,Grassland,0.008359876183050901
+Netherlands,Barl,Fuel,Cropland,0.03773269611336238
+Netherlands,Barl,K,Cropland,0.006765443934337838
+Netherlands,Barl,Labor,Cropland,0.01514158195089641
+Netherlands,Barl,Machinery,Cropland,0.22220555757259283
+Netherlands,Barl,N,Cropland,0.01969047115217729
+Netherlands,Barl,P,Cropland,0.0061797786385294875
+Netherlands,Barl,Plant Protection,Cropland,0.02089390708025499
+Netherlands,BeaD,Fuel,Cropland,0.0790294073318866
+Netherlands,BeaD,K,Cropland,0
+Netherlands,BeaD,Labor,Cropland,0.006885774613234162
+Netherlands,BeaD,Machinery,Cropland,0.29216956571394664
+Netherlands,BeaD,N,Cropland,0
+Netherlands,BeaD,P,Cropland,0
+Netherlands,BeaD,Plant Protection,Cropland,0.019748452651207407
+Netherlands,Cass,Fuel,Cropland,0.11471733338491484
+Netherlands,Cass,K,Cropland,0.03710927353774094
+Netherlands,Cass,Labor,Cropland,0.03416283456812086
+Netherlands,Cass,Machinery,Cropland,1.1845949505541407
+Netherlands,Cass,N,Cropland,0.10800460208745498
+Netherlands,Cass,P,Cropland,0.03389682896283202
+Netherlands,Cass,Plant Protection,Cropland,0.14579793719314835
+Netherlands,ChkP,Fuel,Cropland,0.0790294073318866
+Netherlands,ChkP,K,Cropland,0
+Netherlands,ChkP,Labor,Cropland,0.006885774613234162
+Netherlands,ChkP,Machinery,Cropland,0.29216956571394664
+Netherlands,ChkP,N,Cropland,0
+Netherlands,ChkP,P,Cropland,0
+Netherlands,ChkP,Plant Protection,Cropland,0.019748452651207407
+Netherlands,Corn,Fuel,Cropland,0.10694911815570148
+Netherlands,Corn,K,Cropland,0.005485718696883443
+Netherlands,Corn,Labor,Cropland,0.02499329798815338
+Netherlands,Corn,Machinery,Cropland,0.4421384831377825
+Netherlands,Corn,N,Cropland,0.015965897699884646
+Netherlands,Corn,P,Cropland,0.00501083558580995
+Netherlands,Corn,Plant Protection,Cropland,0.020712546530050068
+Netherlands,Gnut,Fuel,Cropland,0.0790294073318866
+Netherlands,Gnut,K,Cropland,0
+Netherlands,Gnut,Labor,Cropland,0.006885774613234162
+Netherlands,Gnut,Machinery,Cropland,0.29216956571394664
+Netherlands,Gnut,N,Cropland,0
+Netherlands,Gnut,P,Cropland,0
+Netherlands,Gnut,Plant Protection,Cropland,0.019748452651207407
+Netherlands,Mill,Fuel,Cropland,0.03773269611336238
+Netherlands,Mill,K,Cropland,0.006765443934337838
+Netherlands,Mill,Labor,Cropland,0.01514158195089641
+Netherlands,Mill,Machinery,Cropland,0.22220555757259283
+Netherlands,Mill,N,Cropland,0.01969047115217729
+Netherlands,Mill,P,Cropland,0.0061797786385294875
+Netherlands,Mill,Plant Protection,Cropland,0.02089390708025499
+Netherlands,Pota,Fuel,Cropland,0.11471733338491484
+Netherlands,Pota,K,Cropland,0.03710927353774094
+Netherlands,Pota,Labor,Cropland,0.03416283456812086
+Netherlands,Pota,Machinery,Cropland,1.1845949505541407
+Netherlands,Pota,N,Cropland,0.10800460208745498
+Netherlands,Pota,P,Cropland,0.03389682896283202
+Netherlands,Pota,Plant Protection,Cropland,0.14579793719314835
+Netherlands,Rape,Fuel,Cropland,0.059193226746589
+Netherlands,Rape,K,Cropland,0
+Netherlands,Rape,Labor,Cropland,0.004632249186819234
+Netherlands,Rape,Machinery,Cropland,0.22146178713494424
+Netherlands,Rape,N,Cropland,0
+Netherlands,Rape,P,Cropland,0
+Netherlands,Rape,Plant Protection,Cropland,0.024812075394584847
+Netherlands,Rice,Fuel,Cropland,0.03435500351369826
+Netherlands,Rice,K,Cropland,0
+Netherlands,Rice,Labor,Cropland,0.06066161315982998
+Netherlands,Rice,Machinery,Cropland,0.21206548695106506
+Netherlands,Rice,N,Cropland,0
+Netherlands,Rice,P,Cropland,0
+Netherlands,Rice,Plant Protection,Cropland,0.02048250903115011
+Netherlands,Soya,Fuel,Cropland,0.0790294073318866
+Netherlands,Soya,K,Cropland,0
+Netherlands,Soya,Labor,Cropland,0.006885774613234162
+Netherlands,Soya,Machinery,Cropland,0.29216956571394664
+Netherlands,Soya,N,Cropland,0
+Netherlands,Soya,P,Cropland,0
+Netherlands,Soya,Plant Protection,Cropland,0.019748452651207407
+Netherlands,Srgh,Fuel,Cropland,0.10694911815570148
+Netherlands,Srgh,K,Cropland,0.005485718696883443
+Netherlands,Srgh,Labor,Cropland,0.02499329798815338
+Netherlands,Srgh,Machinery,Cropland,0.4421384831377825
+Netherlands,Srgh,N,Cropland,0.015965897699884646
+Netherlands,Srgh,P,Cropland,0.00501083558580995
+Netherlands,Srgh,Plant Protection,Cropland,0.020712546530050068
+Netherlands,Sunf,Fuel,Cropland,0.059193226746589
+Netherlands,Sunf,K,Cropland,0
+Netherlands,Sunf,Labor,Cropland,0.004632249186819234
+Netherlands,Sunf,Machinery,Cropland,0.22146178713494424
+Netherlands,Sunf,N,Cropland,0
+Netherlands,Sunf,P,Cropland,0
+Netherlands,Sunf,Plant Protection,Cropland,0.024812075394584847
+Netherlands,SwPo,Fuel,Cropland,0.11471733338491484
+Netherlands,SwPo,K,Cropland,0.03710927353774094
+Netherlands,SwPo,Labor,Cropland,0.03416283456812086
+Netherlands,SwPo,Machinery,Cropland,1.1845949505541407
+Netherlands,SwPo,N,Cropland,0.10800460208745498
+Netherlands,SwPo,P,Cropland,0.03389682896283202
+Netherlands,SwPo,Plant Protection,Cropland,0.14579793719314835
+Netherlands,Whea,Fuel,Cropland,0.03435500351369826
+Netherlands,Whea,K,Cropland,0.01785547654279709
+Netherlands,Whea,Labor,Cropland,0.013681346605135949
+Netherlands,Whea,Machinery,Cropland,0.21206548695106506
+Netherlands,Whea,N,Cropland,0.051967431729036305
+Netherlands,Whea,P,Cropland,0.016309778573420624
+Netherlands,Whea,Plant Protection,Cropland,0.01971962302364192
+Netherlands,Extensive Grassland,fertCost_N,Grassland,0.028077160398653652
+Netherlands,Extensive Grassland,fertCost_P,Grassland,0.024638039487223488
+Netherlands,Extensive Grassland,fuelCost,Grassland,0.03644681365723605
+Netherlands,Extensive Grassland,labourCost,Grassland,0.10349823577802873
+Netherlands,Extensive Grassland,machCost,Grassland,0.13728536217924872
+Netherlands,Extensive Grassland,seedCost,Grassland,0.013113462704234184
+Netherlands,Grassland,fertCost_N,Grassland,0.04026058682255585
+Netherlands,Grassland,fertCost_P,Grassland,0.023260685887618288
+Netherlands,Grassland,fuelCost,Grassland,0.036792882649889835
+Netherlands,Grassland,labourCost,Grassland,0.17232585814603776
+Netherlands,Grassland,machCost,Grassland,0.13957386717201026
+Netherlands,Grassland,seedCost,Grassland,0.00941205623657763
+Poland,Barl,Fuel,Cropland,0.030010826170082276
+Poland,Barl,K,Cropland,0.005762963794336805
+Poland,Barl,Labor,Cropland,0.0052727154325120165
+Poland,Barl,Machinery,Cropland,0.11871326360299994
+Poland,Barl,N,Cropland,0.016772805073069805
+Poland,Barl,P,Cropland,0.005264080361394216
+Poland,Barl,Plant Protection,Cropland,0.010388505191129166
+Poland,BeaD,Fuel,Cropland,0.06285630368517357
+Poland,BeaD,K,Cropland,0.0034425441760488704
+Poland,BeaD,Labor,Cropland,0.0023978161717672967
+Poland,BeaD,Machinery,Cropland,0.1560915174791142
+Poland,BeaD,N,Cropland,0.010019344989992981
+Poland,BeaD,P,Cropland,0.0031445328891670276
+Poland,BeaD,Plant Protection,Cropland,0.007925276627207363
+Poland,Cass,Fuel,Cropland,0.09124081514256974
+Poland,Cass,K,Cropland,0.007528381257357003
+Poland,Cass,Labor,Cropland,0.011896438934177663
+Poland,Cass,Machinery,Cropland,0.6328695562809941
+Poland,Cass,N,Cropland,0.02191096037588978
+Poland,Cass,P,Cropland,0.006876670641048486
+Poland,Cass,Plant Protection,Cropland,0.1538039023987592
+Poland,ChkP,Fuel,Cropland,0.06285630368517357
+Poland,ChkP,K,Cropland,0.0034425441760488704
+Poland,ChkP,Labor,Cropland,0.0023978161717672967
+Poland,ChkP,Machinery,Cropland,0.1560915174791142
+Poland,ChkP,N,Cropland,0.010019344989992981
+Poland,ChkP,P,Cropland,0.0031445328891670276
+Poland,ChkP,Plant Protection,Cropland,0.007925276627207363
+Poland,Corn,Fuel,Cropland,0.08506233915465458
+Poland,Corn,K,Cropland,0.017736355843603786
+Poland,Corn,Labor,Cropland,0.008703354011415304
+Poland,Corn,Machinery,Cropland,0.23621237410585672
+Poland,Corn,N,Cropland,0.05162073715675729
+Poland,Corn,P,Cropland,0.016200969815351518
+Poland,Corn,Plant Protection,Cropland,0.010265488848144757
+Poland,Gnut,Fuel,Cropland,0.06285630368517357
+Poland,Gnut,K,Cropland,0.0034425441760488704
+Poland,Gnut,Labor,Cropland,0.0023978161717672967
+Poland,Gnut,Machinery,Cropland,0.1560915174791142
+Poland,Gnut,N,Cropland,0.010019344989992981
+Poland,Gnut,P,Cropland,0.0031445328891670276
+Poland,Gnut,Plant Protection,Cropland,0.007925276627207363
+Poland,Mill,Fuel,Cropland,0.030010826170082276
+Poland,Mill,K,Cropland,0.005762963794336805
+Poland,Mill,Labor,Cropland,0.0052727154325120165
+Poland,Mill,Machinery,Cropland,0.11871326360299994
+Poland,Mill,N,Cropland,0.016772805073069805
+Poland,Mill,P,Cropland,0.005264080361394216
+Poland,Mill,Plant Protection,Cropland,0.010388505191129166
+Poland,Pota,Fuel,Cropland,0.09124081514256974
+Poland,Pota,K,Cropland,0.007528381257357003
+Poland,Pota,Labor,Cropland,0.011896438934177663
+Poland,Pota,Machinery,Cropland,0.6328695562809941
+Poland,Pota,N,Cropland,0.02191096037588978
+Poland,Pota,P,Cropland,0.006876670641048486
+Poland,Pota,Plant Protection,Cropland,0.1538039023987592
+Poland,Rape,Fuel,Cropland,0.047079531051825704
+Poland,Rape,K,Cropland,0.0024444829392201383
+Poland,Rape,Labor,Cropland,0.0016130766160227425
+Poland,Rape,Machinery,Cropland,0.11831590440296028
+Poland,Rape,N,Cropland,0.0071145398977302534
+Poland,Rape,P,Cropland,0.002232870983287649
+Poland,Rape,Plant Protection,Cropland,0.02088578756058577
+Poland,Rice,Fuel,Cropland,0.02732436705356567
+Poland,Rice,K,Cropland,0.002138042987332433
+Poland,Rice,Labor,Cropland,0.021124042712721555
+Poland,Rice,Machinery,Cropland,0.11329593340999565
+Poland,Rice,N,Cropland,0.006222662425818274
+Poland,Rice,P,Cropland,0.001952958669026043
+Poland,Rice,Plant Protection,Cropland,0.008859906990422177
+Poland,Soya,Fuel,Cropland,0.06285630368517357
+Poland,Soya,K,Cropland,0.0034425441760488704
+Poland,Soya,Labor,Cropland,0.0023978161717672967
+Poland,Soya,Machinery,Cropland,0.1560915174791142
+Poland,Soya,N,Cropland,0.010019344989992981
+Poland,Soya,P,Cropland,0.0031445328891670276
+Poland,Soya,Plant Protection,Cropland,0.007925276627207363
+Poland,Srgh,Fuel,Cropland,0.08506233915465458
+Poland,Srgh,K,Cropland,0.017736355843603786
+Poland,Srgh,Labor,Cropland,0.008703354011415304
+Poland,Srgh,Machinery,Cropland,0.23621237410585672
+Poland,Srgh,N,Cropland,0.05162073715675729
+Poland,Srgh,P,Cropland,0.016200969815351518
+Poland,Srgh,Plant Protection,Cropland,0.010265488848144757
+Poland,Sunf,Fuel,Cropland,0.047079531051825704
+Poland,Sunf,K,Cropland,0.0024444829392201383
+Poland,Sunf,Labor,Cropland,0.0016130766160227425
+Poland,Sunf,Machinery,Cropland,0.11831590440296028
+Poland,Sunf,N,Cropland,0.0071145398977302534
+Poland,Sunf,P,Cropland,0.002232870983287649
+Poland,Sunf,Plant Protection,Cropland,0.02088578756058577
+Poland,SwPo,Fuel,Cropland,0.09124081514256974
+Poland,SwPo,K,Cropland,0.007528381257357003
+Poland,SwPo,Labor,Cropland,0.011896438934177663
+Poland,SwPo,Machinery,Cropland,0.6328695562809941
+Poland,SwPo,N,Cropland,0.02191096037588978
+Poland,SwPo,P,Cropland,0.006876670641048486
+Poland,SwPo,Plant Protection,Cropland,0.1538039023987592
+Poland,Whea,Fuel,Cropland,0.02732436705356567
+Poland,Whea,K,Cropland,0.010271774427410826
+Poland,Whea,Labor,Cropland,0.004764221309001039
+Poland,Whea,Machinery,Cropland,0.11329593340999565
+Poland,Whea,N,Cropland,0.029895462885747924
+Poland,Whea,P,Cropland,0.009382576044142426
+Poland,Whea,Plant Protection,Cropland,0.022954794505240746
+Poland,Extensive Grassland,fertCost_N,Grassland,0.02539284892988828
+Poland,Extensive Grassland,fertCost_P,Grassland,0.009115493640124648
+Poland,Extensive Grassland,fuelCost,Grassland,0.04363177215485719
+Poland,Extensive Grassland,labourCost,Grassland,0.024969143598894104
+Poland,Extensive Grassland,machCost,Grassland,0.08061562350481588
+Poland,Extensive Grassland,seedCost,Grassland,0.006973923434839568
+Poland,Grassland,fertCost_N,Grassland,0.053090130336171375
+Poland,Grassland,fertCost_P,Grassland,0.013381167120014109
+Poland,Grassland,fuelCost,Grassland,0.057928314542873005
+Poland,Grassland,labourCost,Grassland,0.04511578893874042
+Poland,Grassland,machCost,Grassland,0.09268951780807651
+Poland,Grassland,seedCost,Grassland,0.006275776005617489
+Portugal,Barl,Fuel,Cropland,0.03873379306027505
+Portugal,Barl,K,Cropland,0.014145008005193388
+Portugal,Barl,Labor,Cropland,0.011328279171582162
+Portugal,Barl,Machinery,Cropland,0.20036794051969645
+Portugal,Barl,N,Cropland,0.04116830688078672
+Portugal,Barl,P,Cropland,0.012920514774893064
+Portugal,Barl,Plant Protection,Cropland,0.003571039535102226
+Portugal,BeaD,Fuel,Cropland,0.07783182591767654
+Portugal,BeaD,K,Cropland,0.003097469138929539
+Portugal,BeaD,Labor,Cropland,0.007481328476629641
+Portugal,BeaD,Machinery,Cropland,0.17534931569659704
+Portugal,BeaD,N,Cropland,0.009015022120765076
+Portugal,BeaD,P,Cropland,0.002829330019440116
+Portugal,BeaD,Plant Protection,Cropland,0.005313891577556259
+Portugal,Cass,Fuel,Cropland,0.14287972334596416
+Portugal,Cass,K,Cropland,0.034513248472009324
+Portugal,Cass,Labor,Cropland,0.035145550108758444
+Portugal,Cass,Machinery,Cropland,1.508833729616404
+Portugal,Cass,N,Cropland,0.1004490067468928
+Portugal,Cass,P,Cropland,0.031525534425178664
+Portugal,Cass,Plant Protection,Cropland,0.17663346007541142
+Portugal,ChkP,Fuel,Cropland,0.07783182591767654
+Portugal,ChkP,K,Cropland,0.003097469138929539
+Portugal,ChkP,Labor,Cropland,0.007481328476629641
+Portugal,ChkP,Machinery,Cropland,0.17534931569659704
+Portugal,ChkP,N,Cropland,0.009015022120765076
+Portugal,ChkP,P,Cropland,0.002829330019440116
+Portugal,ChkP,Plant Protection,Cropland,0.005313891577556259
+Portugal,Corn,Fuel,Cropland,0.05495578987863796
+Portugal,Corn,K,Cropland,0.044950722808302465
+Portugal,Corn,Labor,Cropland,0.023289659596210963
+Portugal,Corn,Machinery,Cropland,0.2677312384422873
+Portugal,Corn,N,Cropland,0.1308267305614773
+Portugal,Corn,P,Cropland,0.04105946620698672
+Portugal,Corn,Plant Protection,Cropland,0.0034496304914768718
+Portugal,Gnut,Fuel,Cropland,0.07783182591767654
+Portugal,Gnut,K,Cropland,0.003097469138929539
+Portugal,Gnut,Labor,Cropland,0.007481328476629641
+Portugal,Gnut,Machinery,Cropland,0.17534931569659704
+Portugal,Gnut,N,Cropland,0.009015022120765076
+Portugal,Gnut,P,Cropland,0.002829330019440116
+Portugal,Gnut,Plant Protection,Cropland,0.005313891577556259
+Portugal,Mill,Fuel,Cropland,0.03873379306027505
+Portugal,Mill,K,Cropland,0.014145008005193388
+Portugal,Mill,Labor,Cropland,0.011328279171582162
+Portugal,Mill,Machinery,Cropland,0.20036794051969645
+Portugal,Mill,N,Cropland,0.04116830688078672
+Portugal,Mill,P,Cropland,0.012920514774893064
+Portugal,Mill,Plant Protection,Cropland,0.003571039535102226
+Portugal,Pota,Fuel,Cropland,0.14287972334596416
+Portugal,Pota,K,Cropland,0.034513248472009324
+Portugal,Pota,Labor,Cropland,0.035145550108758444
+Portugal,Pota,Machinery,Cropland,1.508833729616404
+Portugal,Pota,N,Cropland,0.1004490067468928
+Portugal,Pota,P,Cropland,0.031525534425178664
+Portugal,Pota,Plant Protection,Cropland,0.17663346007541142
+Portugal,Rape,Fuel,Cropland,0.06104125965989676
+Portugal,Rape,K,Cropland,0.005791955465381619
+Portugal,Rape,Labor,Cropland,0.001960976418025789
+Portugal,Rape,Machinery,Cropland,0.2289073981311725
+Portugal,Rape,N,Cropland,0.01685718381715546
+Portugal,Rape,P,Cropland,0.005290562305691866
+Portugal,Rape,Plant Protection,Cropland,0.00740012142601647
+Portugal,Rice,Fuel,Cropland,0.03898254219001994
+Portugal,Rice,K,Cropland,0.004858307799371856
+Portugal,Rice,Labor,Cropland,0.03574900956832769
+Portugal,Rice,Machinery,Cropland,0.1849265731124427
+Portugal,Rice,N,Cropland,0.014139851057873312
+Portugal,Rice,P,Cropland,0.004437737870471008
+Portugal,Rice,Plant Protection,Cropland,0.003828466354449502
+Portugal,Soya,Fuel,Cropland,0.07783182591767654
+Portugal,Soya,K,Cropland,0.003097469138929539
+Portugal,Soya,Labor,Cropland,0.007481328476629641
+Portugal,Soya,Machinery,Cropland,0.17534931569659704
+Portugal,Soya,N,Cropland,0.009015022120765076
+Portugal,Soya,P,Cropland,0.002829330019440116
+Portugal,Soya,Plant Protection,Cropland,0.005313891577556259
+Portugal,Srgh,Fuel,Cropland,0.05495578987863796
+Portugal,Srgh,K,Cropland,0.044950722808302465
+Portugal,Srgh,Labor,Cropland,0.023289659596210963
+Portugal,Srgh,Machinery,Cropland,0.2677312384422873
+Portugal,Srgh,N,Cropland,0.1308267305614773
+Portugal,Srgh,P,Cropland,0.04105946620698672
+Portugal,Srgh,Plant Protection,Cropland,0.0034496304914768718
+Portugal,Sunf,Fuel,Cropland,0.06104125965989676
+Portugal,Sunf,K,Cropland,0.005791955465381619
+Portugal,Sunf,Labor,Cropland,0.001960976418025789
+Portugal,Sunf,Machinery,Cropland,0.2289073981311725
+Portugal,Sunf,N,Cropland,0.01685718381715546
+Portugal,Sunf,P,Cropland,0.005290562305691866
+Portugal,Sunf,Plant Protection,Cropland,0.00740012142601647
+Portugal,SwPo,Fuel,Cropland,0.14287972334596416
+Portugal,SwPo,K,Cropland,0.034513248472009324
+Portugal,SwPo,Labor,Cropland,0.035145550108758444
+Portugal,SwPo,Machinery,Cropland,1.508833729616404
+Portugal,SwPo,N,Cropland,0.1004490067468928
+Portugal,SwPo,P,Cropland,0.031525534425178664
+Portugal,SwPo,Plant Protection,Cropland,0.17663346007541142
+Portugal,Whea,Fuel,Cropland,0.03898254219001994
+Portugal,Whea,K,Cropland,0.0146124640708104
+Portugal,Whea,Labor,Cropland,0.01187176466813188
+Portugal,Whea,Machinery,Cropland,0.1849265731124427
+Portugal,Whea,N,Cropland,0.042528813340418324
+Portugal,Whea,P,Cropland,0.013347504494531289
+Portugal,Whea,Plant Protection,Cropland,0.01183634954616965
+Portugal,Extensive Grassland,fertCost_N,Grassland,0.03191916666722473
+Portugal,Extensive Grassland,fertCost_P,Grassland,0.021850319656031368
+Portugal,Extensive Grassland,fuelCost,Grassland,0.026708318955038623
+Portugal,Extensive Grassland,labourCost,Grassland,0.019247171767030002
+Portugal,Extensive Grassland,machCost,Grassland,0.11689910310240202
+Portugal,Extensive Grassland,seedCost,Grassland,0.010220542486367317
+Portugal,Grassland,fertCost_N,Grassland,0.014923427349324935
+Portugal,Grassland,fertCost_P,Grassland,0.007356481696065827
+Portugal,Grassland,fuelCost,Grassland,0.0159212285056154
+Portugal,Grassland,labourCost,Grassland,0.036918677359015585
+Portugal,Grassland,machCost,Grassland,0.10582629750313632
+Portugal,Grassland,seedCost,Grassland,0.00500639091053235
+Romania,Barl,Fuel,Cropland,0.03384145739557284
+Romania,Barl,K,Cropland,0.010597577949194515
+Romania,Barl,Labor,Cropland,0.0041555371050245715
+Romania,Barl,Machinery,Cropland,0.1023078041734751
+Romania,Barl,N,Cropland,0.030843697016312392
+Romania,Barl,P,Cropland,0.009680175678965735
+Romania,Barl,Plant Protection,Cropland,0.0018798048253608523
+Romania,BeaD,Fuel,Cropland,0.07087938569733676
+Romania,BeaD,K,Cropland,0.0022500099337965417
+Romania,BeaD,Labor,Cropland,0.0018897689815321288
+Romania,BeaD,Machinery,Cropland,0.13452060805448224
+Romania,BeaD,N,Cropland,0.006548536374482473
+Romania,BeaD,P,Cropland,0.0020552329544529604
+Romania,BeaD,Plant Protection,Cropland,0.0022938424222799453
+Romania,Cass,Fuel,Cropland,0.10288694289471954
+Romania,Cass,K,Cropland,0.04524570954944926
+Romania,Cass,Labor,Cropland,0.009375831872853794
+Romania,Cass,Machinery,Cropland,0.5454107879249406
+Romania,Cass,N,Cropland,0.13168527406182992
+Romania,Cass,P,Cropland,0.041328916782482
+Romania,Cass,Plant Protection,Cropland,0.0489356485835109
+Romania,ChkP,Fuel,Cropland,0.07087938569733676
+Romania,ChkP,K,Cropland,0.0022500099337965417
+Romania,ChkP,Labor,Cropland,0.0018897689815321288
+Romania,ChkP,Machinery,Cropland,0.13452060805448224
+Romania,ChkP,N,Cropland,0.006548536374482473
+Romania,ChkP,P,Cropland,0.0020552329544529604
+Romania,ChkP,Plant Protection,Cropland,0.0022938424222799453
+Romania,Corn,Fuel,Cropland,0.09591983606701615
+Romania,Corn,K,Cropland,0.013393630438767318
+Romania,Corn,Labor,Cropland,0.00685929498671429
+Romania,Corn,Machinery,Cropland,0.20356924391889292
+Romania,Corn,N,Cropland,0.03898146172477055
+Romania,Corn,P,Cropland,0.012234181833620295
+Romania,Corn,Plant Protection,Cropland,0.0018432621166073668
+Romania,Gnut,Fuel,Cropland,0.07087938569733676
+Romania,Gnut,K,Cropland,0.0022500099337965417
+Romania,Gnut,Labor,Cropland,0.0018897689815321288
+Romania,Gnut,Machinery,Cropland,0.13452060805448224
+Romania,Gnut,N,Cropland,0.006548536374482473
+Romania,Gnut,P,Cropland,0.0020552329544529604
+Romania,Gnut,Plant Protection,Cropland,0.0022938424222799453
+Romania,Mill,Fuel,Cropland,0.03384145739557284
+Romania,Mill,K,Cropland,0.010597577949194515
+Romania,Mill,Labor,Cropland,0.0041555371050245715
+Romania,Mill,Machinery,Cropland,0.1023078041734751
+Romania,Mill,N,Cropland,0.030843697016312392
+Romania,Mill,P,Cropland,0.009680175678965735
+Romania,Mill,Plant Protection,Cropland,0.0018798048253608523
+Romania,Pota,Fuel,Cropland,0.10288694289471954
+Romania,Pota,K,Cropland,0.04524570954944926
+Romania,Pota,Labor,Cropland,0.009375831872853794
+Romania,Pota,Machinery,Cropland,0.5454107879249406
+Romania,Pota,N,Cropland,0.13168527406182992
+Romania,Pota,P,Cropland,0.041328916782482
+Romania,Pota,Plant Protection,Cropland,0.0489356485835109
+Romania,Rape,Fuel,Cropland,0.05308883984947423
+Romania,Rape,K,Cropland,0.0054741979240537164
+Romania,Rape,Labor,Cropland,0.0012712993555080699
+Romania,Rape,Machinery,Cropland,0.10196535763652892
+Romania,Rape,N,Cropland,0.015932367092395143
+Romania,Rape,P,Cropland,0.005000312133613245
+Romania,Rape,Plant Protection,Cropland,0.003973046470471611
+Romania,Rice,Fuel,Cropland,0.03081209421772148
+Romania,Rice,K,Cropland,0.0021601095227096936
+Romania,Rice,Labor,Cropland,0.016648299045226026
+Romania,Rice,Machinery,Cropland,0.09763911646983275
+Romania,Rice,N,Cropland,0.006286885924304332
+Romania,Rice,P,Cropland,0.001973114967012436
+Romania,Rice,Plant Protection,Cropland,0.002179579236254681
+Romania,Soya,Fuel,Cropland,0.07087938569733676
+Romania,Soya,K,Cropland,0.0022500099337965417
+Romania,Soya,Labor,Cropland,0.0018897689815321288
+Romania,Soya,Machinery,Cropland,0.13452060805448224
+Romania,Soya,N,Cropland,0.006548536374482473
+Romania,Soya,P,Cropland,0.0020552329544529604
+Romania,Soya,Plant Protection,Cropland,0.0022938424222799453
+Romania,Srgh,Fuel,Cropland,0.09591983606701615
+Romania,Srgh,K,Cropland,0.013393630438767318
+Romania,Srgh,Labor,Cropland,0.00685929498671429
+Romania,Srgh,Machinery,Cropland,0.20356924391889292
+Romania,Srgh,N,Cropland,0.03898146172477055
+Romania,Srgh,P,Cropland,0.012234181833620295
+Romania,Srgh,Plant Protection,Cropland,0.0018432621166073668
+Romania,Sunf,Fuel,Cropland,0.05308883984947423
+Romania,Sunf,K,Cropland,0.0054741979240537164
+Romania,Sunf,Labor,Cropland,0.0012712993555080699
+Romania,Sunf,Machinery,Cropland,0.10196535763652892
+Romania,Sunf,N,Cropland,0.015932367092395143
+Romania,Sunf,P,Cropland,0.005000312133613245
+Romania,Sunf,Plant Protection,Cropland,0.003973046470471611
+Romania,SwPo,Fuel,Cropland,0.10288694289471954
+Romania,SwPo,K,Cropland,0.04524570954944926
+Romania,SwPo,Labor,Cropland,0.009375831872853794
+Romania,SwPo,Machinery,Cropland,0.5454107879249406
+Romania,SwPo,N,Cropland,0.13168527406182992
+Romania,SwPo,P,Cropland,0.041328916782482
+Romania,SwPo,Plant Protection,Cropland,0.0489356485835109
+Romania,Whea,Fuel,Cropland,0.03081209421772148
+Romania,Whea,K,Cropland,0.013843836503935968
+Romania,Whea,Labor,Cropland,0.0037547822710148563
+Romania,Whea,Machinery,Cropland,0.09763911646983275
+Romania,Whea,N,Cropland,0.040291762959216625
+Romania,Whea,P,Cropland,0.012645414836431062
+Romania,Whea,Plant Protection,Cropland,0.024005755567922723
+Romania,Extensive Grassland,fertCost_N,Grassland,0.011139918452571377
+Romania,Extensive Grassland,fertCost_P,Grassland,0.006135920339803061
+Romania,Extensive Grassland,fuelCost,Grassland,0.022392789808050203
+Romania,Extensive Grassland,labourCost,Grassland,0.007881785012955512
+Romania,Extensive Grassland,machCost,Grassland,0.06686686911378674
+Romania,Extensive Grassland,seedCost,Grassland,0.00394052022021501
+Romania,Grassland,fertCost_N,Grassland,0.09338646576149251
+Romania,Grassland,fertCost_P,Grassland,0.03366873890622734
+Romania,Grassland,fuelCost,Grassland,0.06354653852746646
+Romania,Grassland,labourCost,Grassland,0.021959127895578148
+Romania,Grassland,machCost,Grassland,0.10965607150355594
+Romania,Grassland,seedCost,Grassland,0.007254851246495472
+Sweden,Barl,Fuel,Cropland,0.04052110581510626
+Sweden,Barl,K,Cropland,0.017593792654321438
+Sweden,Barl,Labor,Cropland,0.008944225694598913
+Sweden,Barl,Machinery,Cropland,0.26612261678162996
+Sweden,Barl,N,Cropland,0.0512058144416818
+Sweden,Barl,P,Cropland,0.01607074791708167
+Sweden,Barl,Plant Protection,Cropland,0.0034313814656414007
+Sweden,BeaD,Fuel,Cropland,0.08295793717741184
+Sweden,BeaD,K,Cropland,0
+Sweden,BeaD,Labor,Cropland,0.0040674694640648
+Sweden,BeaD,Machinery,Cropland,0.3101225852494767
+Sweden,BeaD,N,Cropland,0
+Sweden,BeaD,P,Cropland,0
+Sweden,BeaD,Plant Protection,Cropland,0.005742419639149216
+Sweden,Cass,Fuel,Cropland,0.15493304988266002
+Sweden,Cass,K,Cropland,0.05455146287323174
+Sweden,Cass,Labor,Cropland,0.020180196741360224
+Sweden,Cass,Machinery,Cropland,1.5354287271131115
+Sweden,Cass,N,Cropland,0.15876918298925655
+Sweden,Cass,P,Cropland,0.04982909743047436
+Sweden,Cass,Plant Protection,Cropland,0.02345819867422134
+Sweden,ChkP,Fuel,Cropland,0.08295793717741184
+Sweden,ChkP,K,Cropland,0
+Sweden,ChkP,Labor,Cropland,0.0040674694640648
+Sweden,ChkP,Machinery,Cropland,0.3101225852494767
+Sweden,ChkP,N,Cropland,0
+Sweden,ChkP,P,Cropland,0
+Sweden,ChkP,Plant Protection,Cropland,0.005742419639149216
+Sweden,Corn,Fuel,Cropland,0.13098146555432494
+Sweden,Corn,K,Cropland,0.029508832255987924
+Sweden,Corn,Labor,Cropland,0.01476369502099313
+Sweden,Corn,Machinery,Cropland,0.507973321029321
+Sweden,Corn,N,Cropland,0.08588391477489023
+Sweden,Corn,P,Cropland,0.02695433632935016
+Sweden,Corn,Plant Protection,Cropland,0.0021723648113718265
+Sweden,Gnut,Fuel,Cropland,0.08295793717741184
+Sweden,Gnut,K,Cropland,0
+Sweden,Gnut,Labor,Cropland,0.0040674694640648
+Sweden,Gnut,Machinery,Cropland,0.3101225852494767
+Sweden,Gnut,N,Cropland,0
+Sweden,Gnut,P,Cropland,0
+Sweden,Gnut,Plant Protection,Cropland,0.005742419639149216
+Sweden,Mill,Fuel,Cropland,0.04052110581510626
+Sweden,Mill,K,Cropland,0.017593792654321438
+Sweden,Mill,Labor,Cropland,0.008944225694598913
+Sweden,Mill,Machinery,Cropland,0.26612261678162996
+Sweden,Mill,N,Cropland,0.0512058144416818
+Sweden,Mill,P,Cropland,0.01607074791708167
+Sweden,Mill,Plant Protection,Cropland,0.0034313814656414007
+Sweden,Pota,Fuel,Cropland,0.15493304988266002
+Sweden,Pota,K,Cropland,0.05455146287323174
+Sweden,Pota,Labor,Cropland,0.020180196741360224
+Sweden,Pota,Machinery,Cropland,1.5354287271131115
+Sweden,Pota,N,Cropland,0.15876918298925655
+Sweden,Pota,P,Cropland,0.04982909743047436
+Sweden,Pota,Plant Protection,Cropland,0.02345819867422134
+Sweden,Rape,Fuel,Cropland,0.06520487844158561
+Sweden,Rape,K,Cropland,0
+Sweden,Rape,Labor,Cropland,0.0027362981183138976
+Sweden,Rape,Machinery,Cropland,0.3127453904097899
+Sweden,Rape,N,Cropland,0
+Sweden,Rape,P,Cropland,0
+Sweden,Rape,Plant Protection,Cropland,0.0052786955734702035
+Sweden,Rice,Fuel,Cropland,0.04074678029056168
+Sweden,Rice,K,Cropland,0
+Sweden,Rice,Labor,Cropland,0.0358331884250608
+Sweden,Rice,Machinery,Cropland,0.2502498210226628
+Sweden,Rice,N,Cropland,0
+Sweden,Rice,P,Cropland,0
+Sweden,Rice,Plant Protection,Cropland,0.012355907283571797
+Sweden,Soya,Fuel,Cropland,0.08295793717741184
+Sweden,Soya,K,Cropland,0
+Sweden,Soya,Labor,Cropland,0.0040674694640648
+Sweden,Soya,Machinery,Cropland,0.3101225852494767
+Sweden,Soya,N,Cropland,0
+Sweden,Soya,P,Cropland,0
+Sweden,Soya,Plant Protection,Cropland,0.005742419639149216
+Sweden,Srgh,Fuel,Cropland,0.13098146555432494
+Sweden,Srgh,K,Cropland,0.029508832255987924
+Sweden,Srgh,Labor,Cropland,0.01476369502099313
+Sweden,Srgh,Machinery,Cropland,0.507973321029321
+Sweden,Srgh,N,Cropland,0.08588391477489023
+Sweden,Srgh,P,Cropland,0.02695433632935016
+Sweden,Srgh,Plant Protection,Cropland,0.0021723648113718265
+Sweden,Sunf,Fuel,Cropland,0.06520487844158561
+Sweden,Sunf,K,Cropland,0
+Sweden,Sunf,Labor,Cropland,0.0027362981183138976
+Sweden,Sunf,Machinery,Cropland,0.3127453904097899
+Sweden,Sunf,N,Cropland,0
+Sweden,Sunf,P,Cropland,0
+Sweden,Sunf,Plant Protection,Cropland,0.0052786955734702035
+Sweden,SwPo,Fuel,Cropland,0.15493304988266002
+Sweden,SwPo,K,Cropland,0.05455146287323174
+Sweden,SwPo,Labor,Cropland,0.020180196741360224
+Sweden,SwPo,Machinery,Cropland,1.5354287271131115
+Sweden,SwPo,N,Cropland,0.15876918298925655
+Sweden,SwPo,P,Cropland,0.04982909743047436
+Sweden,SwPo,Plant Protection,Cropland,0.02345819867422134
+Sweden,Whea,Fuel,Cropland,0.04074678029056168
+Sweden,Whea,K,Cropland,0.025042630617243804
+Sweden,Whea,Labor,Cropland,0.008081655684274528
+Sweden,Whea,Machinery,Cropland,0.2502498210226628
+Sweden,Whea,N,Cropland,0.07288526821436629
+Sweden,Whea,P,Cropland,0.02287476110112419
+Sweden,Whea,Plant Protection,Cropland,0.012355907283571797
+Sweden,Extensive Grassland,fertCost_N,Grassland,0.028975308672049824
+Sweden,Extensive Grassland,fertCost_P,Grassland,0.06886293910444552
+Sweden,Extensive Grassland,fuelCost,Grassland,0.04300229798201877
+Sweden,Extensive Grassland,labourCost,Grassland,0.06714565898715465
+Sweden,Extensive Grassland,machCost,Grassland,0.14966941989407057
+Sweden,Extensive Grassland,seedCost,Grassland,0.01579406944179868
+Sweden,Grassland,fertCost_N,Grassland,0
+Sweden,Grassland,fertCost_P,Grassland,0
+Sweden,Grassland,fuelCost,Grassland,0.01585336162664211
+Sweden,Grassland,labourCost,Grassland,0.12883112693945148
+Sweden,Grassland,machCost,Grassland,0.12566296364145838
+Sweden,Grassland,seedCost,Grassland,0.005562052622313196
+Slovenia,Barl,Fuel,Cropland,0.0367922415164798
+Slovenia,Barl,K,Cropland,0.008690708045646837
+Slovenia,Barl,Labor,Cropland,0.014382723193764095
+Slovenia,Barl,Machinery,Cropland,0.19807208959505193
+Slovenia,Barl,N,Cropland,0.02529385177464378
+Slovenia,Barl,P,Cropland,0.007938378095426663
+Slovenia,Barl,Plant Protection,Cropland,0.004344002753438143
+Slovenia,BeaD,Fuel,Cropland,0.07393046512061456
+Slovenia,BeaD,K,Cropland,0.0051495569069539456
+Slovenia,BeaD,Labor,Cropland,0.009498519145866064
+Slovenia,BeaD,Machinery,Cropland,0.1733401326262942
+Slovenia,BeaD,N,Cropland,0.014987516370985365
+Slovenia,BeaD,P,Cropland,0.004703774368740022
+Slovenia,BeaD,Plant Protection,Cropland,0.005323620003332538
+Slovenia,Cass,Fuel,Cropland,0.13571780282329005
+Slovenia,Cass,K,Cropland,0.016809189728279012
+Slovenia,Cass,Labor,Cropland,0.044621845123211164
+Slovenia,Cass,Machinery,Cropland,1.4915452494473749
+Slovenia,Cass,N,Cropland,0.04892226861215533
+Slovenia,Cass,P,Cropland,0.015354065841353364
+Slovenia,Cass,Plant Protection,Cropland,0.5148985370101531
+Slovenia,ChkP,Fuel,Cropland,0.07393046512061456
+Slovenia,ChkP,K,Cropland,0.0051495569069539456
+Slovenia,ChkP,Labor,Cropland,0.009498519145866064
+Slovenia,ChkP,Machinery,Cropland,0.1733401326262942
+Slovenia,ChkP,N,Cropland,0.014987516370985365
+Slovenia,ChkP,P,Cropland,0.004703774368740022
+Slovenia,ChkP,Plant Protection,Cropland,0.005323620003332538
+Slovenia,Corn,Fuel,Cropland,0.05220110229838165
+Slovenia,Corn,K,Cropland,0.014280978265082577
+Slovenia,Corn,Labor,Cropland,0.029569250737533737
+Slovenia,Corn,Machinery,Cropland,0.2646635271356783
+Slovenia,Corn,N,Cropland,0.04156404121927019
+Slovenia,Corn,P,Cropland,0.01304471447497095
+Slovenia,Corn,Plant Protection,Cropland,0.003956871593525631
+Slovenia,Gnut,Fuel,Cropland,0.07393046512061456
+Slovenia,Gnut,K,Cropland,0.0051495569069539456
+Slovenia,Gnut,Labor,Cropland,0.009498519145866064
+Slovenia,Gnut,Machinery,Cropland,0.1733401326262942
+Slovenia,Gnut,N,Cropland,0.014987516370985365
+Slovenia,Gnut,P,Cropland,0.004703774368740022
+Slovenia,Gnut,Plant Protection,Cropland,0.005323620003332538
+Slovenia,Mill,Fuel,Cropland,0.0367922415164798
+Slovenia,Mill,K,Cropland,0.008690708045646837
+Slovenia,Mill,Labor,Cropland,0.014382723193764095
+Slovenia,Mill,Machinery,Cropland,0.19807208959505193
+Slovenia,Mill,N,Cropland,0.02529385177464378
+Slovenia,Mill,P,Cropland,0.007938378095426663
+Slovenia,Mill,Plant Protection,Cropland,0.004344002753438143
+Slovenia,Pota,Fuel,Cropland,0.13571780282329005
+Slovenia,Pota,K,Cropland,0.016809189728279012
+Slovenia,Pota,Labor,Cropland,0.044621845123211164
+Slovenia,Pota,Machinery,Cropland,1.4915452494473749
+Slovenia,Pota,N,Cropland,0.04892226861215533
+Slovenia,Pota,P,Cropland,0.015354065841353364
+Slovenia,Pota,Plant Protection,Cropland,0.5148985370101531
+Slovenia,Rape,Fuel,Cropland,0.05798153473847079
+Slovenia,Rape,K,Cropland,0.004999087121879912
+Slovenia,Rape,Labor,Cropland,0.0024897145085121357
+Slovenia,Rape,Machinery,Cropland,0.22628453721453248
+Slovenia,Rape,N,Cropland,0.014549581921889295
+Slovenia,Rape,P,Cropland,0.004566330326254486
+Slovenia,Rape,Plant Protection,Cropland,0.00810625773424748
+Slovenia,Rice,Fuel,Cropland,0.037028521966585626
+Slovenia,Rice,K,Cropland,0
+Slovenia,Rice,Labor,Cropland,0.04538801536267841
+Slovenia,Rice,Machinery,Cropland,0.1828076521163239
+Slovenia,Rice,N,Cropland,0
+Slovenia,Rice,P,Cropland,0
+Slovenia,Rice,Plant Protection,Cropland,0.0073134324887560494
+Slovenia,Soya,Fuel,Cropland,0.07393046512061456
+Slovenia,Soya,K,Cropland,0.0051495569069539456
+Slovenia,Soya,Labor,Cropland,0.009498519145866064
+Slovenia,Soya,Machinery,Cropland,0.1733401326262942
+Slovenia,Soya,N,Cropland,0.014987516370985365
+Slovenia,Soya,P,Cropland,0.004703774368740022
+Slovenia,Soya,Plant Protection,Cropland,0.005323620003332538
+Slovenia,Srgh,Fuel,Cropland,0.05220110229838165
+Slovenia,Srgh,K,Cropland,0.014280978265082577
+Slovenia,Srgh,Labor,Cropland,0.029569250737533737
+Slovenia,Srgh,Machinery,Cropland,0.2646635271356783
+Slovenia,Srgh,N,Cropland,0.04156404121927019
+Slovenia,Srgh,P,Cropland,0.01304471447497095
+Slovenia,Srgh,Plant Protection,Cropland,0.003956871593525631
+Slovenia,Sunf,Fuel,Cropland,0.05798153473847079
+Slovenia,Sunf,K,Cropland,0.004999087121879912
+Slovenia,Sunf,Labor,Cropland,0.0024897145085121357
+Slovenia,Sunf,Machinery,Cropland,0.22628453721453248
+Slovenia,Sunf,N,Cropland,0.014549581921889295
+Slovenia,Sunf,P,Cropland,0.004566330326254486
+Slovenia,Sunf,Plant Protection,Cropland,0.00810625773424748
+Slovenia,SwPo,Fuel,Cropland,0.13571780282329005
+Slovenia,SwPo,K,Cropland,0.016809189728279012
+Slovenia,SwPo,Labor,Cropland,0.044621845123211164
+Slovenia,SwPo,Machinery,Cropland,1.4915452494473749
+Slovenia,SwPo,N,Cropland,0.04892226861215533
+Slovenia,SwPo,P,Cropland,0.015354065841353364
+Slovenia,SwPo,Plant Protection,Cropland,0.5148985370101531
+Slovenia,Whea,Fuel,Cropland,0.037028521966585626
+Slovenia,Whea,K,Cropland,0.013966660083171666
+Slovenia,Whea,Labor,Cropland,0.015072748689985009
+Slovenia,Whea,Machinery,Cropland,0.1828076521163239
+Slovenia,Whea,N,Cropland,0.040649234570425
+Slovenia,Whea,P,Cropland,0.012757605926718
+Slovenia,Whea,Plant Protection,Cropland,0.01709794559174594
+Slovenia,Extensive Grassland,fertCost_N,Grassland,0.022435877883685
+Slovenia,Extensive Grassland,fertCost_P,Grassland,0.010578153635578704
+Slovenia,Extensive Grassland,fuelCost,Grassland,0.033847581077979715
+Slovenia,Extensive Grassland,labourCost,Grassland,0.04114185337354706
+Slovenia,Extensive Grassland,machCost,Grassland,0.10936741043860004
+Slovenia,Extensive Grassland,seedCost,Grassland,0.009304548231540869
+Slovenia,Grassland,fertCost_N,Grassland,0.05024301894705552
+Slovenia,Grassland,fertCost_P,Grassland,0.016399241443625208
+Slovenia,Grassland,fuelCost,Grassland,0.0474860752361897
+Slovenia,Grassland,labourCost,Grassland,0.07431268739952882
+Slovenia,Grassland,machCost,Grassland,0.12405986512833374
+Slovenia,Grassland,seedCost,Grassland,0.009187505102867147
+Slovakia,Barl,Fuel,Cropland,0.033891097940024734
+Slovakia,Barl,K,Cropland,0.011361942955563465
+Slovakia,Barl,Labor,Cropland,0.005227450910150268
+Slovakia,Barl,Machinery,Cropland,0.17135063428726324
+Slovakia,Barl,N,Cropland,0.033068341437833965
+Slovakia,Barl,P,Cropland,0.01037837177433558
+Slovakia,Barl,Plant Protection,Cropland,0.003489236647619137
+Slovakia,BeaD,Fuel,Cropland,0.0693844730351348
+Slovakia,BeaD,K,Cropland,0.00884796804069646
+Slovakia,BeaD,Labor,Cropland,0.002377231711043875
+Slovakia,BeaD,Machinery,Cropland,0.19968126848630274
+Slovakia,BeaD,N,Cropland,0.025751548775161334
+Slovakia,BeaD,P,Cropland,0.008082024538666018
+Slovakia,BeaD,Plant Protection,Cropland,0.00230755429643634
+Slovakia,Cass,Fuel,Cropland,0.12958311630682232
+Slovakia,Cass,K,Cropland,0.02452219388482158
+Slovakia,Cass,Labor,Cropland,0.011794311930918414
+Slovakia,Cass,Machinery,Cropland,0.9886295624039391
+Slovakia,Cass,N,Cropland,0.07137056429164489
+Slovakia,Cass,P,Cropland,0.022399377100762397
+Slovakia,Cass,Plant Protection,Cropland,0.19335498765631545
+Slovakia,ChkP,Fuel,Cropland,0.0693844730351348
+Slovakia,ChkP,K,Cropland,0.00884796804069646
+Slovakia,ChkP,Labor,Cropland,0.002377231711043875
+Slovakia,ChkP,Machinery,Cropland,0.19968126848630274
+Slovakia,ChkP,N,Cropland,0.025751548775161334
+Slovakia,ChkP,P,Cropland,0.008082024538666018
+Slovakia,ChkP,Plant Protection,Cropland,0.00230755429643634
+Slovakia,Corn,Fuel,Cropland,0.10955045742544135
+Slovakia,Corn,K,Cropland,0.01674422930461385
+Slovakia,Corn,Labor,Cropland,0.008628638588723847
+Slovakia,Corn,Machinery,Cropland,0.3270731056291101
+Slovakia,Corn,N,Cropland,0.04873320469253285
+Slovakia,Corn,P,Cropland,0.01529472885734877
+Slovakia,Corn,Plant Protection,Cropland,0.003345575977523193
+Slovakia,Gnut,Fuel,Cropland,0.0693844730351348
+Slovakia,Gnut,K,Cropland,0.00884796804069646
+Slovakia,Gnut,Labor,Cropland,0.002377231711043875
+Slovakia,Gnut,Machinery,Cropland,0.19968126848630274
+Slovakia,Gnut,N,Cropland,0.025751548775161334
+Slovakia,Gnut,P,Cropland,0.008082024538666018
+Slovakia,Gnut,Plant Protection,Cropland,0.00230755429643634
+Slovakia,Mill,Fuel,Cropland,0.033891097940024734
+Slovakia,Mill,K,Cropland,0.011361942955563465
+Slovakia,Mill,Labor,Cropland,0.005227450910150268
+Slovakia,Mill,Machinery,Cropland,0.17135063428726324
+Slovakia,Mill,N,Cropland,0.033068341437833965
+Slovakia,Mill,P,Cropland,0.01037837177433558
+Slovakia,Mill,Plant Protection,Cropland,0.003489236647619137
+Slovakia,Pota,Fuel,Cropland,0.12958311630682232
+Slovakia,Pota,K,Cropland,0.02452219388482158
+Slovakia,Pota,Labor,Cropland,0.011794311930918414
+Slovakia,Pota,Machinery,Cropland,0.9886295624039391
+Slovakia,Pota,N,Cropland,0.07137056429164489
+Slovakia,Pota,P,Cropland,0.022399377100762397
+Slovakia,Pota,Plant Protection,Cropland,0.19335498765631545
+Slovakia,Rape,Fuel,Cropland,0.05453614547230219
+Slovakia,Rape,K,Cropland,0.011454646570903814
+Slovakia,Rape,Labor,Cropland,0.001599228885476361
+Slovakia,Rape,Machinery,Cropland,0.20137003634044606
+Slovakia,Rape,N,Cropland,0.03333815046755588
+Slovakia,Rape,P,Cropland,0.010463050300586767
+Slovakia,Rape,Plant Protection,Cropland,0.007188666839744736
+Slovakia,Rice,Fuel,Cropland,0.03407984786667092
+Slovakia,Rice,K,Cropland,0
+Slovakia,Rice,Labor,Cropland,0.02094269977548571
+Slovakia,Rice,Machinery,Cropland,0.1611304822108008
+Slovakia,Rice,N,Cropland,0
+Slovakia,Rice,P,Cropland,0
+Slovakia,Rice,Plant Protection,Cropland,0.006153242870094067
+Slovakia,Soya,Fuel,Cropland,0.0693844730351348
+Slovakia,Soya,K,Cropland,0.00884796804069646
+Slovakia,Soya,Labor,Cropland,0.002377231711043875
+Slovakia,Soya,Machinery,Cropland,0.19968126848630274
+Slovakia,Soya,N,Cropland,0.025751548775161334
+Slovakia,Soya,P,Cropland,0.008082024538666018
+Slovakia,Soya,Plant Protection,Cropland,0.00230755429643634
+Slovakia,Srgh,Fuel,Cropland,0.10955045742544135
+Slovakia,Srgh,K,Cropland,0.01674422930461385
+Slovakia,Srgh,Labor,Cropland,0.008628638588723847
+Slovakia,Srgh,Machinery,Cropland,0.3270731056291101
+Slovakia,Srgh,N,Cropland,0.04873320469253285
+Slovakia,Srgh,P,Cropland,0.01529472885734877
+Slovakia,Srgh,Plant Protection,Cropland,0.003345575977523193
+Slovakia,Sunf,Fuel,Cropland,0.05453614547230219
+Slovakia,Sunf,K,Cropland,0.011454646570903814
+Slovakia,Sunf,Labor,Cropland,0.001599228885476361
+Slovakia,Sunf,Machinery,Cropland,0.20137003634044606
+Slovakia,Sunf,N,Cropland,0.03333815046755588
+Slovakia,Sunf,P,Cropland,0.010463050300586767
+Slovakia,Sunf,Plant Protection,Cropland,0.007188666839744736
+Slovakia,SwPo,Fuel,Cropland,0.12958311630682232
+Slovakia,SwPo,K,Cropland,0.02452219388482158
+Slovakia,SwPo,Labor,Cropland,0.011794311930918414
+Slovakia,SwPo,Machinery,Cropland,0.9886295624039391
+Slovakia,SwPo,N,Cropland,0.07137056429164489
+Slovakia,SwPo,P,Cropland,0.022399377100762397
+Slovakia,SwPo,Plant Protection,Cropland,0.19335498765631545
+Slovakia,Whea,Fuel,Cropland,0.03407984786667092
+Slovakia,Whea,K,Cropland,0.016852256590450067
+Slovakia,Whea,Labor,Cropland,0.004723322040922228
+Slovakia,Whea,Machinery,Cropland,0.1611304822108008
+Slovakia,Whea,N,Cropland,0.049047612464742735
+Slovakia,Whea,P,Cropland,0.01539340452739618
+Slovakia,Whea,Plant Protection,Cropland,0.015942201851163754
+Slovakia,Extensive Grassland,fertCost_N,Grassland,0.00832877350755207
+Slovakia,Extensive Grassland,fertCost_P,Grassland,0.013037405647716114
+Slovakia,Extensive Grassland,fuelCost,Grassland,0.022805328363070376
+Slovakia,Extensive Grassland,labourCost,Grassland,0.024376841866576886
+Slovakia,Extensive Grassland,machCost,Grassland,0.09503232185438855
+Slovakia,Extensive Grassland,seedCost,Grassland,0.006201103843898917
+Slovakia,Grassland,fertCost_N,Grassland,0.0530519096203358
+Slovakia,Grassland,fertCost_P,Grassland,0.05317639379638686
+Slovakia,Grassland,fuelCost,Grassland,0.05659730898303631
+Slovakia,Grassland,labourCost,Grassland,0.05324489551800983
+Slovakia,Grassland,machCost,Grassland,0.13304175899822768
+Slovakia,Grassland,seedCost,Grassland,0.010461186936336037
