@@ -3,6 +3,9 @@
 .RData
 .Ruserdata
 
-# Data: only the translators are versioned
+# Data: only the translators and the reference data in data/ are versioned
 inputs/
 outputs/
+
+# Model output GDX files are never versioned, wherever they are placed
+*.gdx
