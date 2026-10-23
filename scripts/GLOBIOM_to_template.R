@@ -1,22 +1,25 @@
 # =============================================================================
-# GLOBIOM (OUTPUT_AG_REG.csv) -> common GLOBIOM-style reporting format
+# GLOBIOM (output GDX) -> common GLOBIOM-style reporting format
 #
 # Run from anywhere inside the repository (project root is found via
 # AgEnRes_R.Rproj), e.g. from the repository root:
-#   Rscript scripts/GLOBIOM_to_template.R
+#   Rscript scripts/GLOBIOM_to_template.R [path/to/GLOBIOM_output.gdx]
 #
-# Source : inputs/template/OUTPUT_AG_REG.csv
-#          (Indicator,Unit,Region,Item,CostScenario,Year,Value)
+# Source : inputs/GLOBIOM/merged_AgEnRes.gdx (OUTPUT_AG_REG, OUTPUT, REGION_AG_MAP)
+#          inputs/GLOBIOM/FADN_costs/FADN_costs_country_USD2000_ha.csv (COST add-on)
+#          inputs/GLOBIOM/LAMASUS_costs_country_20260420.csv (cost per ha for VAAD)
 # Output : outputs/GLOBIOM/GLOBIOM_GLOBIOM_comprehensive.csv
 #          outputs/GLOBIOM/mapping_log.csv
+#          outputs/GLOBIOM/proposed_glossary_additions.csv
 #          outputs/GLOBIOM/README.md
 #
-# GLOBIOM already reports in the glossary vocabulary, so the translation is a
-# column rename / reorder plus Model = GLOBIOM. Codes and values are kept as
-# reported. Defaults of claude_GLOBIOM_AG_REG_conversion_instructions.md
-# section 9 (confirmed "keep it for now" by the project lead, 2026-10-22):
-#   A all indicators; B COST keeps the management part (crop|HI|Seeds);
-#   C GAMS 'Eps' (zero but present) written as 0; D FRTN kept in both units.
+# Reads the GDX directly and reports GLOBIOM in the AgMIP conventions of the
+# GLOBIOM_to_AgMIP routine (IIASA), see scripts/GLOBIOM_processing.R:
+#   Scenario = SCEN2 (BASE, EPS-S1, EPS-S2, EPS-S3); dry-matter series as
+#   <VAR>_dm; AgMIP units; World -> WLD; LAND, FOOD, FRTN/FRTP aggregates;
+#   economic indicators (scripts/GLOBIOM_econ_calc.R); FADN crop production
+#   costs (COST) appended unchanged. Replaces the earlier pass-through of the
+#   hand-built inputs/template/OUTPUT_AG_REG.csv.
 # =============================================================================
 
 find_root <- function(d = normalizePath(getwd(), winslash = "/")) {
@@ -29,106 +32,139 @@ find_root <- function(d = normalizePath(getwd(), winslash = "/")) {
 }
 ROOT <- find_root()
 source(file.path(ROOT, "scripts", "shared_conversion_helpers.R"))
+source(file.path(ROOT, "scripts", "GLOBIOM_processing.R"))
 
 MODEL       <- "GLOBIOM"
-SRC_REL     <- file.path("inputs", "template", "OUTPUT_AG_REG.csv")
+args        <- commandArgs(trailingOnly = TRUE)
+GDX_REL     <- if (length(args) >= 1) args[1] else file.path("inputs", "GLOBIOM", "merged_AgEnRes.gdx")
+FADN_REL    <- file.path("inputs", "GLOBIOM", "FADN_costs", "FADN_costs_country_USD2000_ha.csv")
+COSTS_REL   <- file.path("inputs", "GLOBIOM", "LAMASUS_costs_country_20260420.csv")
 OUT_DIR_REL <- file.path("outputs", "GLOBIOM")
 OUT_CSV     <- "GLOBIOM_GLOBIOM_comprehensive.csv"
 
-# -----------------------------------------------------------------------------
-# 1. Mapping tables
-# -----------------------------------------------------------------------------
-
-# Source column -> template column (Model is added as a constant).
-col_map <- data.table(
-  source_column   = c("CostScenario", "Region", "Item", "Indicator", "Year", "Unit", "Value"),
-  template_column = c("Scenario",     "Region", "Item", "Variable",  "Year", "Unit", "Value")
+# New codes: everything else is already in the GLOBIOM glossary / comprehensive file.
+ADDITIONS <- additions_table(
+  dimension = "Variable",
+  code = c("VAAD", "BUDG", "BUDG_1stP", "BUDG_2ndP"),
+  definition = c(
+    "Value added of agriculture: revenue - production costs + subsidies (Item CRP, LSP, TOT); EU regions only.",
+    "Agricultural subsidies (GLOBIOM BUDG) by sector (Item CRP, LSP, TOT); EU regions only.",
+    "CAP Pillar 1 payments (direct payments, EAGF); Item TOT; EU regions only.",
+    "CAP Pillar 2 payments (rural development, EAFRD); Item TOT; EU regions only."),
+  source_label = c("computed from OUTPUT (XPRP, Prod, Area, Feed, BUDG) and exogenous costs per ha",
+                   "OUTPUT BUDG", "OUTPUT BUDG, Pillar 1 payment codes", "OUTPUT BUDG, Pillar 2 payment codes"),
+  model = MODEL
 )
 
-# Variables in scope (decision A: all). Set to a vector of codes to restrict.
-SCOPE <- NULL
-
-# Non-numeric source values that are translated; anything else stops the run.
-# 'Eps' is GAMS's marker for a zero that is present in the solution.
-SPECIAL_VALUES <- c("Eps" = 0)
-
 # -----------------------------------------------------------------------------
-# 2. Read
+# 1. Read and map
 # -----------------------------------------------------------------------------
 
 log_msg("== %s converter ==", MODEL)
 vocab <- load_template_vocab(ROOT)
 
-src_path <- file.path(ROOT, SRC_REL)
-if (!file.exists(src_path)) stop("Source not found: ", SRC_REL)
+GLOBIOM.file <- if (file.exists(GDX_REL)) GDX_REL else file.path(ROOT, GDX_REL)
+costs.file   <- file.path(ROOT, COSTS_REL)
+fadn.file    <- file.path(ROOT, FADN_REL)
+for (f in c(GLOBIOM.file, costs.file, fadn.file)) if (!file.exists(f)) stop("Source not found: ", f)
+
 t0 <- Sys.time()
-src <- fread(src_path, colClasses = "character", na.strings = NULL, showProgress = FALSE)
-log_msg("Source: %s - %d rows (%.1fs)", SRC_REL, nrow(src), as.numeric(difftime(Sys.time(), t0, units = "secs")))
+output_ag <- read_output_ag_reg(GLOBIOM.file)
+scenarios <- sort(unique(output_ag$ALLSCEN3))
+log_msg("Source: %s - OUTPUT_AG_REG %d rows, scenarios %s (%.1fs)", GDX_REL, nrow(output_ag),
+        paste(scenarios, collapse = ", "), as.numeric(difftime(Sys.time(), t0, units = "secs")))
 
-miss <- setdiff(col_map$source_column, names(src))
-if (length(miss)) stop("Source columns missing: ", paste(miss, collapse = ", "))
-extra <- setdiff(names(src), col_map$source_column)
-if (length(extra)) stop("Unmapped source columns: ", paste(extra, collapse = ", "), ". Add them to col_map.")
+core <- map_output_ag(output_ag, MODEL)
+log_msg("OUTPUT_AG_REG mapped: %d rows", nrow(core))
 
-# -----------------------------------------------------------------------------
-# 3. Conversion
-# -----------------------------------------------------------------------------
+# Economic indicators: region_61 -> reporting region from REGION_AG_MAP
+region_map <- setDT(gamstransfer::readGDX(GLOBIOM.file, symbols = "REGION_AG_MAP")$REGION_AG_MAP$records)
+region_map <- unique(region_map[, .(region = as.character(uni_2), region_61 = as.character(uni_3))])
+suppressMessages(source(file.path(ROOT, "scripts", "GLOBIOM_econ_calc.R")))
+Econ_tidy[, Model := MODEL]
+log_msg("Economic indicators: %d rows", nrow(Econ_tidy))
 
-src[, value := suppressWarnings(as.numeric(Value))]
-src[, special := is.na(value) & Value %in% names(SPECIAL_VALUES)]
-src[special == TRUE, value := SPECIAL_VALUES[Value]]
-bad <- src[is.na(value) | !is.finite(value), unique(Value)]
-if (length(bad)) stop("Non-numeric values not covered by SPECIAL_VALUES: ", paste(head(bad, 10), collapse = ", "))
-n_special <- src[special == TRUE, .N, by = .(Indicator, Unit, Value)]
-log_msg("Special values translated: %d (%s)", sum(n_special$N), paste(names(SPECIAL_VALUES), "->", SPECIAL_VALUES, collapse = ", "))
+fadn <- fadn_cost_rows(fadn.file, scenarios, MODEL)
+log_msg("FADN costs: %d rows", nrow(fadn))
 
-src[, in_scope := is.null(SCOPE) | Indicator %in% SCOPE]
-x <- src[in_scope == TRUE]
-out <- x[, .(Model = MODEL, Scenario = CostScenario, Region, Item, Variable = Indicator,
-             Year, Unit, Value = value)]
+all_rows <- rbindlist(list(core, Econ_tidy, fadn), use.names = TRUE)
+out <- filter_reporting(all_rows)
+out[, Year := as.character(Year)]
 setcolorder(out, vocab$columns)
-log_msg("Rows: %d of %d source rows", nrow(out), nrow(src))
+log_msg("Rows: %d (%d before the reporting filters)", nrow(out), nrow(all_rows))
 
 # -----------------------------------------------------------------------------
-# 4. Validate and write (no additions: everything is GLOBIOM vocabulary)
+# 2. Validate and write
 # -----------------------------------------------------------------------------
 
 out_dir <- file.path(ROOT, OUT_DIR_REL)
-res <- validate_and_write(out, vocab, file.path(out_dir, OUT_CSV))
+res <- validate_and_write(out, vocab, file.path(out_dir, OUT_CSV), additions = ADDITIONS)
 
 # -----------------------------------------------------------------------------
-# 5. Mapping log: one row per source Indicator x Unit, plus column renames
+# 3. Mapping log: one row per output Variable x Unit
 # -----------------------------------------------------------------------------
 
+dm_src <- c(YILD_dm = "YILD", YIRF_dm = "YIRF", YIIR_dm = "YIIR", YEXO_dm = "YEXO", FOOD_dm = "food",
+            FEED_dm = "Feed", OTHU_dm = "OTHU", IMPO_dm = "IMPO", EXPO_dm = "EXPO", PROD_dm = "Prod",
+            CONS_dm = "CONS", NETT_dm = "NETT")
+describe <- function(v) {
+  if (v %in% names(dm_src)) return(c(dm_src[[v]], "OUTPUT_AG_REG", "dry-matter series renamed; unit label 1000 t dm / dm t/ha -> 1000 t / t/ha; value unchanged"))
+  switch(v,
+    ECH4_eq   = c("ECH4", "OUTPUT_AG_REG", "renamed; unit label Mt CO2eq/yr -> MtCO2e; value unchanged"),
+    EN2O_eq   = c("EN2O", "OUTPUT_AG_REG", "renamed; unit label Mt CO2eq/yr -> MtCO2e; value unchanged"),
+    ECH4      = c("CH4", "OUTPUT_AG_REG", "renamed; Mt CH4 -> kt CH4 (x 1000)"),
+    EN2O      = c("N2O", "OUTPUT_AG_REG", "renamed; Mt N2O -> kt N2O (x 1000)"),
+    PROTO     = c("NUTR", "OUTPUT_AG_REG", "gprot/cap/d rows only; renamed; value unchanged"),
+    PROTI     = c("NTRI", "OUTPUT_AG_REG", "gprot/cap/d rows only; renamed; value unchanged"),
+    FOOD      = c("food + WAST", "OUTPUT_AG_REG", "sum of food and waste (1000 t)"),
+    LAND      = c("LAND2", "OUTPUT_AG_REG", "land cover classes recoded (TOT, FOR, ECP, GRS, NLD, ONV); CRP = sum of crop classes; AGR = CRP + GRS"),
+    FRTN      = c("FRTIN + FRTON / FRTN", "OUTPUT_AG_REG", "inorganic + organic where the split exists for the item, otherwise FRTN"),
+    FRTP      = c("FRTIP + FRTOP / FRTP", "OUTPUT_AG_REG", "inorganic + organic where the split exists for the item, otherwise FRTP"),
+    VAAD      = c("XPRP, Prod, Area, Feed, BUDG", "OUTPUT + costs per ha", "computed: revenue - costs + subsidies, Mio -> bn"),
+    BUDG      = c("BUDG", "OUTPUT", "summed by sector, Mio -> bn"),
+    BUDG_1stP = c("BUDG (Pillar 1 codes)", "OUTPUT", "summed over payment codes, Mio -> bn"),
+    BUDG_2ndP = c("BUDG (Pillar 2 codes)", "OUTPUT", "summed over payment codes, Mio -> bn"),
+    COST      = c("COST", "FADN add-on", "appended unchanged"),
+    c(v, "OUTPUT_AG_REG", "unit label mapped to AgMIP where it differs; value unchanged"))
+}
 lbl <- vocab$variable_labels
-ind <- src[, .(n_src = .N, n_out = sum(in_scope), n_eps = sum(special)), by = .(Indicator, Unit)]
-setorder(ind, Indicator, Unit)
-var_log <- ind[, .(
-  source_file = SRC_REL, source_table_or_range = "column Indicator",
-  source_variable = Indicator,
-  source_label_or_definition = fifelse(is.na(lbl[Indicator]), NA_character_, unname(lbl[Indicator])),
-  source_unit = Unit, template_entry = Indicator, template_column_or_field = "Variable",
-  transformation = fifelse(n_eps > 0, sprintf("value unchanged; %d 'Eps' written as 0", n_eps), "value unchanged"),
+new_vars <- ADDITIONS[dimension == "Variable", code]
+log_rows <- out[, .(n_output_rows = .N), by = .(Variable, Unit)][order(Variable, Unit)]
+desc <- rbindlist(lapply(log_rows$Variable, function(v) as.list(setNames(describe(v), c("source_variable", "source_table_or_range", "transformation")))))
+log_rows <- cbind(log_rows, desc)
+var_log <- log_rows[, .(
+  source_file = fifelse(source_table_or_range == "FADN add-on", FADN_REL,
+                fifelse(Variable == "VAAD", paste(GDX_REL, COSTS_REL, sep = "; "), GDX_REL)),
+  source_table_or_range, source_variable,
+  source_label_or_definition = fifelse(is.na(lbl[Variable]), NA_character_, unname(lbl[Variable])),
+  template_entry = Variable, template_column_or_field = "Variable", transformation,
   output_unit = Unit,
-  mapping_status = fifelse(n_out > 0, "Direct", "Excluded"), confidence = "high",
-  n_output_rows = n_out,
-  notes = fifelse(Indicator == "COST", "Item crop|management|category kept as reported (decision B).",
-          fifelse(Indicator == "FRTN", "Reported in 1000 t and 1000 t dm; both kept (decision D).", NA_character_)),
-  exclusion_reason = fifelse(n_out > 0, NA_character_, "Outside SCOPE"))]
-col_log <- col_map[, .(source_file = SRC_REL, source_table_or_range = "header",
-                       source_variable = sprintf("(column %s)", source_column),
-                       template_entry = template_column, template_column_or_field = template_column,
-                       transformation = fifelse(source_column == template_column, "kept", "renamed"),
-                       mapping_status = "Direct", confidence = "high")]
-col_log <- rbind(col_log, data.table(source_file = SRC_REL, source_variable = "(column Model)",
-                                     template_entry = MODEL, template_column_or_field = "Model",
-                                     transformation = "constant", mapping_status = "Direct",
-                                     confidence = "high"), fill = TRUE)
+  mapping_status = fifelse(Variable %in% new_vars, "New code", "Direct"),
+  confidence = "high", n_output_rows,
+  notes = fifelse(Variable == "COST", "Item crop|management|cost item, USD 2000 per ha; EU27 ISO3 regions.",
+          fifelse(Variable %in% new_vars, "EU regions only (exogenous costs cover EU countries).", NA_character_)))]
+col_log <- data.table(
+  source_file = GDX_REL, source_table_or_range = "OUTPUT_AG_REG domains",
+  source_variable = c("(ALLSCEN2)", "(ANYREGION)", "(ITEM_AG)", "(VAR_ID)", "(Year)", "(VAR_UNIT)", "(value)", "(constant)"),
+  template_entry = c(vocab$columns[2:8], MODEL),
+  template_column_or_field = c(vocab$columns[2:8], "Model"),
+  transformation = c("SCEN2 only (SCEN1, SCEN3 constant per scenario)", "World -> WLD; ROW, CHE dropped",
+                     "kept; helper / SOC items dropped", "see variable rows", "2000-2100, 10-year steps",
+                     "AgMIP unit labels", "see variable rows", "constant"),
+  mapping_status = "Direct", confidence = "high")
 write_mapping_log(rbindlist(list(col_log, var_log), fill = TRUE), file.path(out_dir, "mapping_log.csv"))
 
 # -----------------------------------------------------------------------------
-# 6. README
+# 4. README
 # -----------------------------------------------------------------------------
+
+overview <- out[, .(rows = .N, regions = uniqueN(Region), years = paste(range(as.integer(Year)), collapse = "-")),
+                by = .(Source = fifelse(Variable == "COST", "FADN add-on",
+                                fifelse(Variable %in% new_vars, "economic indicators", "OUTPUT_AG_REG")))]
+spot <- out[(Scenario == "EPS-S1" & Region == "AUT" & Item == "Whea" & Variable == "Area" & Year == "2020") |
+            (Scenario == "EPS-S1" & Region == "AUT" & Item == "Whea|HI|Fertiliser" & Variable == "COST" & Year == "2030") |
+            (Scenario == "BASE" & Region == "WLD" & Item == "TOT" & Variable == "ECH4_eq" & Year == "2020") |
+            (Scenario == "BASE" & Region == "AUT" & Item == "TOT" & Variable == "VAAD" & Year == "2020")]
 
 readme <- c(
   "# GLOBIOM -> common GLOBIOM-style reporting format",
@@ -137,46 +173,65 @@ readme <- c(
   "",
   "## 1. Source overview",
   "",
-  sprintf("- File: `%s` (%d rows), columns `%s`.", SRC_REL, nrow(src), paste(names(src)[!names(src) %in% c("value", "special", "in_scope")], collapse = ", ")),
-  sprintf("- %d indicators, %d regions, scenarios %s, years %s.", uniqueN(src$Indicator), uniqueN(src$Region),
-          paste(sprintf("`%s`", unique(src$CostScenario)), collapse = ", "), paste(sort(unique(src$Year)), collapse = ", ")),
+  sprintf("- GDX: `%s`, symbol `OUTPUT_AG_REG` (%d records), plus `OUTPUT` and `REGION_AG_MAP` for the economic indicators.", GDX_REL, nrow(output_ag)),
+  sprintf("- Scenarios (SCEN2): %s.", paste(sprintf("`%s`", scenarios), collapse = ", ")),
+  sprintf("- FADN crop production costs: `%s` (exogenous add-on, documented in `inputs/GLOBIOM/FADN_costs/README.txt`).", FADN_REL),
+  sprintf("- Costs per ha for the value added: `%s` (EU countries).", COSTS_REL),
   "",
   "## 2. Output overview",
   "",
   sprintf("- File: `%s`", file.path(OUT_DIR_REL, OUT_CSV)),
-  sprintf("- Rows: %d (all source rows in scope).", nrow(out)),
-  readme_template_note(),
+  sprintf("- Rows: %d.", nrow(out)),
+  "",
+  md_table(overview),
+  "",
+  "- Columns fixed by `inputs/template/20260213_GLOBIOM_comprehensive.csv`: `Model, Scenario, Region, Item, Variable, Year, Unit, Value`; comma-separated, CRLF line endings, fields quoted only if they contain a comma.",
+  "- GLOBIOM is reported in the **AgMIP conventions** of the GLOBIOM_to_AgMIP routine (the vocabulary of the comprehensive file), not as a pass-through of the raw GLOBIOM codes. Unlike the partner models, a few values are therefore derived (see section 4).",
+  "- `Scenario` = the second scenario dimension of the GDX (SCEN2); SSP2 / RCP2.6 are not reported, as for the partner models.",
   "",
   "## 3. Mappings",
   "",
-  md_table(col_map[, .(`Source column` = source_column, `Template column` = template_column)]),
+  "See `mapping_log.csv` (one row per output Variable x Unit).",
   "",
-  sprintf("- `Model` = `%s` (constant).", MODEL),
-  "- All Variable, Item, Unit and Region codes are already GLOBIOM vocabulary; they are kept verbatim. No new codes.",
-  "- `COST` keeps the management part of Item (`<crop>|<HI/IR/LI/SS>|<category>`), as reported. Partner models have no management part; comparison is done via a crosswalk, not by rewriting Items.",
-  "- `FRTN` is reported in `1000 t` and `1000 t dm`; both are kept (Unit is part of the key).",
+  "- Dry-matter series as `<VAR>_dm` (e.g. `YILD_dm` in `t/ha` = GLOBIOM `YILD` in `dm t/ha`); fresh-weight series keep the GLOBIOM name.",
+  "- Unit labels: `Mt CO2eq/yr` -> `MtCO2e`, `USD 2000 per ton` -> `USD/t`, `Mln pers` -> `Million`, `Bn USD 2005` -> `bn USD 2005 MER`, `kg protein/ha` -> `kg prt/ha`, `gprot/cap/d` -> `gprt/cap/day`.",
+  "- `ECH4`/`EN2O` in `Mt CO2eq/yr` -> `ECH4_eq`/`EN2O_eq`; `PROTO`/`PROTI` = `NUTR`/`NTRI` protein rows.",
+  "- `Region`: `World` -> `WLD`; `ROW` and `CHE` not reported. Items `Meat`, `ALL`, `CER`, `LUC*`, `PEAT`, `BIOM`, `IP_Biomass`, ... not reported; soil carbon items (`SOC*`) not reported (not yet in the AgMIP template).",
+  "- `COST`: Item `crop|management|cost item` (e.g. `Whea|HI|Fertiliser`), `USD 2000 per ha`, EU27 countries as ISO3; values appended unchanged. Do not sum over Items (`Total` is included).",
   "- `CTAX` is reported per emission source with the same price for each source; when comparing with a single carbon price take one source, do not sum.",
   "",
   "## 4. Transformations",
   "",
-  "- **No value conversion.**",
-  sprintf("- %d values `Eps` (GAMS: zero but present) written as `0`.", sum(n_special$N)),
+  "- `LAND` from `LAND2`: `CRP` = sum of the crop land classes, `AGR` = `CRP` + `GRS`.",
+  "- `FOOD` = `food` + `WAST`.",
+  "- `FRTN`/`FRTP` = inorganic + organic (`FRTIN`+`FRTON`, `FRTIP`+`FRTOP`) where the split exists for the item, otherwise GLOBIOM's `FRTN`/`FRTP`.",
+  "- Physical CH4/N2O (if in the GDX): Mt -> kt.",
+  "- Economic indicators (`scripts/GLOBIOM_econ_calc.R`), `bn USD 2005 MER`, EU regions only: `VAAD` = revenue - costs + subsidies (crops: price x production - cost per ha x area; livestock: price x production - feed and grassland costs), `BUDG` = subsidies, `BUDG_1stP`/`BUDG_2ndP` = CAP Pillar 1 / 2 payments (`scripts/GLOBIOM_CAP_BUDG_pillar_mapping.md`). GLOBIOM prices and subsidies are USD 2000 and the costs EUR; no deflator or exchange rate is applied.",
+  "- GAMS `Eps` (zero but present) is read as 0.",
   "",
-  if (nrow(n_special)) md_table(n_special[, .(Variable = Indicator, Unit, rows = N)]),
+  "Spot check:",
   "",
-  "## 5. Validation",
+  md_table(spot),
+  "",
+  "## 5. Proposed glossary additions",
+  "",
+  additions_md(res),
+  "",
+  "## 6. Validation",
   "",
   readme_validation_note(),
   "",
   validation_md(res),
   "",
-  "## 6. Reproduction",
+  "## 7. Reproduction",
   "",
   "```",
   "Rscript scripts/GLOBIOM_to_template.R",
+  "Rscript scripts/GLOBIOM_to_template.R path/to/other_GLOBIOM_output.gdx",
   "```",
   "",
-  "- R package: `data.table` (and `readxl` for the glossary). Replace `inputs/template/OUTPUT_AG_REG.csv` and rerun; non-numeric values other than `Eps` stop the run."
+  "- R packages: `data.table`, `readxl`, `gamstransfer`, `dplyr`, `tidyr`.",
+  "- Inputs (not versioned): the GLOBIOM output GDX in `inputs/GLOBIOM/`, the FADN cost add-on in `inputs/GLOBIOM/FADN_costs/` and the cost file in `inputs/GLOBIOM/`. The run stops if SCEN2 does not identify the scenarios uniquely."
 )
 write_lines_lf(readme, file.path(out_dir, "README.md"))
-log_msg("== %s done ==", MODEL)
+log_msg("== %s done (%.1fs) ==", MODEL, as.numeric(difftime(Sys.time(), t0, units = "secs")))

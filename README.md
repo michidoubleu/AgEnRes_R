@@ -10,9 +10,12 @@ management, fuel use and fertiliser.
 Every translated file has the columns
 `Model, Scenario, Region, Item, Variable, Year, Unit, Value`. Codes follow
 the GLOBIOM glossary where they fit. Where nothing fits, a new code is
-proposed and listed in `proposed_glossary_additions.csv`. **Values are not
-converted** and keep the unit the model reports them in. The only exception
-is area, which is written as 1000 ha. Every baseline is called `BASE`.
+proposed and listed in `proposed_glossary_additions.csv`. **Values of the
+partner models are not converted** and keep the unit the model reports them
+in. The only exception is area, which is written as 1000 ha. GLOBIOM is the
+exception: it is read from its output GDX and reported in the AgMIP
+conventions of the comprehensive file (see below). Every baseline is called
+`BASE`.
 
 Inputs and outputs are not versioned (`inputs/`, `outputs/` are git-ignored).
 Every output folder has its own `README.md` and `mapping_log.csv`.
@@ -20,7 +23,7 @@ Every output folder has its own `README.md` and `mapping_log.csv`.
 ## Usage
 
 ```
-Rscript scripts/GLOBIOM_to_template.R
+Rscript scripts/GLOBIOM_to_template.R      # optional: path to another GLOBIOM output GDX
 Rscript scripts/FarmDyn_to_template.R
 Rscript scripts/AgriPolis_to_template.R
 Rscript scripts/OpenPROM_to_template.R
@@ -28,16 +31,28 @@ Rscript scripts/merge_template_outputs.R     # -> outputs/merged/AllModels_GLOBI
 Rscript -e "testthat::test_dir('tests/testthat')"
 ```
 
-The required packages are `data.table`, `readxl` and `testthat`. The shared
+The required packages are `data.table`, `readxl` and `testthat`; the GLOBIOM
+converter also needs `gamstransfer`, `dplyr` and `tidyr`. The shared
 validation and writing code is in `scripts/shared_conversion_helpers.R`.
 
 ## Models
 
 ### GLOBIOM
-- Source: `OUTPUT_AG_REG.csv`, 48 regions (countries and aggregates),
-  2000–2050 in 10-year steps, scenarios `BASE` and `EPS-S1` to `EPS-S3`.
-- Translated: all 59 variables, about 1.75 M rows. Only the columns are
-  renamed; codes and values are kept as reported. GAMS `Eps` is written as 0.
+- Source: the GLOBIOM output GDX `inputs/GLOBIOM/merged_AgEnRes.gdx`
+  (symbols `OUTPUT_AG_REG`, `OUTPUT`, `REGION_AG_MAP`), 48 regions (countries
+  and aggregates), 2000–2050 in 10-year steps, scenarios `BASE` and `EPS-S1`
+  to `EPS-S3` (GLOBIOM's second scenario dimension).
+- Exogenous inputs, also in `inputs/GLOBIOM/`: the FADN crop production cost
+  add-on `FADN_costs/FADN_costs_country_USD2000_ha.csv` (with its
+  `README.txt`) and the cost per ha file `LAMASUS_costs_country_20260420.csv`.
+- Translated (`scripts/GLOBIOM_to_template.R`, `GLOBIOM_processing.R`,
+  `GLOBIOM_econ_calc.R`), about 0.99 M rows, in the AgMIP conventions of the
+  comprehensive file: dry-matter series as `<VAR>_dm`, AgMIP units, `WLD`,
+  `LAND` / `FOOD` / `FRTN` aggregates; `ROW`, `CHE`, helper and soil carbon
+  items not reported.
+- Added: economic indicators `VAAD`, `BUDG`, `BUDG_1stP`, `BUDG_2ndP` (EU
+  regions, proposed glossary additions) and the FADN costs `COST` per ha
+  (`crop|management|cost item`, EU27 countries, appended unchanged).
 
 ### FarmDyn
 - Source: an Excel template for one representative German arable farm, 9
